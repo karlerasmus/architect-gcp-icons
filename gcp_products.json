@@ -1,0 +1,770 @@
+[
+    {
+        "product": "Industry-Solutions",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Retail",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/retail.svg"
+    },
+    {
+        "product": "Financial-Services",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/finance.svg"
+    },
+    {
+        "product": "Healthcare-and-Life-Sciences",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/hcls.svg"
+    },
+    {
+        "product": "Media-and-Entertainment",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/media.svg"
+    },
+    {
+        "product": "Telecommunications",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/telecommunications.svg"
+    },
+    {
+        "product": "Gaming",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/gaming.svg"
+    },
+    {
+        "product": "Manufacturing",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/manufacturing.svg"
+    },
+    {
+        "product": "Energy",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/energy.svg"
+    },
+    {
+        "product": "Government",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/government.svg"
+    },
+    {
+        "product": "Education",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/education.svg"
+    },
+    {
+        "product": "Small-and-Medium-Business",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/smb.svg"
+    },
+    {
+        "product": "Cloud-Natives",
+        "icon": "https://cloud.google.com//images/navigation/cloud-natives.svg"
+    },
+    {
+        "product": "Application-Modernization",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Artificial-Intelligence",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Business-Application-Platform",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Data-Management",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Infrastructure-Modernization",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Productivity-and-Collaboration",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Security",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Smart-Analytics",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Compute-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "Cloud-Storage",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudstorage"
+    },
+    {
+        "product": "Cloud-SDK",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudshell"
+    },
+    {
+        "product": "Cloud-SQL",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudsql"
+    },
+    {
+        "product": "Google-Kubernetes-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#kubernetesengine"
+    },
+    {
+        "product": "BigQuery",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigquery"
+    },
+    {
+        "product": "Cloud-CDN",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcdn"
+    },
+    {
+        "product": "Dataflow",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddataflow"
+    },
+    {
+        "product": "Operations",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#stackdriver"
+    },
+    {
+        "product": "Cloud-Run",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudrun"
+    },
+    {
+        "product": "Cloud-Functions",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudfunctions"
+    },
+    {
+        "product": "AI-and-Machine-Learning",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Speech-to-Text",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudspeechapi"
+    },
+    {
+        "product": "Vision-AI",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudvisionapi"
+    },
+    {
+        "product": "Text-to-Speech",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudtexttospeech"
+    },
+    {
+        "product": "Cloud-Translation",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudtranslationapi"
+    },
+    {
+        "product": "Cloud-Natural-Language",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudnaturallanguageapi"
+    },
+    {
+        "product": "AutoML",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#automl"
+    },
+    {
+        "product": "AI-Platform",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#aiplatform"
+    },
+    {
+        "product": "Video-AI",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudvideointelligenceapi"
+    },
+    {
+        "product": "AI-Infrastructure",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#aiplatform"
+    },
+    {
+        "product": "Dialogflow",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#dialogflow"
+    },
+    {
+        "product": "AutoML-Tables",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#automltables"
+    },
+    {
+        "product": "Apigee-API-Platform",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Analyze-APIs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apianalytics"
+    },
+    {
+        "product": "Monetize-APIs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apimonetization"
+    },
+    {
+        "product": "Apigee-Hybrid",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Apigee-Sense",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeesense"
+    },
+    {
+        "product": "Cloud-Endpoints",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudendpoints"
+    },
+    {
+        "product": "Developer-Portal",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#developerportal"
+    },
+    {
+        "product": "Apigee-Healthcare-APIx",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Apigee-Open-Banking-APIx",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Cloud-Healthcare-API",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#healthcareapi"
+    },
+    {
+        "product": "AppSheet",
+        "icon": "https://cloud.google.com//images/navigation/products/appsheet-icon.svg"
+    },
+    {
+        "product": "Compute",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Compute-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "App-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#appengine"
+    },
+    {
+        "product": "Cloud-GPUs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#gpu"
+    },
+    {
+        "product": "Migrate-for-Compute-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#migrateforcomputeengine"
+    },
+    {
+        "product": "Preemptible-VMs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "Shielded-VMs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "Sole-Tenant-Nodes",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "Bare-Metal",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/bare-metal.svg"
+    },
+    {
+        "product": "Recommender",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/recommender.svg"
+    },
+    {
+        "product": "VMware-Engine",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/vmware-engine.svg"
+    },
+    {
+        "product": "Cloud-Run",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-run.svg"
+    },
+    {
+        "product": "Containers",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Google-Kubernetes-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#kubernetesengine"
+    },
+    {
+        "product": "Container-Registry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#containerregistry"
+    },
+    {
+        "product": "Container-Security",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#kubernetesengine"
+    },
+    {
+        "product": "Cloud-Build",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudbuild"
+    },
+    {
+        "product": "Deep-Learning-Containers",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#aiplatform"
+    },
+    {
+        "product": "Kubernetes-Applications",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#kubernetesengine"
+    },
+    {
+        "product": "Artifact-Registry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#containerregistry"
+    },
+    {
+        "product": "Knative",
+        "icon": "https://cloud.google.com//images/navigation/products/knative.svg"
+    },
+    {
+        "product": "Cloud-Run",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-run.svg"
+    },
+    {
+        "product": "Cloud-Code",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-code.svg"
+    },
+    {
+        "product": "Data-Analytics",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "BigQuery",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigquery"
+    },
+    {
+        "product": "Looker",
+        "icon": "https://cloud.google.com//images/navigation/products/cloud-looker.svg"
+    },
+    {
+        "product": "Dataflow",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddataflow"
+    },
+    {
+        "product": "Pub/Sub",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudpubsub"
+    },
+    {
+        "product": "Dataproc",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddataproc"
+    },
+    {
+        "product": "Cloud-Data-Fusion",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddatafusion"
+    },
+    {
+        "product": "Cloud-Composer",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-composer.svg"
+    },
+    {
+        "product": "Data-Catalog",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-data-catalog.svg"
+    },
+    {
+        "product": "Dataprep",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddataprep"
+    },
+    {
+        "product": "Google-Data-Studio",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#datastudio"
+    },
+    {
+        "product": "Google-Marketing-Platform",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudformarketing"
+    },
+    {
+        "product": "Cloud-Life-Sciences",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#genomics"
+    },
+    {
+        "product": "Databases",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Bigtable",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigtable"
+    },
+    {
+        "product": "Firestore",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudfirestore"
+    },
+    {
+        "product": "Memorystore",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudmemorystore"
+    },
+    {
+        "product": "Cloud-Spanner",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudspanner"
+    },
+    {
+        "product": "Cloud-SQL",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudsql"
+    },
+    {
+        "product": "Firebase-Realtime-Database",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/firebase.svg"
+    },
+    {
+        "product": "Developer-Tools",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-SDK",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode"
+    },
+    {
+        "product": "Container-Registry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#containerregistry"
+    },
+    {
+        "product": "Cloud-Build",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudbuild"
+    },
+    {
+        "product": "Cloud-Source-Repositories",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#logging"
+    },
+    {
+        "product": "Cloud-Scheduler",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudscheduler"
+    },
+    {
+        "product": "Tekton",
+        "icon": "https://cloud.google.com//images/navigation/products/tekton.png"
+    },
+    {
+        "product": "Cloud-Tasks",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudtasks"
+    },
+    {
+        "product": "Cloud-Code",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode"
+    },
+    {
+        "product": "Tools-for-Visual-Studio",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode"
+    },
+    {
+        "product": "Tools-for-Eclipse",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode"
+    },
+    {
+        "product": "Cloud-Code-for-IntelliJ",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode"
+    },
+    {
+        "product": "Apigee-Healthcare-APIx",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Cloud-Healthcare-API",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#healthcareapi"
+    },
+    {
+        "product": "Cloud-Life-Sciences",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#genomics"
+    },
+    {
+        "product": "Healthcare-Natural-Language-AI",
+        "icon": "https://cloud.google.com//images/navigation/products/healthcare.svg"
+    },
+    {
+        "product": "Hybrid-and-Multi-cloud",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#anthos"
+    },
+    {
+        "product": "Cloud-Run-for-Anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudrun"
+    },
+    {
+        "product": "Google-Cloud-Marketplace-for-Anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#marketplace"
+    },
+    {
+        "product": "Migrate-for-Anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#migrateforanthos"
+    },
+    {
+        "product": "Operations",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#stackdriver"
+    },
+    {
+        "product": "Cloud-Build",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudbuild"
+    },
+    {
+        "product": "Traffic-Director",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#trafficdirector"
+    },
+    {
+        "product": "Apigee-API-Management",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform"
+    },
+    {
+        "product": "Cloud-IoT-Core",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudiotcore"
+    },
+    {
+        "product": "Edge-TPU",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudiotedge"
+    },
+    {
+        "product": "Management-Tools",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Shell",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudshell"
+    },
+    {
+        "product": "Cloud-Console",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic"
+    },
+    {
+        "product": "Cloud-Deployment-Manager",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddeploymentmanager"
+    },
+    {
+        "product": "Cloud-Mobile-App",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic"
+    },
+    {
+        "product": "Cloud-APIs",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudapis"
+    },
+    {
+        "product": "Private-Catalog",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#marketplace"
+    },
+    {
+        "product": "Cost-Management",
+        "icon": "https://cloud.google.com//images/navigation/products/billing.png"
+    },
+    {
+        "product": "Game-Servers",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudgameservers"
+    },
+    {
+        "product": "OpenCue",
+        "icon": "https://cloud.google.com//images/navigation/products/opencue.png"
+    },
+    {
+        "product": "Migration",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "BigQuery-Data-Transfer-Service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigquery"
+    },
+    {
+        "product": "Cloud-Data-Transfer",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transfer"
+    },
+    {
+        "product": "Cloud-Foundation-Toolkit",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic"
+    },
+    {
+        "product": "Transfer-Service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transfer"
+    },
+    {
+        "product": "Migrate-for-Anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#migrateforanthos"
+    },
+    {
+        "product": "Migrate-for-Compute-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#migrateforcomputeengine"
+    },
+    {
+        "product": "Transfer-Appliance",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transferappliance"
+    },
+    {
+        "product": "VM-Migration",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine"
+    },
+    {
+        "product": "Networking",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Armor",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudarmor"
+    },
+    {
+        "product": "Cloud-CDN",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcdn"
+    },
+    {
+        "product": "Cloud-DNS",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddns"
+    },
+    {
+        "product": "Cloud-Load-Balancing",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudloadbalancing"
+    },
+    {
+        "product": "Cloud-NAT",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudnat"
+    },
+    {
+        "product": "Hybrid-Connectivity",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudinterconnect"
+    },
+    {
+        "product": "Network-Intelligence-Center",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/network-intelligence.svg"
+    },
+    {
+        "product": "Network-Service-Tiers",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#networktiers"
+    },
+    {
+        "product": "Network-Telemetry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#virtualprivatecloud"
+    },
+    {
+        "product": "Traffic-Director",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#trafficdirector"
+    },
+    {
+        "product": "Virtual-Private-Cloud",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#virtualprivatecloud"
+    },
+    {
+        "product": "Service-Directory",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#servicediscovery"
+    },
+    {
+        "product": "Operations",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Logging",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#logging"
+    },
+    {
+        "product": "Cloud-Monitoring",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#monitoring"
+    },
+    {
+        "product": "Error-Reporting",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#errorreporting2"
+    },
+    {
+        "product": "Kubernetes-Engine-Monitoring",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#kubernetesengine"
+    },
+    {
+        "product": "Service-Monitoring",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#monitoring"
+    },
+    {
+        "product": "Cloud-Trace",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#trace"
+    },
+    {
+        "product": "Cloud-Profiler",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#profiler"
+    },
+    {
+        "product": "Cloud-Debugger",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#debugger"
+    },
+    {
+        "product": "Transparent-Service-Level-Indicators",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#monitoring"
+    },
+    {
+        "product": "Security-and-Identity",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-IAM",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudiam"
+    },
+    {
+        "product": "Assured-Workloads",
+        "icon": "https://cloud.google.com//images/navigation/products/assured-workloads.svg"
+    },
+    {
+        "product": "Cloud-Key-Management",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#keymanagementservice"
+    },
+    {
+        "product": "Confidential-Computing",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/compute-engine.svg"
+    },
+    {
+        "product": "Security-Command-Center",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudsecuritycommandcenter"
+    },
+    {
+        "product": "Cloud-Data-Loss-Prevention",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddatalosspreventionapi"
+    },
+    {
+        "product": "Managed-Service-for-Microsoft-Active-Directory",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#managedserviceformicrosoftactivedirectory"
+    },
+    {
+        "product": "Access-Transparency",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#logging"
+    },
+    {
+        "product": "Titan-Security-Key",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#securitykeyenforcement"
+    },
+    {
+        "product": "Secret-Manager",
+        "icon": "https://cloud.google.com//images/navigation/products/secret-manager.svg"
+    },
+    {
+        "product": "Serverless-Computing",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Run",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudrun"
+    },
+    {
+        "product": "Cloud-Functions",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudfunctions"
+    },
+    {
+        "product": "App-Engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#appengine"
+    },
+    {
+        "product": "Workflows",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#workflows"
+    },
+    {
+        "product": "Storage",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg"
+    },
+    {
+        "product": "Cloud-Storage",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudstorage"
+    },
+    {
+        "product": "Filestore",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudfilestore"
+    },
+    {
+        "product": "Persistent-Disk",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#persistantdisk"
+    },
+    {
+        "product": "Cloud-Storage-for-Firebase",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/firebase.svg"
+    },
+    {
+        "product": "Local-SSD",
+        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/local-ssd.svg"
+    },
+    {
+        "product": "Archival-Storage",
+        "icon": "https://cloud.google.com//images/navigation/products/archival-storage.svg"
+    },
+    {
+        "product": "Cloud-Data-Transfer",
+        "icon": "https://cloud.google.com//images/navigation/products/cloud-data-transfer.svg"
+    },
+    {
+        "product": "Google-Workspace-Essentials",
+        "icon": "https://cloud.google.com//images/navigation/products/drive-enterprise.svg"
+    }
+]
