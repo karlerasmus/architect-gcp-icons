@@ -29,16 +29,16 @@ deactivate
 
 Snapshot requirements
 ```python
-pip freeze > requirements.txt
+pip3 freeze > requirements.txt
 ```
 
 Install pipdeptree for requirements management
 ```python
-pip install pipdeptree
+pip3 install pipdeptree
 ```
 Generate requirements.txt
 ```python
-python -m pipdeptree -f --warn silence | grep -P '^[\w0-9\-=.]+' > requirements-dev.txt
+python3 -m pipdeptree -f --warn silence | grep -P '^[\w0-9\-=.]+' > requirements-dev.txt
 ```
 
 

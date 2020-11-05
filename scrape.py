@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 # from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 
-url = 'https://cloud.google.com/'
+url = "https://cloud.google.com/"
 
 # create a new Chrome session
 options = Options()
@@ -25,10 +25,14 @@ prodList = []
 for product in products:
     title = product.parent.find('div', class_="devsite-nav-item-title")
     src = product.img['src']
+    typ = "img"
+    if "svg" in src:
+        typ = "svg"
+
     if src[0] == "/":
         src = url + src
-    id = title.string.strip().replace(" ", "-")
-    prodList.append({"product": id, "icon": src})
+    name = title.string.strip().lower().replace("/","").replace(" ", "_")
+    prodList.append({"name": name, "icon": src, "icon-type": typ})
 
 driver.quit()
 with open("gcp_products.json", "w") as fp:

@@ -1,0 +1,2205 @@
+sprite $gcp_industry_solutions [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_industry_solutions($alias,$desc=" ")
+rectangle $alias <<industry_solutions>> as "<$gcp_industry_solutions>
+$desc
+"
+
+sprite $gcp_retail [48x48/16z] {
+pTG7RW9144JHdjI1hVjVrsbTv15DvYdPKFfeemX-U9Cq_AboXU8mkKP3o5M0Q_UQqRWFfEpjNIy9X912vP85xPgz8j8dbFdydda2iddkhyfBe6Npt6VosHEw
+e5wpLzXLT_I2SisU-UG9BK2vPc_C9queyvDzAiyJcirpdytpX2Rpt6ycJwt9-VrCaNC2eMVrINwHQmHKPZu_xsk-3UrLzfMkeqrU_qNzLvUTxh-qoA6A417r
+LHEglj9pZt_pVoPalaiSK2onMIY8__iGOWcOu_v06q6DOiLpSAYOhtQnmICw_mJmS7UCXtjMDTOFVi6gJ9N99o_p3G
+}
+
+
+!unquoted procedure gcp_retail($alias,$desc=" ")
+rectangle $alias <<retail>> as "<$gcp_retail>
+$desc
+"
+
+sprite $gcp_financial_services [48x48/16z] {
+xT950WCn20NG-ATo_-lMZGtISNdh10-Jsfq7vwrcVnzB0rg9nlUPdf1DxojzLCFxJ3-o-ZxIBqJjVI6cQEyRCKrx3sBWVU-jf-z-8vHv-lVblmSkmt5lpdlc
+zlU32vFQNG4
+}
+
+
+!unquoted procedure gcp_financial_services($alias,$desc=" ")
+rectangle $alias <<financial_services>> as "<$gcp_financial_services>
+$desc
+"
+
+sprite $gcp_healthcare_and_life_sciences [48x48/16z] {
+xPG7aiKW34C_tKby_-jkzomIZBZ0rvIq5x2CxHVgSbOduimVv1vt7U0t_-RjZ7U_Nw77Yo21WN-51iHmdnmKzmIFZ-Olx_Gy55uvuEHUfDcwfEjYI7-yOGdU
+F6z2VBHP_VQSl0mfXaXR15PghpceuPSsM-r7ewWoIl4s3Glz1Txy5eNJxLyLBQFP5C5Col1nbpK3nSkfZ334P2WqjtP98JvHylYH-Knbn4UOYP_omMQ5Ns3m
+tmPydMF8smeSo_AGK-n2T33IlZbmWzHZzSITprCadjkmtig-ETOIryt19QwdAZ_hgQed9JS7-z5JbMIkj6wU13sP-mG
+}
+
+
+!unquoted procedure gcp_healthcare_and_life_sciences($alias,$desc=" ")
+rectangle $alias <<healthcare_and_life_sciences>> as "<$gcp_healthcare_and_life_sciences>
+$desc
+"
+
+sprite $gcp_media_and_entertainment [48x48/16z] {
+xT853aCn38FXSXqfzx_k8CBn_Z4yYwslt7HNnf7g77VRhypF3J2t2yNX0C9341w6y524XoCy9E5XWuC1fxW_FGc4-yMFpBpKC_DIWrwgq6iMvgMHcPVwK_t8
+ppllh4zyhmx_syl-_-AVdlJbMGC
+}
+
+
+!unquoted procedure gcp_media_and_entertainment($alias,$desc=" ")
+rectangle $alias <<media_and_entertainment>> as "<$gcp_media_and_entertainment>
+$desc
+"
+
+sprite $gcp_telecommunications [48x48/16z] {
+tPDNUiGm28JL3MBkVzqqyGMPU8doclz5QvLXbf8-oEblyFNwY1_sqD8hBlpGwcxBYrMt8pC5P3X7GzqKsxzzNou0YwueZpQpsTq_1_hwBatV4Uekg3IrepOx
+VR9U2AjIkTclAypuCarVNBjmGxtT_rhgscn4nAG11l8wwhVyxc464SdNVHEk64xVpZeHWx_rYxjlmcLjLYB195e9Cgj6HztpCnWGMbjJj-o-2cl-THKq_JNi
+7nfpwYfv9R6k2bQDc439i71LoYgtvhr9jlxQo3BTwuuMjUz0T-x0-y2qO2HMhWdPqaV9KuHDBMi71FERhF_0tdD90GtDjN24bQPiCnNFzbXCIGSC6EtW_fnL
+QQ0KuXfTIn1pRLbfMe88OTSsCIRfWyN9jpaAoIublvLWu1exX9eY11vE0GLKxp2EadzO0k5uAn0xAG4X1_qK9F-i11tjiIJrbNv_t6tft_4E
+}
+
+
+!unquoted procedure gcp_telecommunications($alias,$desc=" ")
+rectangle $alias <<telecommunications>> as "<$gcp_telecommunications>
+$desc
+"
+
+sprite $gcp_gaming [48x48/16z] {
+xT87hiGW30HGqsmSp_sl-nkhE3Y5LVjg-rJI1Z5OeGFk9usUI8mBFSend-XPdUELWkT6J4ifj5ag7i_q3dvZb6AOsG_z8SnS2WMA1PkwPLWAGrNbygioSrS3
+S4WmEDIBeqo2Hhlz0TY7ckOt3NAiN-QlL3BDRmhKyq2u2SAdZ6sTtyQ1VI_iAAm6lBEFvoa_px2ZhFjKTA-Mr_aCfPYA-VZDZxlE-u4hXDxGKSFVK_XIyTYq
+KJ9SiZJNDgJNEkKB-iebsCZ3NkkDBXcA7zttCLIwr61xRpz7Xz8DHJy41MsqINGZZKODujjiQ7IhOVFYm9WDFL38I8xxfjWeY8sqoWWL_B1CZ_A67ppkMGej
+LU52_-tZuni
+}
+
+
+!unquoted procedure gcp_gaming($alias,$desc=" ")
+rectangle $alias <<gaming>> as "<$gcp_gaming>
+$desc
+"
+
+sprite $gcp_manufacturing [48x48/16z] {
+xPDLOW1124EpmpYv_tLhgIlKxVsiZUN1ufost5V37Pv-RviNR0kzDt8PO8kqoFlDhflE7NZVk83X7C3Y5LVlWNaBdBDec2GvOBn2xnyTxmH8CpgWaQ10VlpR
+pwDSCvJtWJVEWETRTN6MP-hriEwTAz0d5tt5tG1irfVwJHZzq0Kn9eViTeGubAgG1q8egouHhhBAQO2giZHT0YWhDXj269bpEZYrpq0CfqdjXpkrQ6INsfHJ
+NKAKQwUvo3FhDDn6ZJlhj5-fpJdrgDFyhrdKhZcdWpFbjF89fmoG7lyj-ESK
+}
+
+
+!unquoted procedure gcp_manufacturing($alias,$desc=" ")
+rectangle $alias <<manufacturing>> as "<$gcp_manufacturing>
+$desc
+"
+
+sprite $gcp_energy [48x48/16z] {
+bTB5iKKn4CJGDboU_DFz-7XABhVMPocDwhBgONBBjx1ylSWp3ukVXl_X_PZtFxGBFF7aHtpLlDyZDitxxO-39vuzyqFpljyvUE3WWS_w5d5LzNjdH7-lVZxs
+my4JpvvvL0ryomShUUJ7dOC7dZpoLU3lF1_C7fPC7ZXqzsMMH-Qv_co6o-I2np2Jo-GokU0npEGokKmkucClpylpnV0cbybbSbMD-WO
+}
+
+
+!unquoted procedure gcp_energy($alias,$desc=" ")
+rectangle $alias <<energy>> as "<$gcp_energy>
+$desc
+"
+
+sprite $gcp_government [48x48/16z] {
+xT0r0iGW50JGmVN-vrsimg5PosjYNoQWYnl3iKrO7rY17KIvM1jxd29OO3fCDZpTcd2h6IPu6afHqBIAZuB858Gql-9a6olFChntL6ddwcKxQhMqZPhlUq56
+iGZY-Ic63Ko5qb3U1Xd7yW4EtDJB0_wOF8I_fOFH_GVLF_LF_LF_CxGvu_oP5m
+}
+
+
+!unquoted procedure gcp_government($alias,$desc=" ")
+rectangle $alias <<government>> as "<$gcp_government>
+$desc
+"
+
+sprite $gcp_education [48x48/16z] {
+tP87ZaCn24JT6zp_l2lIq62plOzwzC8yy0z_8hcyXKvzZ9vUIySwBcdnLNWPZvJNgMXwVa6bAOjIlefDTMy8AY3reifS8BNVji98OgPff7pnIKp431MZU3SS
+LtJPYfwEDrnqu-PMqIAeM6Yl60KtjOIjg22q6wYTX1bV2eVZzl9goiiMEDnMYBdo8hNCSDYAKZ1yOEx3IHTov-6qS4I7lzqMKsDmUFWqu2FmUBqjVla-Bwdm
+d2_m-k0jXbVoieQelCHZFfsFR-IfdkbC9puCvfaiU_izdeppOcwMBYIzpeRDLiHv6mwyMr69APkjzugLTVXuyU9ftYeQot2VnuhBtv2M1Az2jNmU5ctXBKab
+_DCy0G
+}
+
+
+!unquoted procedure gcp_education($alias,$desc=" ")
+rectangle $alias <<education>> as "<$gcp_education>
+$desc
+"
+
+sprite $gcp_small_and_medium_business [48x48/16z] {
+xT053e1034JHTR__TP4XWhTf1FqnvAsg_KmeYfqDfRN6nR4EkF2yIsqe1wDeh_s4lHvUA6zy7d5om8GtE5zD3c-4jn4uMhoH7fSHW5c-jM0M7qZ__EzfqrFy
+V_zolqpY-UUzjq-R7kEVV_-i1FuM_VK
+}
+
+
+!unquoted procedure gcp_small_and_medium_business($alias,$desc=" ")
+rectangle $alias <<small_and_medium_business>> as "<$gcp_small_and_medium_business>
+$desc
+"
+
+sprite $gcp_cloud_natives [48x48/16z] {
+vPE5SWKn24NZouNx_zzRR_C6sBgViPKpQ5B-7dK1LAp-CltW0sWl20xowAtKlenSp_gwHLtaU4ONOdiRP3-pXz1gsPZK4zj8pd81yWIB55VkfDHCjwYvTAmM
+PvvYv8os97cXGIWmgJEP4bbou2ggr4i3bmbM43z_xOHFsSzyyKCuSd_vUfgnPtur-fKDMazyy8Zl5NfpVXkM7D9kZCatBt0oZfxfMR-_nPy2EY0pjhioGNla
+6tMq4knBQU6jGrO_kBmFziplH5HEFf-e8FByRKUk8UMQSisuXXpNk7_ly5LtNtNtLPr_pUxVuVvzhlyVkG8
+}
+
+
+!unquoted procedure gcp_cloud_natives($alias,$desc=" ")
+rectangle $alias <<cloud_natives>> as "<$gcp_cloud_natives>
+$desc
+"
+
+sprite $gcp_application_modernization [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_application_modernization($alias,$desc=" ")
+rectangle $alias <<application_modernization>> as "<$gcp_application_modernization>
+$desc
+"
+
+sprite $gcp_artificial_intelligence [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_artificial_intelligence($alias,$desc=" ")
+rectangle $alias <<artificial_intelligence>> as "<$gcp_artificial_intelligence>
+$desc
+"
+
+sprite $gcp_business_application_platform [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_business_application_platform($alias,$desc=" ")
+rectangle $alias <<business_application_platform>> as "<$gcp_business_application_platform>
+$desc
+"
+
+sprite $gcp_data_management [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_data_management($alias,$desc=" ")
+rectangle $alias <<data_management>> as "<$gcp_data_management>
+$desc
+"
+
+sprite $gcp_infrastructure_modernization [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_infrastructure_modernization($alias,$desc=" ")
+rectangle $alias <<infrastructure_modernization>> as "<$gcp_infrastructure_modernization>
+$desc
+"
+
+sprite $gcp_productivity_and_collaboration [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_productivity_and_collaboration($alias,$desc=" ")
+rectangle $alias <<productivity_and_collaboration>> as "<$gcp_productivity_and_collaboration>
+$desc
+"
+
+sprite $gcp_security [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_security($alias,$desc=" ")
+rectangle $alias <<security>> as "<$gcp_security>
+$desc
+"
+
+sprite $gcp_smart_analytics [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_smart_analytics($alias,$desc=" ")
+rectangle $alias <<smart_analytics>> as "<$gcp_smart_analytics>
+$desc
+"
+
+sprite $gcp_compute_engine [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_compute_engine($alias,$desc=" ")
+rectangle $alias <<compute_engine>> as "<$gcp_compute_engine>
+$desc
+"
+
+sprite $gcp_cloud_storage [48x48/16z] {
+xTIr0S0030D1ixF_mc5cvg-lbU3XMPpod3I8quLUbddVsrDMuMtAGzPAxpLFK0ydFKAZNcyrJrYF-hpNVBVjtYe_tNBl1tjBlCO9pOaJol3m90ddn1OdB_-7
+V9qRzpwzn-rxnnb_idNlsprbtNNlopsCzXS1
+}
+
+
+!unquoted procedure gcp_cloud_storage($alias,$desc=" ")
+rectangle $alias <<cloud_storage>> as "<$gcp_cloud_storage>
+$desc
+"
+
+sprite $gcp_cloud_sdk [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_cloud_sdk($alias,$desc=" ")
+rectangle $alias <<cloud_sdk>> as "<$gcp_cloud_sdk>
+$desc
+"
+
+sprite $gcp_cloud_sql [48x48/16z] {
+jTG9YiOW50FWlbNlV-AXYuId3MC79kpovLzJZ_TuwB4VpyoUkmtBCxttb5rz-ZFnMqCZuS_ubeRlZJR4eU5BWshJrf5c2w_wFB7IqA8b4l5nwerzA3KRZS0f
+6grbJDxyR2m_UDmw5tyse169KxzwCoN_D_5hGpEP7v7wVyEpWicgSrctJGrP_y4QAGsYQIEW_OtEZPYqQl5cer5zoDYNJHu_2tm8fhvwD6uV2ltkRHogHIWU
+3Egn1sZkqS3MY5TR6j3uwhnHrpE-36yuqQmHuFPf3xQ_1sXnlWU1zsDh3t9wF85y3wROGyYdFJpQ_d4F6jjxaB_i0T5FzuCTB7mFl56zSraRiQNh_I0xkEvX
+lq7EVm
+}
+
+
+!unquoted procedure gcp_cloud_sql($alias,$desc=" ")
+rectangle $alias <<cloud_sql>> as "<$gcp_cloud_sql>
+$desc
+"
+
+sprite $gcp_google_kubernetes_engine [48x48/16z] {
+pTG7RiKm20PWTdB_4vTObX35HNI_ltqBVJWRE8S8FX5a3ytr3euuSGHdEaA3NHbtO1Xc8EvtAe1_Pqw5JYCidpVOdSFmjQDMiuVJOL3ewkjXK3qFc7_bzQZg
+KYd-TAOe5PEdh6i75d--8R3tb71UwFlxWxpUqiu8DjwKekFvIjTDdJUJNLgDUj-zVyAm8zSzy1vQPTSpltPAdOwz0TWBU3vv-SYZsCdVHaV_Q2d-KZ-jMZtl
+2yNPkmJnBdddnKnX1JMyxMFrxvez2yKTlVt5KLBEFZ_U_7Wj0o3xEYRhVEg6NZFWHeErMQLPf-reT5ciBD1s37Gxh_gEkQxpQjWnrp6lVY9l
+}
+
+
+!unquoted procedure gcp_google_kubernetes_engine($alias,$desc=" ")
+rectangle $alias <<google_kubernetes_engine>> as "<$gcp_google_kubernetes_engine>
+$desc
+"
+
+sprite $gcp_bigquery [48x48/16z] {
+jPK7SWCn30DPPV__m-bHe8EWT4prS5VTF5lZMJt6wAfq-pGvC5rdfGQbFXdxwqOFaTxH3lNEfpJuhl6EZsAq5DuBQH0mQErgfRMhf3W9LJiUND0MIYm6opWQ
+RadVZAyhJCtxEW6jnlCfGHCiTboFf6dBWSln4s-ue88gyyoquFdIOAuyyq7yF9Wjx__9utfmlypFQyjly72Uu4eUxmlVW-81uVSMnCC_O5uss5T-zu8TVyR2
+qu3ml4kzXu3ni5abyO2Fu2OJsALwnNlNhqfsav7RzjaklWYtUsw76HKmIes9trcOIePxv1CCE0dUWm8u2rPxklCD1q5FqM4c1OjYsbXObNvZvr6X47OA2stV
+4cvktn04BWI1oqGB_9n7
+}
+
+
+!unquoted procedure gcp_bigquery($alias,$desc=" ")
+rectangle $alias <<bigquery>> as "<$gcp_bigquery>
+$desc
+"
+
+sprite $gcp_cloud_cdn [48x48/16z] {
+pTI7JiHG34JHUNRMyFy_JB5uLv4t4aDdr5BEXUswNYmvWsSHM3oBmE9P11RF8h1u5873KmGUbuuEF2_jO3bU8d0ynuVb9NOOdgCEyFzyqTi7B4DQVRIktzK-
+OiT3ScdTSmxXZwdx0Cunl3t1u9p0syy0pXaSJm2VlZcU03vzSxm8ebvtJ5_JhtOtYU3igzw2d9m0ttm7EVaCeZb1JZw3Q4wGayyWcXFa5IVWY207trizxKyl
+4xV-Q6iypFTyn9axlrTnuexFW7i-0-xu7PJbjRzuDpuYLW0t0xWPmCq0RWPmRt7xvCTkxXa
+}
+
+
+!unquoted procedure gcp_cloud_cdn($alias,$desc=" ")
+rectangle $alias <<cloud_cdn>> as "<$gcp_cloud_cdn>
+$desc
+"
+
+sprite $gcp_dataflow [48x48/16z] {
+fPO7ZiKm24I70UFS_yA_c4Khf1X7-aybxIKPTwDY9kMQGx17_OC1YVXrNOOTz808nhLmR35Vh10sGpSqoF25wP-T-VjGGttvapXZmrI7-voA9r1r-MvuWEZ2
+5_hGJjyFnTM0NpzhgWiU2Bu-w86UR8HVccyNdC2_3zc6IZiGgjO-9NU-u0RR-YKTaSZHb_gpEvyVgi_M3whV8IARTDl6OdaTzU5TTNQzYizzkNd8y_Sh9D7b
+FzSdZjHqnv75dUyVMZ_oj7urX1GatFdAJV_V-HbQr4onK0zsmvrnRZvYkMYc8Gs8zCKyO3-vIVXfQzjGWNbYQ67nI_0kb1MxX-aJJr2tvSzfECEe4lNvPFcI
+R1_wjN3fR4iR0C_BxwZjOyllGkdDzg5VL0q5kk4ttW
+}
+
+
+!unquoted procedure gcp_dataflow($alias,$desc=" ")
+rectangle $alias <<dataflow>> as "<$gcp_dataflow>
+$desc
+"
+
+sprite $gcp_operations [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_operations($alias,$desc=" ")
+rectangle $alias <<operations>> as "<$gcp_operations>
+$desc
+"
+
+sprite $gcp_cloud_run [48x48/16z] {
+jSy7ZWGn24HHGhizzx_mHbP_Ggasbo88cqVyUx8pICMdwUO5h-ryTr9L-5I_XTVzsG6pWIe_1S6WyFCjAfrw07bJ2f0mUH0DFmy8apyWcc3o1v0lWhof1SYP
+Ie2SAGs8nHRaJIr0pbHqAOs90rWWJEu0RxfhzL8vcB-yvwEpBo8xkNTQqqarle8SymFbGz2pVr4gomE_u2ZB0n-EiJ00nraOQ3ZAGZH7M-2V3nmiYd_0CHO-
+p7bjBV0thuq5_e9ZB02A2elXKs4n_1CE5iFluHWB4m2siG3UnnGvC9EtQPPr-DJk86V69n439iy
+}
+
+
+!unquoted procedure gcp_cloud_run($alias,$desc=" ")
+rectangle $alias <<cloud_run>> as "<$gcp_cloud_run>
+$desc
+"
+
+sprite $gcp_cloud_functions [48x48/16z] {
+lTH7GaD130HHf9hW-vyOYoH2UvgipGzw1SvttvxusWho5azIy9j1YXLq83Yau12QrwJWgETA1uBRG7CT26w3REw3AD_S1UsRwndl_3P-hlR5ByvVrfD_vDju
+TWNb1-ozblDhxGLPlhZt5L1-rNXVCwz-Vi6lh_fetrzKTQ8zaF94-m0G9wU_ZpxHFY7qYVPw_j7Nvs5-skzHdha_uujJdWgytrTUFe7flo_5-_iuxVUnU7kc
+yyLfJvuzqDu7sJxem774pw_X8Z1S1ff_2CBp3lgUNuNYfrKeVbg5uhtwhxa7
+}
+
+
+!unquoted procedure gcp_cloud_functions($alias,$desc=" ")
+rectangle $alias <<cloud_functions>> as "<$gcp_cloud_functions>
+$desc
+"
+
+sprite $gcp_ai_and_machine_learning [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_ai_and_machine_learning($alias,$desc=" ")
+rectangle $alias <<ai_and_machine_learning>> as "<$gcp_ai_and_machine_learning>
+$desc
+"
+
+sprite $gcp_speech [48x48/16z] {
+xSf75e0W34LHIT__YlruxDsXm9j0ajkLc9gPbEoPcMuyemqtTECD5UcPEQqyORxnmwkJ7nr_zisJkzluPYVZQtW9hwEDZmWRty7ZvUpnPX_eisyU7wAqyWbp
+T-F7HZzMd1-xyMFb-rOF
+}
+
+
+!unquoted procedure gcp_speech-to-text($alias,$desc=" ")
+rectangle $alias <<speech-to-text>> as "<$gcp_speech-to-text>
+$desc
+"
+
+sprite $gcp_vision_ai [48x48/16z] {
+xPK53WCn30JFiGF__t3HxIfQosNkY2w9OLPqotTIBgeMLPKBXkkMSb7v-GqApbG7SfuBA6UgdnS2Kz6gfzM5Zgcwe3znYlO73VcJyf1yDIIpMsszQJGfBczZ
+I-E6MDB67gFtk7yudGOAN50kuu3hJKLIcqFpnx6yENKxWHgwbpS_QtCiFfTPnvgZlC_FVPlMrx7lWX1LlCFyLIPrXwVGPbS56ZKegQUZB5pA8U18wd48GL9M
+ZqEKG3q94SNFGXYhfo6CrFCGHkfv22FrF8IHUaerU-3_3lnP0m
+}
+
+
+!unquoted procedure gcp_vision_ai($alias,$desc=" ")
+rectangle $alias <<vision_ai>> as "<$gcp_vision_ai>
+$desc
+"
+
+sprite $gcp_text [48x48/16z] {
+tTG5OeC044JHMP_xNpY1hRV8rjkyAF1nmSsp2CEO51Ub62gs4emOxmL6WgG9oS98abHmyKDzlcHOIIJJnxsmbGpx8blEUk63sVuQoP0kHxsJTFZ_wEMjmpwt
+pFjxcxsg2dBRLayo4PjSz_ezjzhR5ddPzxTvzxd5NlNEUpxhaMo5OT-_J62s_Gin5-nxtRTlwcNyv4_d0YF2Uu4POol1a1R94Co92cxC5G
+}
+
+
+!unquoted procedure gcp_text-to-speech($alias,$desc=" ")
+rectangle $alias <<text-to-speech>> as "<$gcp_text-to-speech>
+$desc
+"
+
+sprite $gcp_cloud_translation [48x48/16z] {
+pPC5SWH130Db3-t_NnmlHL5TAKmTE6hxv07yBb5yH9_5d_eXv2n2WJ3Vv1_xdbvYm_lvu3wqqiS7s-VhWOl0HKeScw3ZOcXx7-43wPaX9Brbt8dco_R1mGZR
+Dg3Bi7qhcXrvvl6VmjgAPG_1IUTKsq7w4NHjnkaFVnqBa7BV3fGSgTovT6BLjU1G-rvaT2s8hJZ_Xz4pkKB7jEDyw4O7M734oNEAvVIx09V7kaSzUFGwxXpC
+HGRrgo1mpScvdLxak8xQ1DVLwvJMF5Wi1L9qEMe2uwhEewPqjg8kSPG50uzQFiCjC4mk2RV0m2NNwU7fxATReFYFtItWrw_7W67ztdk3q7hlYV_64m
+}
+
+
+!unquoted procedure gcp_cloud_translation($alias,$desc=" ")
+rectangle $alias <<cloud_translation>> as "<$gcp_cloud_translation>
+$desc
+"
+
+sprite $gcp_cloud_natural_language [48x48/16z] {
+xTH50WGn24JH0WOgzx_mkBUxvQr_InH7OwStHId_509ul1bAnSSSFSdmkwh_V-2LtlgKs6PUhXaV_yDMFVd-Vs_HIyJGNhHKTM-bPkxR___iyscbDjD3IkNv
+xDDNcx5NW6JRdic08EboLrNUAQzqxFjv_bu-KAgyA9TT
+}
+
+
+!unquoted procedure gcp_cloud_natural_language($alias,$desc=" ")
+rectangle $alias <<cloud_natural_language>> as "<$gcp_cloud_natural_language>
+$desc
+"
+
+sprite $gcp_automl [48x48/16z] {
+nPI5RaKn34CJ5___XnzQQrUm8jgEw86lh-E2_I40yVSt9tQZz1_Uebm-vAjx7zItVz4Fr3xn5e4Fm4uaAgE9MYTxecGxkI-yHOaFkAquLR507FOsi8ikO_7R
+geTAms5r_LCed-rRhRLy5eHGWtNZa7JRYtuSjjeH1t3i4lUjxeUDK-xsmDvbKtBurcNM1s_QEDgUU7XOCkbrbyH_bU_QdY-83aizOiEEHglUEAlSKcpOTO4H
+jESBIiIUjEYm94MxDD9eFnzPnu8D4h_CDm8Mt3R6zQVjJQGHzYeDWcdYzbg-NgyYZGWax6KY8oAHItkToAxu5_i_dW
+}
+
+
+!unquoted procedure gcp_automl($alias,$desc=" ")
+rectangle $alias <<automl>> as "<$gcp_automl>
+$desc
+"
+
+sprite $gcp_ai_platform [48x48/16z] {
+pPHPcWCX20PPrVkVUDG4GmjaNbEpPAlsWn_IyBkW7EQhTgXyVIZZeBbEhV07fNuh_RGYdfekdDyMyv7putbVPxuLCY_eUREG-ZYVICXoIhHi5kVhJbRcCup7
+wudq-E-JUz4oO98FGeqcVgjrIlEdl0o3VSRZGyTGHjWk70wDPUnGFJ8S51SdrX_NY7VLkD7WAsrqd3NoLUFjT_lWl917rNBvykX4x4JPy6d6_Fv9RommP4cw
+c4yiBNfcojuNY7JlyvKc1fsztkzfARvOxx_eOMBwVLvn8_1DvJTw4zOvzmaADFKrU6mZJkyFDbo-3gvzt5tSbNFfj_2zrohFeWlyp--XvUy-vtVp6BNOyUcm
+j5XFgeR5rxwfDHl0B_KZ94Zf2wHKVeSSBdo60jnOlmVuPVu
+}
+
+
+!unquoted procedure gcp_ai_platform($alias,$desc=" ")
+rectangle $alias <<ai_platform>> as "<$gcp_ai_platform>
+$desc
+"
+
+sprite $gcp_video_ai [48x48/16z] {
+xTG5biCm301HsuBa_XSkQ5_7ZSBBD8yAlm7PQNdN_lEKtJwh_fIiUxwN4zxBBLlnTS4hLpJpwWzlB_cz5j_CVVKHNqjaN97SqeblmuXN3f7VuNKSkuzlxobd
+mp-kvSbBN77F95Ay3EEpvqfI72jm-7gFErtnZkVc6UenRynbnsjapagrRJ_VEsgJsfRNCc_B-qalvxmngjNxhL7hkrJUT_viNThsSei7we1dYblUajUy_slK
+6B7Y-s2YjUUh3HElR6i8dZN3zoFsLMFNikI2JzMr_vyXUq1RtbAMV1ekdjhSitZuIPQI_64htwR_Mha2
+}
+
+
+!unquoted procedure gcp_video_ai($alias,$desc=" ")
+rectangle $alias <<video_ai>> as "<$gcp_video_ai>
+$desc
+"
+
+sprite $gcp_ai_infrastructure [48x48/16z] {
+pPHPcWCX20PPrVkVUDG4GmjaNbEpPAlsWn_IyBkW7EQhTgXyVIZZeBbEhV07fNuh_RGYdfekdDyMyv7putbVPxuLCY_eUREG-ZYVICXoIhHi5kVhJbRcCup7
+wudq-E-JUz4oO98FGeqcVgjrIlEdl0o3VSRZGyTGHjWk70wDPUnGFJ8S51SdrX_NY7VLkD7WAsrqd3NoLUFjT_lWl917rNBvykX4x4JPy6d6_Fv9RommP4cw
+c4yiBNfcojuNY7JlyvKc1fsztkzfARvOxx_eOMBwVLvn8_1DvJTw4zOvzmaADFKrU6mZJkyFDbo-3gvzt5tSbNFfj_2zrohFeWlyp--XvUy-vtVp6BNOyUcm
+j5XFgeR5rxwfDHl0B_KZ94Zf2wHKVeSSBdo60jnOlmVuPVu
+}
+
+
+!unquoted procedure gcp_ai_infrastructure($alias,$desc=" ")
+rectangle $alias <<ai_infrastructure>> as "<$gcp_ai_infrastructure>
+$desc
+"
+
+sprite $gcp_dialogflow [48x48/16z] {
+xTCt4i9040NHzJFtFp54c5wgIn7-nw_bLHwjpLvirEiy5gvPk6RXMWhLNdH25gvPkFQY2KJ04xXcuPg5QYzShuPYr-rgIib4iUlCEuzYr_0igEbPD6Xw5jJq
+BAZfML3Jiw2cvo8nUkxlwzMF0toMczMLlcZy5SFuWFQBMXLKBogk1-TQwC4FN5Hq00-cMlfeIkc7GdhUf_lWmTtpuEwZAw6V2h0UhRnq9m
+}
+
+
+!unquoted procedure gcp_dialogflow($alias,$desc=" ")
+rectangle $alias <<dialogflow>> as "<$gcp_dialogflow>
+$desc
+"
+
+sprite $gcp_automl_tables [48x48/16z] {
+nPK54i9G30NZwVqlZ4EQQHw3ioFO0kr-ev_1kOmmy7sPYLcN1I6Z7z3FITTHnHUKsET1DwpRrF9shR7XRakbHv3xhSUME3LkwVGGkHqO8umDvI84wJoDUqGu
+Ft6pSSGUQSdbHoWLgdtYC9qGFJsnpU1cjfP6Lr-53h1ttmxAr5BqW5p_egtMvFfzBV_4yQErxzVnZFhvjQ_SVBabbDOI-L4DlLf2NrVpdQjbz-NcLnK-bJAQ
+V1AFSOPbsIqGaU8PLd3v3oudAV_1rLf-cs4OuS-jLanl-GZLyWDRazY6Vsxg-R4ZIS78VEX85HXxn0aX8_H3zW
+}
+
+
+!unquoted procedure gcp_automl_tables($alias,$desc=" ")
+rectangle $alias <<automl_tables>> as "<$gcp_automl_tables>
+$desc
+"
+
+sprite $gcp_apigee_api_platform [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_api_platform($alias,$desc=" ")
+rectangle $alias <<apigee_api_platform>> as "<$gcp_apigee_api_platform>
+$desc
+"
+
+sprite $gcp_analyze_apis [48x48/16z] {
+xL9NOaCn3Agsxd_Y1ajFJlVkb-aC8F1w-5KS7D36f_ooyTu0ApyVQ8AKwNcc9n3Q0zik5akokn62kn1b6hlbG6SbI71LzOic-A-Wy5Qyq_4lsZeEkRtNo0mf
+HQV1CwsueeDMmNneI7HK5_LnMqqBLJ6F0cDKF3Jp6sugHSRkKlo18kEiAVE5Aa1SwLpsYk9CGQb16rR10jZjLi31ogkKXcq2g8srOYl0N-RB-_aOUhv-dikW
+P-lNrkTy49BBFKrsTpxL7r29z_dlYwUbB8dB-F9-vuFLZWiSlL2AUJzaERljgE1hSHFBzVHLFOeS40WtLNkYi6UZd-E0_DdxRoZcduNFie4mVYu8qpDg587o
+_pWuU0G
+}
+
+
+!unquoted procedure gcp_analyze_apis($alias,$desc=" ")
+rectangle $alias <<analyze_apis>> as "<$gcp_analyze_apis>
+$desc
+"
+
+sprite $gcp_monetize_apis [48x48/16z] {
+xP87RaCn34DDQjZtFt5hvGTXjzAz7jQ3GIz9emVDEFfOSMqUtJYiu4USh-_lGpd-Xw1lXcS6-pM9tA2HvrPaOTqyi_1tFP_Tz-lCu_1T7_omdiQb9EgA5P2Q
+i3mBD6hkujR8X_QtaJVrJa_5nqD8uzajmd6uYtyqSBShCfXhhHmdB3CeZaFNBN7okJPUxkKeZwqJah7oLQIiXwpxLgfB7YUVkjxmzNtp_taytzzGrtbJVpXZ
+ufHvBfyomoaUuu3ESSOkZhkEyHfk
+}
+
+
+!unquoted procedure gcp_monetize_apis($alias,$desc=" ")
+rectangle $alias <<monetize_apis>> as "<$gcp_monetize_apis>
+$desc
+"
+
+sprite $gcp_apigee_hybrid [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_hybrid($alias,$desc=" ")
+rectangle $alias <<apigee_hybrid>> as "<$gcp_apigee_hybrid>
+$desc
+"
+
+sprite $gcp_apigee_sense [48x48/16z] {
+fPLP6iCW28Hbz_udRdNIeXzDklsFoG03RkrlH1DwBzU-uE_rtbVU5-WRyaxEkzxUDHkxFeokaaSlXBuPJS7fUZAXpDIOnJe8kf0RrNQ2p-JEhpsM0Dt6no94
+MQ9QuarEFi5aA5xiZDWNnmy4kOeZMLF0ZzW8iEVVAEjKUqB0CGkbnzVJhS974xni3dcvTPdf4S3BKdfkWjZttHr2WA43a7hTdOm0ngJkSLJqfLj21SLGuws-
+qIn0CEIfh-rc3nVwOLfrP6I6dY_rg2tmSUJdjtg33wGVUaQ_LIyvl3bBGPXXmUey3Hj6PsPmxEpnfUhxt5Z8HYo2hWrsB3S1-M98Pa1YID-swux4OiP2a05i
+Q0WUmeGQG3rz1CmVDDMmXtGBbDNKLoYFIxqUWfukW6JnADTFtaiaTaTvyLgtRwIb1EDBDpN0kVZ4Ofu5T1TwphFlyXe0mWSTf9c2zGA6S0PdqhV9WRnzMtQe
+P7z3fBWiqzkUexs5V95B-vSR
+}
+
+
+!unquoted procedure gcp_apigee_sense($alias,$desc=" ")
+rectangle $alias <<apigee_sense>> as "<$gcp_apigee_sense>
+$desc
+"
+
+sprite $gcp_cloud_endpoints [48x48/16z] {
+xSzLWWGX38JXX22v_uLNQgnJKEyhyxSh7_OxUzTkqSs9kcrv8BVQJDIC2xJTzqHhqmIohPweQyrPv4eZH5Dej4Xfj4Xhj8WrtgxvHRJyf8bIluWYoXk6WdkA
+1iIaiQ2wtKNhRl0osTYxYnuNhUZ7LkT9uZYceKYk3lpmPuQXbJNyfoeYOcMkym3jgdbSZFngd0QOf45Hf1HfBl-4Y6CDQeaWubY31ecaHeYaHekqXaLQeqLQ
+eqLQWw8Z_lyj-oUz-mG
+}
+
+
+!unquoted procedure gcp_cloud_endpoints($alias,$desc=" ")
+rectangle $alias <<cloud_endpoints>> as "<$gcp_cloud_endpoints>
+$desc
+"
+
+sprite $gcp_developer_portal [48x48/16z] {
+xPG5ZZOW34IhG-z_uL_8DXdsSzSNW_QLu79plfZ7FroFaZsh6Q47xL4BkRT2qTwenlVeesV1CykTFlxRF9xE2jjJaB9YOz-4P3EdzfWJ5S83G8RkdAc1keec
+ICbadVr4iqQJTChCkRZDEO5zPEkBZqwim-ICjuxm7mA0jeBqPiuoMr_fBS46AN6I3vNOwSSMlSEytkui9v2jYyJ6HhYAM4wXuLwmRylooAVY85-CTFQLUh6-
+ghuDHAWmlthgfd83z728oM6R8TsjLrK8OwZQNH3zNP6zpnUloK1496g2epxGPeJin_9ek_44QW2XSck-_0K
+}
+
+
+!unquoted procedure gcp_developer_portal($alias,$desc=" ")
+rectangle $alias <<developer_portal>> as "<$gcp_developer_portal>
+$desc
+"
+
+sprite $gcp_apigee_healthcare_apix [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_healthcare_apix($alias,$desc=" ")
+rectangle $alias <<apigee_healthcare_apix>> as "<$gcp_apigee_healthcare_apix>
+$desc
+"
+
+sprite $gcp_apigee_open_banking_apix [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_open_banking_apix($alias,$desc=" ")
+rectangle $alias <<apigee_open_banking_apix>> as "<$gcp_apigee_open_banking_apix>
+$desc
+"
+
+sprite $gcp_cloud_healthcare_api [48x48/16z] {
+rPG5SiGm34N5xlqlND94cLQfyztbDx2G5uE8ZX1H4K9XJHZN4ypNGl3byGraqRVOaKMVR-1B58CGeb38vv7s20BnjoyiVx01ANOtfeJ_32iNQcR2YKI4SvSz
+PbYFuXp_eNESO3sfheMFCKmJEpf_RRW7L2RnuL-ro5NB5N_OB_fvSDyZmeMJzFDReyVJq_TfXKhtMvfwFNG_x7GoICqKmte-_UsKYliLvxcxv6iuV9uKVEil
+ERilMpHyeiTS1tfOWM7erL_OkFNghmAAFyph-wGgj8JGY_01
+}
+
+
+!unquoted procedure gcp_cloud_healthcare_api($alias,$desc=" ")
+rectangle $alias <<cloud_healthcare_api>> as "<$gcp_cloud_healthcare_api>
+$desc
+"
+
+sprite $gcp_appsheet [48x48/16z] {
+bTLLaaCn44FHIDsc_Izuo0weInEutyTK3tnv4W2IGGAmG31J2Zp3aQRWS-r7UEsvyVmNqvqwdbYt5sVvO9MR3KD0UxBrRKMl9RER3QiMhzPezI67ytgDEvV3
+URtw3K2irolXaTUJiDxhrGdZhJvxiTxh6NZqm5Ez1Y5U7rBLgm7Y8G-swXKeFkJ5ITM3g3wb8Rm3rKDzV-I9J_maNlicZzHuMgzxKQyTFW3lm_kPVC_FC__e
+yTJh0vZZfqxZQVtO9L_wlgS_zQWUnRT7trjBlk7l_AUexvksfx_piyJnzW4StjifWtVFukUQbVyKDm_ZbUzuVDtGMCfRlU-ela_3TvTTyN-y2rTFyKsvUB_0
+0_UUgIbNRv-nSEEH9Slp6m
+}
+
+
+!unquoted procedure gcp_appsheet($alias,$desc=" ")
+rectangle $alias <<appsheet>> as "<$gcp_appsheet>
+$desc
+"
+
+sprite $gcp_compute [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_compute($alias,$desc=" ")
+rectangle $alias <<compute>> as "<$gcp_compute>
+$desc
+"
+
+sprite $gcp_compute_engine [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_compute_engine($alias,$desc=" ")
+rectangle $alias <<compute_engine>> as "<$gcp_compute_engine>
+$desc
+"
+
+sprite $gcp_app_engine [48x48/16z] {
+xPG7kiCm28EB09dxNxWJrrycUNkgCyblfitfLqffB-99oWjma2zoOBpgPU6GU4auBmf8tLJTJnyeaUCeD0KvGEj4rGheJDZ5TKKrZgcl8XYP9uDTVCKZTg8f
+RqxDB_ebcmxwWn45sSriDMhQiXRCnJ8FvM47mz7jqYBG_OA6X8tq1o-P1_ANuTsGaBmjKTwaKxvduT6kuGsU13l_35y7Rn7Fn19aOJ_ZsUT7_9p4Jmhyfitw
+wBClSjDg_NtKFoJhlzDVHZEzogwuRVPtF614jDRYAgPRxEvFZvJrcyN-Xp62AXt7qVE5uiXFnuxK1nww45uuVru-tru-Fsib-QyB
+}
+
+
+!unquoted procedure gcp_app_engine($alias,$desc=" ")
+rectangle $alias <<app_engine>> as "<$gcp_app_engine>
+$desc
+"
+
+sprite $gcp_cloud_gpus [48x48/16z] {
+tTK7aiCm20LG-4B0_I-SWcTMZ8CsR2z_cifBRAlIIzHlqIZwFN8l8OfOwjzu71xt19htqeZYuBCMVptAVHunol7daSJHy7fGZJIy1Ho-egYJZQGoQ1FjUBpD
+GsklaKTlsQVlfNgLg9zygXTU_4qU_ZPlR_FgUr-CfwpPxem_qWffUBQrnBZX8RUaXYS-VTMamaTcvUsq7a8U1fNdzlY77_Gch_GcRxJnQOTcZqSVaklnbBVk
+tw_muutUTHDFFetFFcbyw1vk-5c-uJx87lQ6lu-8sZh5_5JKYRVUZ__F3xbbH75jROuYBtK5
+}
+
+
+!unquoted procedure gcp_cloud_gpus($alias,$desc=" ")
+rectangle $alias <<cloud_gpus>> as "<$gcp_cloud_gpus>
+$desc
+"
+
+sprite $gcp_migrate_for_compute_engine [48x48/16z] {
+nPK5WiCm30HbuVx_nNTXiAsKCsrup21w5tEb0LslbkaCW0O0bFdA3_fyir-OMG3m003PNsjTa26LhyZGZ_ZKvbtVC93uCpu_-uC-dlITPlWVItqRb4vx0mjH
+7kWVnWRVuXi64Z_f_yp7axx_gdzOtV6mpu6PqB9l7e8Qlc57yDNyyNHbL_rZE5Eo-IzhsZLXPFd7TclT6ctjvLRLlEyRwWGrc-zuC85kBGcTu2o1RBvNIy6g
+_NdfupZv9J0OtVtViM6B3kxwsj91NR-qT4lYezSwE8c_lEvag-wK8Kk2HC_Ya1UwG6AlqmFOQZCz1gkQIhdq_W
+}
+
+
+!unquoted procedure gcp_migrate_for_compute_engine($alias,$desc=" ")
+rectangle $alias <<migrate_for_compute_engine>> as "<$gcp_migrate_for_compute_engine>
+$desc
+"
+
+sprite $gcp_preemptible_vms [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_preemptible_vms($alias,$desc=" ")
+rectangle $alias <<preemptible_vms>> as "<$gcp_preemptible_vms>
+$desc
+"
+
+sprite $gcp_shielded_vms [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_shielded_vms($alias,$desc=" ")
+rectangle $alias <<shielded_vms>> as "<$gcp_shielded_vms>
+$desc
+"
+
+sprite $gcp_sole [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_sole-tenant_nodes($alias,$desc=" ")
+rectangle $alias <<sole-tenant_nodes>> as "<$gcp_sole-tenant_nodes>
+$desc
+"
+
+sprite $gcp_bare_metal [48x48/16z] {
+xP9LmeGm30Pf6hl_XN_ThBGCzio7qvdwSYLtpCxXcNOE1u7mta40V5aE2vxHVfyjqW_Z810E0k4WCCu2b48DYBF0E0kCi-2PiivBfjCsc08R0mJ2MM2ybJ3Z
+ibgvb33XQqtqZ3Oq_z1R3AsIK7XqME2NyC8bjZPGBw7mdWCEmW5SBB86w5wZoJ11E9_27wxvbrdfaQzO3TtobM6EcWt2WDlVAC2e-I6wel4cUBs7lWWqt96U
+HWwZP0DeZFWlxSB4R1HzBdU-0G
+}
+
+
+!unquoted procedure gcp_bare_metal($alias,$desc=" ")
+rectangle $alias <<bare_metal>> as "<$gcp_bare_metal>
+$desc
+"
+
+sprite $gcp_recommender [48x48/16z] {
+lTHH3WCX20JG6L3r_YUkgMH3LpHyzNrl1c1L_0_B0vCOdDJng01O5qLCXYC0j2v4g0sdOohrgo2YuqS18BUE-Z2vZifuQJPot167IUQtMxnUTcawh_lfuqLT
+Dx8Fc-Y6f_Ws4O0QB49tS9o244N2OJjY8i9ebtgAduA3qowV2_TX1I5PjbtMSxmLO6vO0xJSBWtHal46aXnsBt3VfQ4hm5kySR-tfE81IGyhTET74_6Ma1zs
+wRbTYdlQQYxUzFxxeYicJc4ye0LVnRrFb1Tif2uIVKvi_6ifRzZehHiUkz5aVCd66rxQ9m9wNWz2vLI02F4qCKnoeyI93-G3V_G1
+}
+
+
+!unquoted procedure gcp_recommender($alias,$desc=" ")
+rectangle $alias <<recommender>> as "<$gcp_recommender>
+$desc
+"
+
+sprite $gcp_vmware_engine [48x48/16z] {
+rTH7TWGX34NHhuZsls5d7O8CPcAx-quwrAiCOAM-fwWyzloVUkDA3hsYud_kMJk-w3KwBRr7zwozSQAhNj4zIY-UsbMlKLptJHDVzOxkhtiYlAazQRBi9zpc
+dZVhWwYfC03odtkoV882m0vzlGO2VEqzASeX6e7QqcFGj_QAzODysrjckQEWgpr5zhb3E_OIPGS-zHvb1rdUQcoMR_hQmK0nEIolNwDatsj4DFz0dtaeUDzB
+9FdAGq0-mO1A7ZZ9o8PlP_bQl_96EEEOC0xAU6wC2vQv4QwGgBiBuT-z0W
+}
+
+
+!unquoted procedure gcp_vmware_engine($alias,$desc=" ")
+rectangle $alias <<vmware_engine>> as "<$gcp_vmware_engine>
+$desc
+"
+
+sprite $gcp_cloud_run [48x48/16z] {
+jSy7ZWGn24HHGhizzx_mHbP_Ggasbo88cqVyUx8pICMdwUO5h-ryTr9L-5I_XTVzsG6pWIe_1S6WyFCjAfrw07bJ2f0mUH0DFmy8apyWcc3o1v0lWhof1SYP
+Ie2SAGs8nHRaJIr0pbHqAOs90rWWJEu0RxfhzL8vcB-yvwEpBo8xkNTQqqarle8SymFbGz2pVr4gomE_u2ZB0n-EiJ00nraOQ3ZAGZH7M-2V3nmiYd_0CHO-
+p7bjBV0thuq5_e9ZB02A2elXKs4n_1CE5iFluHWB4m2siG3UnnGvC9EtQPPr-DJk86V69n439iy
+}
+
+
+!unquoted procedure gcp_cloud_run($alias,$desc=" ")
+rectangle $alias <<cloud_run>> as "<$gcp_cloud_run>
+$desc
+"
+
+sprite $gcp_containers [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_containers($alias,$desc=" ")
+rectangle $alias <<containers>> as "<$gcp_containers>
+$desc
+"
+
+sprite $gcp_google_kubernetes_engine [48x48/16z] {
+pTG7RiKm20PWTdB_4vTObX35HNI_ltqBVJWRE8S8FX5a3ytr3euuSGHdEaA3NHbtO1Xc8EvtAe1_Pqw5JYCidpVOdSFmjQDMiuVJOL3ewkjXK3qFc7_bzQZg
+KYd-TAOe5PEdh6i75d--8R3tb71UwFlxWxpUqiu8DjwKekFvIjTDdJUJNLgDUj-zVyAm8zSzy1vQPTSpltPAdOwz0TWBU3vv-SYZsCdVHaV_Q2d-KZ-jMZtl
+2yNPkmJnBdddnKnX1JMyxMFrxvez2yKTlVt5KLBEFZ_U_7Wj0o3xEYRhVEg6NZFWHeErMQLPf-reT5ciBD1s37Gxh_gEkQxpQjWnrp6lVY9l
+}
+
+
+!unquoted procedure gcp_google_kubernetes_engine($alias,$desc=" ")
+rectangle $alias <<google_kubernetes_engine>> as "<$gcp_google_kubernetes_engine>
+$desc
+"
+
+sprite $gcp_container_registry [48x48/16z] {
+rTG5qZOX30FWje6qzx_mBsiTT3wNZ5AULpSWFpKAMSLc6ciFzAymx3sWhUwyGJkVhr0WVKwiyJan85_VJ2m7ES5Yinbg3j1_TrPSASxyYerNoP0ifuwWPEpn
+T6azQm4ZMYzU3byy1azwZ3vOJAgJzKMUT4B8btkolDzRVJnrupCulKDawpE5xaNanLwqghp4gxNEREkjxR5cLmO_z3ZNElNQzTYGIvtucZscYnWBhbJ7pFCI
+rUFmhBXxlV2ivTY-_F4AHgpyaOZBPuzstZiVt-MpnrSpItfgUj2zDZsEQwdrz6xd-Zyq0OfxzjZ3DTjM6Tdhu7t_PDMLw8wEFbi5Xy-ARTFTXz2jpkfgTdAL
+D6Wkv1KVleEzm8y7R-zj-45RhyFGDbvdKvNVcBy
+}
+
+
+!unquoted procedure gcp_container_registry($alias,$desc=" ")
+rectangle $alias <<container_registry>> as "<$gcp_container_registry>
+$desc
+"
+
+sprite $gcp_container_security [48x48/16z] {
+pTG7RiKm20PWTdB_4vTObX35HNI_ltqBVJWRE8S8FX5a3ytr3euuSGHdEaA3NHbtO1Xc8EvtAe1_Pqw5JYCidpVOdSFmjQDMiuVJOL3ewkjXK3qFc7_bzQZg
+KYd-TAOe5PEdh6i75d--8R3tb71UwFlxWxpUqiu8DjwKekFvIjTDdJUJNLgDUj-zVyAm8zSzy1vQPTSpltPAdOwz0TWBU3vv-SYZsCdVHaV_Q2d-KZ-jMZtl
+2yNPkmJnBdddnKnX1JMyxMFrxvez2yKTlVt5KLBEFZ_U_7Wj0o3xEYRhVEg6NZFWHeErMQLPf-reT5ciBD1s37Gxh_gEkQxpQjWnrp6lVY9l
+}
+
+
+!unquoted procedure gcp_container_security($alias,$desc=" ")
+rectangle $alias <<container_security>> as "<$gcp_container_security>
+$desc
+"
+
+sprite $gcp_cloud_build [48x48/16z] {
+fTG7agum30DWMqwx_udVv26Q1eB_MMtVV0PHxILklyGZmd_HCqXon1xaDUEPAlc9U0W-gsYGqkjI7kjyRHpBKW-B7fhtElxqlzT6_dMb2Muhk4vWTuGuIv6r
+LbdgMezUj-2bpTptZlE8fVMc6-JenEyJqRRKETdZAAMUfMfZtCpx69NhRxunqzKnHilvoJ3oFkQlUVzVZRoVl_MivxaSISzpEVA-y5pcFCzbqdlbkIJtfP_1
+SIv7Xzd2Ss0_bxriVq2zFAMiKwzQlKwWGfvvzLgAAokl4mZ9yYMkMbyqkeSNpU33moI-yAfrGhtRSo1-gJcX7hQCYxVF-CMxPG9wM3RWrz_p3m
+}
+
+
+!unquoted procedure gcp_cloud_build($alias,$desc=" ")
+rectangle $alias <<cloud_build>> as "<$gcp_cloud_build>
+$desc
+"
+
+sprite $gcp_deep_learning_containers [48x48/16z] {
+pPHPcWCX20PPrVkVUDG4GmjaNbEpPAlsWn_IyBkW7EQhTgXyVIZZeBbEhV07fNuh_RGYdfekdDyMyv7putbVPxuLCY_eUREG-ZYVICXoIhHi5kVhJbRcCup7
+wudq-E-JUz4oO98FGeqcVgjrIlEdl0o3VSRZGyTGHjWk70wDPUnGFJ8S51SdrX_NY7VLkD7WAsrqd3NoLUFjT_lWl917rNBvykX4x4JPy6d6_Fv9RommP4cw
+c4yiBNfcojuNY7JlyvKc1fsztkzfARvOxx_eOMBwVLvn8_1DvJTw4zOvzmaADFKrU6mZJkyFDbo-3gvzt5tSbNFfj_2zrohFeWlyp--XvUy-vtVp6BNOyUcm
+j5XFgeR5rxwfDHl0B_KZ94Zf2wHKVeSSBdo60jnOlmVuPVu
+}
+
+
+!unquoted procedure gcp_deep_learning_containers($alias,$desc=" ")
+rectangle $alias <<deep_learning_containers>> as "<$gcp_deep_learning_containers>
+$desc
+"
+
+sprite $gcp_kubernetes_applications [48x48/16z] {
+pTG7RiKm20PWTdB_4vTObX35HNI_ltqBVJWRE8S8FX5a3ytr3euuSGHdEaA3NHbtO1Xc8EvtAe1_Pqw5JYCidpVOdSFmjQDMiuVJOL3ewkjXK3qFc7_bzQZg
+KYd-TAOe5PEdh6i75d--8R3tb71UwFlxWxpUqiu8DjwKekFvIjTDdJUJNLgDUj-zVyAm8zSzy1vQPTSpltPAdOwz0TWBU3vv-SYZsCdVHaV_Q2d-KZ-jMZtl
+2yNPkmJnBdddnKnX1JMyxMFrxvez2yKTlVt5KLBEFZ_U_7Wj0o3xEYRhVEg6NZFWHeErMQLPf-reT5ciBD1s37Gxh_gEkQxpQjWnrp6lVY9l
+}
+
+
+!unquoted procedure gcp_kubernetes_applications($alias,$desc=" ")
+rectangle $alias <<kubernetes_applications>> as "<$gcp_kubernetes_applications>
+$desc
+"
+
+sprite $gcp_artifact_registry [48x48/16z] {
+rTG5qZOX30FWje6qzx_mBsiTT3wNZ5AULpSWFpKAMSLc6ciFzAymx3sWhUwyGJkVhr0WVKwiyJan85_VJ2m7ES5Yinbg3j1_TrPSASxyYerNoP0ifuwWPEpn
+T6azQm4ZMYzU3byy1azwZ3vOJAgJzKMUT4B8btkolDzRVJnrupCulKDawpE5xaNanLwqghp4gxNEREkjxR5cLmO_z3ZNElNQzTYGIvtucZscYnWBhbJ7pFCI
+rUFmhBXxlV2ivTY-_F4AHgpyaOZBPuzstZiVt-MpnrSpItfgUj2zDZsEQwdrz6xd-Zyq0OfxzjZ3DTjM6Tdhu7t_PDMLw8wEFbi5Xy-ARTFTXz2jpkfgTdAL
+D6Wkv1KVleEzm8y7R-zj-45RhyFGDbvdKvNVcBy
+}
+
+
+!unquoted procedure gcp_artifact_registry($alias,$desc=" ")
+rectangle $alias <<artifact_registry>> as "<$gcp_artifact_registry>
+$desc
+"
+
+sprite $gcp_knative [48x48/16z] {
+xTA7TeCm38NXQvbhMNx_zyqaEi88sfpL-RVPNuO4m7-2TwesL10JQbiAqcZZdehZHP-rckirVRvC3PLCUrO1qLWBkBYExsYwgRfk8wlhjkOwxwaMriBrxfrp
+7DHVOugy1hzx-yWN9QhxCjxpzT1Rz3vmUyCJG1-7FJsfZStt4m59kpkIwZuaW4GFuEPitLfwlBZtzN7Z4tY4ln2zXa-ncSDcRm1akoEVrLy9lauVqdjNae97
+o-nhjc9uBNkUinVtbddOvEb-x7nsJdMirPrNNt_8iCR4-q931MjzxmTtUsXu9OaVPJu4W5SJhzi3OuXnUyBRUglpzZqTvosOwgUyOKxEUCU-UimDMJpqWZGz
+dZMl7ywQ9wUpVd9cd5Kv9_ZsNG4
+}
+
+
+!unquoted procedure gcp_knative($alias,$desc=" ")
+rectangle $alias <<knative>> as "<$gcp_knative>
+$desc
+"
+
+sprite $gcp_cloud_run [48x48/16z] {
+jSy7ZWGn24HHGhizzx_mHbP_Ggasbo88cqVyUx8pICMdwUO5h-ryTr9L-5I_XTVzsG6pWIe_1S6WyFCjAfrw07bJ2f0mUH0DFmy8apyWcc3o1v0lWhof1SYP
+Ie2SAGs8nHRaJIr0pbHqAOs90rWWJEu0RxfhzL8vcB-yvwEpBo8xkNTQqqarle8SymFbGz2pVr4gomE_u2ZB0n-EiJ00nraOQ3ZAGZH7M-2V3nmiYd_0CHO-
+p7bjBV0thuq5_e9ZB02A2elXKs4n_1CE5iFluHWB4m2siG3UnnGvC9EtQPPr-DJk86V69n439iy
+}
+
+
+!unquoted procedure gcp_cloud_run($alias,$desc=" ")
+rectangle $alias <<cloud_run>> as "<$gcp_cloud_run>
+$desc
+"
+
+sprite $gcp_cloud_code [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_cloud_code($alias,$desc=" ")
+rectangle $alias <<cloud_code>> as "<$gcp_cloud_code>
+$desc
+"
+
+sprite $gcp_data_analytics [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_data_analytics($alias,$desc=" ")
+rectangle $alias <<data_analytics>> as "<$gcp_data_analytics>
+$desc
+"
+
+sprite $gcp_bigquery [48x48/16z] {
+jPK7SWCn30DPPV__m-bHe8EWT4prS5VTF5lZMJt6wAfq-pGvC5rdfGQbFXdxwqOFaTxH3lNEfpJuhl6EZsAq5DuBQH0mQErgfRMhf3W9LJiUND0MIYm6opWQ
+RadVZAyhJCtxEW6jnlCfGHCiTboFf6dBWSln4s-ue88gyyoquFdIOAuyyq7yF9Wjx__9utfmlypFQyjly72Uu4eUxmlVW-81uVSMnCC_O5uss5T-zu8TVyR2
+qu3ml4kzXu3ni5abyO2Fu2OJsALwnNlNhqfsav7RzjaklWYtUsw76HKmIes9trcOIePxv1CCE0dUWm8u2rPxklCD1q5FqM4c1OjYsbXObNvZvr6X47OA2stV
+4cvktn04BWI1oqGB_9n7
+}
+
+
+!unquoted procedure gcp_bigquery($alias,$desc=" ")
+rectangle $alias <<bigquery>> as "<$gcp_bigquery>
+$desc
+"
+
+sprite $gcp_looker [48x48/16z] {
+jPG7bXin34DPCRp_YQFYxe7D9BlVdG-2GJKvHGVIHnT_AUyFsChVqEyGIzZ8uvX4Tu8I6-l9uoQtLfC0SeKtk0mQzhU13Nq2_azw0Q0jVSZ4MlvBPXVxb0OO
+XAt6knCwc9yXqXxW8YvTB3BM1u0CaoPr9QqnhI9PDr8_1pggLApk72QSg468e1vmOVXs554RJqTjZ8Mf1Uu5R0FImr6JU0jOe6cM_97aYL23x5GNMXCzRuhD
+PPA_TQ9tqbOG7oKvGVHomY_hZUYp1aRwJLOdFaxNYvJPTijJU_3zvgH8zxEVdY1-NXuZvUS3va_NYENN0vnrGWedwWt_UW5Lz_fPnF6WTccW0LG1eVBE7m
+}
+
+
+!unquoted procedure gcp_looker($alias,$desc=" ")
+rectangle $alias <<looker>> as "<$gcp_looker>
+$desc
+"
+
+sprite $gcp_dataflow [48x48/16z] {
+fPO7ZiKm24I70UFS_yA_c4Khf1X7-aybxIKPTwDY9kMQGx17_OC1YVXrNOOTz808nhLmR35Vh10sGpSqoF25wP-T-VjGGttvapXZmrI7-voA9r1r-MvuWEZ2
+5_hGJjyFnTM0NpzhgWiU2Bu-w86UR8HVccyNdC2_3zc6IZiGgjO-9NU-u0RR-YKTaSZHb_gpEvyVgi_M3whV8IARTDl6OdaTzU5TTNQzYizzkNd8y_Sh9D7b
+FzSdZjHqnv75dUyVMZ_oj7urX1GatFdAJV_V-HbQr4onK0zsmvrnRZvYkMYc8Gs8zCKyO3-vIVXfQzjGWNbYQ67nI_0kb1MxX-aJJr2tvSzfECEe4lNvPFcI
+R1_wjN3fR4iR0C_BxwZjOyllGkdDzg5VL0q5kk4ttW
+}
+
+
+!unquoted procedure gcp_dataflow($alias,$desc=" ")
+rectangle $alias <<dataflow>> as "<$gcp_dataflow>
+$desc
+"
+
+sprite $gcp_pubsub [48x48/16z] {
+pTHLOiD030HGQuJtlt1GQLT6kPZvChnbcDP2O61g1_m8jNccwVaLj3YzaQ_zfvwdKdsx0Es9-XDkBjk0xHOPVKIKzmUWaPlnfgSdq7orpAQN1DJqcW0dFPLN
+tVHSFRArqNkP7xCoWoIgIdlh9MgAe_E2zl4wLO0_WtRrcL_m_BjUTVGk-reyVE0MuTZMyBZ5FhZ4uvrMpokHnIEAvC3h2vN5GAaDzozWnhrQBYtExYUDSDuP
+KRPmC1iqp5Zw_Vji3WvN1sTz1NIuUsS0Epn1RPysUHzWweVoFkscN7_TwliD8BsUzF9B_PyukzCEiSf6xLS
+}
+
+
+!unquoted procedure gcp_pubsub($alias,$desc=" ")
+rectangle $alias <<pubsub>> as "<$gcp_pubsub>
+$desc
+"
+
+sprite $gcp_dataproc [48x48/16z] {
+tLK9SiD025k1yFR_7-v19WGoU8mxdQlAdPN4PU-kFm2-CMUBEcGcWGPaR3uNQ04czax3uziaUKbI3EnpQdBDbrRSGt_1rnBici-R-PEurHzIYONHW9rl6bZt
+-1ZnZn4z-32gopPd_BLixuzlRCEClq3xngp_gBUP3FXLWG6_tfiOy1rNILMpypBWeGM7lGUdDKdf4zn7uOifZMy2Q4APaMutOSr9CxZbbVkX5Qbh0Zo-62Eg
+sIiFYG3-9IN6SDbXccvj5-PA636TBtajx9E9-LBS27KsyV40lqccJqZ7h_uycERJvLDCo3BDljumGR0bJp9TC26K_jgAGkgypW-LRa5wjWFDIX6S7e3IkFH7
+BaG4WoFzV-8B
+}
+
+
+!unquoted procedure gcp_dataproc($alias,$desc=" ")
+rectangle $alias <<dataproc>> as "<$gcp_dataproc>
+$desc
+"
+
+sprite $gcp_cloud_data_fusion [48x48/16z] {
+xTJ5bGCm40HHuUpcdx2vJ7eQC5ETVryxAPMXf5R7Obvwo4lCozhdIbGcNZQ-UBriVNLwYNdn-4nmtHzw1vy7fVlq8LxlnVtFPw7iykMVodtyp-jDV9D9VVHm
+VO27wmCyt1xWuVe03xS6UBWzo1jVuDRWZsjqrj95BG4
+}
+
+
+!unquoted procedure gcp_cloud_data_fusion($alias,$desc=" ")
+rectangle $alias <<cloud_data_fusion>> as "<$gcp_cloud_data_fusion>
+$desc
+"
+
+sprite $gcp_cloud_composer [48x48/16z] {
+xSl30K1154FHXmpwR_ZRDkTiSqCvdSLKkhyFFJU8bcWHFg6NKhTdAN0hzoNfzBOSyCm-z4ttzxO12_ecUr4VUhODRgRlmWDwAItijNHB7tek4P6Wa9uL1Sd3
+6
+}
+
+
+!unquoted procedure gcp_cloud_composer($alias,$desc=" ")
+rectangle $alias <<cloud_composer>> as "<$gcp_cloud_composer>
+$desc
+"
+
+sprite $gcp_data_catalog [48x48/16z] {
+xPG5haGn24LRfDpzR_WRwTnd3T_zHCOEa45U-nB4GfvlTrK3Hd-chlha0_RCvDD7B2L93ZxsFv508cT_8D563BKVr7jK_lxVEvxZO_PNCloHVlRL7dWAyfRm
+mxAVFQipVLpDomyT6UobLViGiwVAz4Gis6yM20PMf6TCNv45Pjmpy-liVgzqdmrY-vTm0FEjb_arRabjI7i65eUIjZJbyWmHUcMBElpyfIg0aAjpTY3iOAVF
+hQ7zvEzJAVrzQQMFyGp_ttz-__LPyvNqmw_snrRxCzgPxkUlk9yhT5iagZkI0SJDyUf9iBzbuSrUGSMIOF0InvvurcE9QENhJX-jP014QhyBwUtDt0C
+}
+
+
+!unquoted procedure gcp_data_catalog($alias,$desc=" ")
+rectangle $alias <<data_catalog>> as "<$gcp_data_catalog>
+$desc
+"
+
+sprite $gcp_dataprep [48x48/16z] {
+xPG5iiGW40N7Nc_kV-9Vr0xheRvxnqFZCFQ0shOjRSM_Nz7uhXQbQl_CVarYu7T-FTQJyd5xhY_67Lxcwzb-4MQEdkiRI13Fzbr0F6iy6_VpVAcQ_FxhBJBz
+_EL9j_-Ml5WuPOtWiEqGHq6PeZCNIfO-M4_i_Agrh-dDhthNyeKYH9dDBvQ-Cv0TSTRZq-CVbxF1ZdxmNnNVibJUVhFA9GPnvTU-NiWjqNDzuUFEStsm5_aY
+pPnd-muIv7DzSp7qP_dDNRnwZ_dzzwEgt1xp1
+}
+
+
+!unquoted procedure gcp_dataprep($alias,$desc=" ")
+rectangle $alias <<dataprep>> as "<$gcp_dataprep>
+$desc
+"
+
+sprite $gcp_google_data_studio [48x48/16z] {
+rTHL4WCW30JGZI7tlt3TWCnqwts_EDa9la96PeAKbq7jEvRiNKQj7mHMOhtxZcAcPTJFAcQMRR_3N6T7oFtf-tCN4gn4zl-6DOlL2LMe0E5dgSVmlDPRCUmG
+trUOwJi5P1oDZ6F1h2JNsQdiVF8-GSPTY6QpvG3peuwCsY2Ac-1_YGqy8d-G997rU_lvLJwuH3aPaFQ2VkvlxkTIyliNS1SIK0iiRNXbQdYz5loY3G
+}
+
+
+!unquoted procedure gcp_google_data_studio($alias,$desc=" ")
+rectangle $alias <<google_data_studio>> as "<$gcp_google_data_studio>
+$desc
+"
+
+sprite $gcp_google_marketing_platform [48x48/16z] {
+rLC7bkmW38iRplrF_3686ETluVKTRPanJvPSuFe3-3mGCvspnU-EneVqTWDsHBVET6lXeGTq7ZpaqUg7VfBNfouPvEdu3N-gmgb5z-Z6TmzMvOT_xNmExkZ6
+NmDq_ahV-t_gWUUyv0RaNRzUj7JvCQ3GLlMfpCZ3V1Yom-YPI5jwu3KppF_51u-pthhVMiyhSPteR3-ggltMlGZqGoplPvqdUCwXWBo2h_OralrE-GgUzo7N
+IruLIDImRu2J_7JeM1DZFkk0rA9da-8Pm3O0Z4WpOjZtVC26k9iowx0HcELzMG89NMs1gnJ1A9b0zpO0aVeqQPjAm_C3Q0-mIYilbMndI2un1KgsH4xwPpNb
+90Cj0fv1EkhtV0G9NF-iXxt__Snl-yKZZOCZFbw0nzfvelEv8jx4_39sWRH3E67jHyZ6MQtz1XMwFX-VZty
+}
+
+
+!unquoted procedure gcp_google_marketing_platform($alias,$desc=" ")
+rectangle $alias <<google_marketing_platform>> as "<$gcp_google_marketing_platform>
+$desc
+"
+
+sprite $gcp_cloud_life_sciences [48x48/16z] {
+pT5NWeCm30JGARR8_K-yiTWEk6pD-qc0SP64NqCIZMnYp0s14dTM1_TT4n3DTklOcDid3l8frlA1ztb5HCKGdV8lPj2sy0X8uiJ5zUG61t5NomTwxSjnAvtD
+mO0kyZxBH-RJpFxHkKyU81mv4KV4AMNyHybBUye9ixpZe-Jbz4lzIHmd977n2YQEIaJXLKy0C8uAFk5hdjljWosQplwnc4VveEPz5kfLhJxl9_48P0dJw8GX
+rWW3Sc8ETaZmZiV1detDx_CnaNz_7vIUQ0Yu4SPAhNgemQOd
+}
+
+
+!unquoted procedure gcp_cloud_life_sciences($alias,$desc=" ")
+rectangle $alias <<cloud_life_sciences>> as "<$gcp_cloud_life_sciences>
+$desc
+"
+
+sprite $gcp_databases [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_databases($alias,$desc=" ")
+rectangle $alias <<databases>> as "<$gcp_databases>
+$desc
+"
+
+sprite $gcp_cloud_bigtable [48x48/16z] {
+hPK7ZWCX34LnXVkVU0T_ZKCYCqLQRycKzyMZo6bLcRHNfUxyAk3kIYzuzfbu4I1pVoH58X8cCWDs9oKcSYOCKdVQaGWJlfOYTRpcJ4mftGI25bn_fDGHhLK2
+8KmxE5pDzxlbOt0VgU39gLGXK8iKU5juIHLARuWbJnvykkX7uKSAF2zyvbOwrmUy_F2fabSPhdaEEgyoiU4fDrJbgvHBdaKqBinjfVlGchUv_ConpJc4ZU5S
+-_Z1GqdFXFNH1Vvxdh4VDbM6OJs5zxmPu-o5IfEkrxouQqXD5JfISid3Hd1-CDqRFcmiL33T9lF6bMj_mHBPCLsTesaCfI8rhswG6bD0-v3pZ6ny51FcWsCO
+vJ4lUKmuFh41UN1Bdiu97ogTruFxotFmB8G9ZwvVAgH7hNm3drAKAjdAPE4jUIHIvTCHldm8_DBQw4noqQb1XY0iugfGoGe-MrnAwRwfasYCcrA5Ij6Y5wdR
+BoKAGb9AJMkmQAQHu0BPIvNYjPIr5yN56jvAqQi0cRR_g3y
+}
+
+
+!unquoted procedure gcp_cloud_bigtable($alias,$desc=" ")
+rectangle $alias <<cloud_bigtable>> as "<$gcp_cloud_bigtable>
+$desc
+"
+
+sprite $gcp_firestore [48x48/16z] {
+ZT9PZi0m28DXR23j_IyyUsRnkAN_ynU9I0uRs8p78JFNwdoit_rxDMjcRlzUuGw3kLkxvlqXwlKZgjNxZp2b9HNCsTxhHzB4MfSlZ8wtp8kq7llEREkDth7l
+FH4IwjepREKzuh9izLxhHxQdQkQ_PQAsfrkfMsRnUdVxu27gVchGErscfYkLdTcphRSVuRp_Cjfx_KYQm5xJ_cLtgD7hIdFsq9tTUlXbUi_meSIBDgLwn13x
+bx_Mp5ylndddSPv7nGwumwWt_TxHY37q-Qlcv4zfvU2rnT7xWsP_56BgbyvuaFldx1lnC3bxJCuUO_XU0G
+}
+
+
+!unquoted procedure gcp_firestore($alias,$desc=" ")
+rectangle $alias <<firestore>> as "<$gcp_firestore>
+$desc
+"
+
+sprite $gcp_memorystore [48x48/16z] {
+pTHLOWH128JXefNxNpZM5Q56IBBwFtzhm0vOrVhuMGTx5gykytLbWsL-altM-_oZztdkctgVPzxKhnVKlch22yJFzqOlOE8XFjcN_T7ZRzwEVMFnnsvzNwpi
+pHFYatimyTazG7no3oO-kOU2uFKUDe6Ljg9VLTFv6s8bsHUaPB-6M3lt1J4RwWUZPs3zom_TRuYy_9ZdRtoOV-vRy9vvq_qclgltDsPiwqku7rtFrj_e_qvl
+XEgDgU_YoN0mdnfq-lmtuTdplmdFdlzzn_lye_Vv5xzUKC4o3_QitaArIHNi5G
+}
+
+
+!unquoted procedure gcp_memorystore($alias,$desc=" ")
+rectangle $alias <<memorystore>> as "<$gcp_memorystore>
+$desc
+"
+
+sprite $gcp_cloud_spanner [48x48/16z] {
+rPI7jiCW34DjP8l-_m-_0S69JpEwn-skBXnbW3mClTI3DE0NZIWOFcaNJ8w5J-et-dgbZoAYnilyZf4VuKj9lian9VouWOuxHPTBS0TPNIxsIPvEL_dr2_nl
+yS7cNpYWa9D_ghQrUSKYL0kzZT2u1RED_a_O0ICleu1XOhAx7ionjWAOiPYSmwuzZmg6H1qbb5r7mYJ_P9qF4kqxRSMt_kvaNPv4-_Vfbls-FG5EdgqghoJf
+xMo7toCsYcHikKty-wPZgbKV_CUbewDh-92Cptv6B_QZvxhVmKhBjVvb9IbERc-N4Rg67t-ieUSnrghaKfvZGDQ9-4Fv1G
+}
+
+
+!unquoted procedure gcp_cloud_spanner($alias,$desc=" ")
+rectangle $alias <<cloud_spanner>> as "<$gcp_cloud_spanner>
+$desc
+"
+
+sprite $gcp_cloud_sql [48x48/16z] {
+jTG9YiOW50FWlbNlV-AXYuId3MC79kpovLzJZ_TuwB4VpyoUkmtBCxttb5rz-ZFnMqCZuS_ubeRlZJR4eU5BWshJrf5c2w_wFB7IqA8b4l5nwerzA3KRZS0f
+6grbJDxyR2m_UDmw5tyse169KxzwCoN_D_5hGpEP7v7wVyEpWicgSrctJGrP_y4QAGsYQIEW_OtEZPYqQl5cer5zoDYNJHu_2tm8fhvwD6uV2ltkRHogHIWU
+3Egn1sZkqS3MY5TR6j3uwhnHrpE-36yuqQmHuFPf3xQ_1sXnlWU1zsDh3t9wF85y3wROGyYdFJpQ_d4F6jjxaB_i0T5FzuCTB7mFl56zSraRiQNh_I0xkEvX
+lq7EVm
+}
+
+
+!unquoted procedure gcp_cloud_sql($alias,$desc=" ")
+rectangle $alias <<cloud_sql>> as "<$gcp_cloud_sql>
+$desc
+"
+
+sprite $gcp_firebase_realtime_database [48x48/16z] {
+bT49aWCn24DH8y7zhpnnjMQN7VYrP7kkncJz36jKP4vzJ3nozW2-F0O-TrEFeI-DrbfFlU9-MuNMUdRnFAdjkUBNHH2dyLNmvwP0ll4AuYTFahah7H0_-7Wu
+cQK346TO_w3DvLESS1uavKi7o8ldJhp4gOwUyYL-y-8gEVDKfmN5Bvvyvw7T6suNnDovOVm53EzwDhtd_iBnvTdok7B2hSTpVm736vvjN-9D7sNuPK4m_BOW
+YdS7okB85sUURQ_0zdKL-bfTHl65_wSkHLyhcC6x9rQlaEuNm67m3m
+}
+
+
+!unquoted procedure gcp_firebase_realtime_database($alias,$desc=" ")
+rectangle $alias <<firebase_realtime_database>> as "<$gcp_firebase_realtime_database>
+$desc
+"
+
+sprite $gcp_developer_tools [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_developer_tools($alias,$desc=" ")
+rectangle $alias <<developer_tools>> as "<$gcp_developer_tools>
+$desc
+"
+
+sprite $gcp_cloud_sdk [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_cloud_sdk($alias,$desc=" ")
+rectangle $alias <<cloud_sdk>> as "<$gcp_cloud_sdk>
+$desc
+"
+
+sprite $gcp_container_registry [48x48/16z] {
+rTG5qZOX30FWje6qzx_mBsiTT3wNZ5AULpSWFpKAMSLc6ciFzAymx3sWhUwyGJkVhr0WVKwiyJan85_VJ2m7ES5Yinbg3j1_TrPSASxyYerNoP0ifuwWPEpn
+T6azQm4ZMYzU3byy1azwZ3vOJAgJzKMUT4B8btkolDzRVJnrupCulKDawpE5xaNanLwqghp4gxNEREkjxR5cLmO_z3ZNElNQzTYGIvtucZscYnWBhbJ7pFCI
+rUFmhBXxlV2ivTY-_F4AHgpyaOZBPuzstZiVt-MpnrSpItfgUj2zDZsEQwdrz6xd-Zyq0OfxzjZ3DTjM6Tdhu7t_PDMLw8wEFbi5Xy-ARTFTXz2jpkfgTdAL
+D6Wkv1KVleEzm8y7R-zj-45RhyFGDbvdKvNVcBy
+}
+
+
+!unquoted procedure gcp_container_registry($alias,$desc=" ")
+rectangle $alias <<container_registry>> as "<$gcp_container_registry>
+$desc
+"
+
+sprite $gcp_cloud_build [48x48/16z] {
+fTG7agum30DWMqwx_udVv26Q1eB_MMtVV0PHxILklyGZmd_HCqXon1xaDUEPAlc9U0W-gsYGqkjI7kjyRHpBKW-B7fhtElxqlzT6_dMb2Muhk4vWTuGuIv6r
+LbdgMezUj-2bpTptZlE8fVMc6-JenEyJqRRKETdZAAMUfMfZtCpx69NhRxunqzKnHilvoJ3oFkQlUVzVZRoVl_MivxaSISzpEVA-y5pcFCzbqdlbkIJtfP_1
+SIv7Xzd2Ss0_bxriVq2zFAMiKwzQlKwWGfvvzLgAAokl4mZ9yYMkMbyqkeSNpU33moI-yAfrGhtRSo1-gJcX7hQCYxVF-CMxPG9wM3RWrz_p3m
+}
+
+
+!unquoted procedure gcp_cloud_build($alias,$desc=" ")
+rectangle $alias <<cloud_build>> as "<$gcp_cloud_build>
+$desc
+"
+
+sprite $gcp_cloud_source_repositories [48x48/16z] {
+xTH50eLG241H6lQ_uT-fOhUUyJLUmlhm3voyPqlfzFtP0-RwhI_Uw0rztj0iRWY-rjCZfwYYRvp_Ryzq9wrxYpjVJQ_MG9FvcQnlTlOaAUu__qcHzl7Xg-Zb
+GrlrNzo-RxvFZkSA
+}
+
+
+!unquoted procedure gcp_cloud_source_repositories($alias,$desc=" ")
+rectangle $alias <<cloud_source_repositories>> as "<$gcp_cloud_source_repositories>
+$desc
+"
+
+sprite $gcp_cloud_scheduler [48x48/16z] {
+vPHN0jj024INplrFd2Xi7QrJljBc3tWUYYMrFrOYzAd0rwp85MUv_K0cJwBcNwNAanT6V2JLTnclsWqNHocjAkBaDsclq-8Bvpa4FM8TSMl0yuFtihGbiifH
+Un-ltFMQjORgi_CxRsM30fnqpcjhoYK1TyxCaCqAU6pA-SYfZueDj2oGp-1LHNkvy1cpp7YSTkDJntOAszgTJtuYyBEj7_8w1gAJfm-yNm2_ywN1oq_oz1Ey
+n2_vMou57EGTSkGck-oh-_-XUKXmWFF_83_n67N3vuTWqHB3kYKR0n7mMlPuF_QniRpnPZXEfPnWWU0w0DWNjJpOli4cFQmIICyimnU5a2U_v_N31oWIFsyr
+cZ-ALC0jCxma3BJ7ipgUvzdGk_JHZCgBSSZ0pt_9g6d0QcibUT7pHdBusnnQ5omqalWvEzOX4X4csbD2xR_K5m
+}
+
+
+!unquoted procedure gcp_cloud_scheduler($alias,$desc=" ")
+rectangle $alias <<cloud_scheduler>> as "<$gcp_cloud_scheduler>
+$desc
+"
+
+sprite $gcp_tekton [48x48/16z] {
+TPC7akmm24GhVejEklzjVo6hF9gmlKcidw1Xy8oTpB-L1ewmhkiQK7PeYPIVa3N6A3-yhd6r1ZCZTB32Md6DLlN3BLmq1j15HlyYGQ7wM6E0LL6z-BgOe6HS
+_wws5R7DcMCCs4Ic2txnoZHAkAfTDy_rjCkARJrlVDToNHUQFlXblzGt2uyVBYwuUCVRpotLcipfNrTvXWFPC6eKg1skp2mzV6eeEu-nPzk2kovBC-lfOSWS
+xKPZirkhCI1SfwD0TTNeINrSY8fLFlXEEpZZySMtRLULJhoRRPFe9JZOgkvX1iTmZgbvN2K96o_BgDBTyRiuaF2wUfBS5uIrEanKp2VFvaURnzv8Lgjv_-Hx
+8rxM-rSBch_vRlls3f8KRphpDr_FnxywxdXJCKiVl74LG2UYVVEJIYmIQvU_1YgBMCzYTK80f6n2yrFHlUS9u5XE2ATB4ypyKhHVwNIZFHkiIEYUVoYkkscZ
+qF9gTUEnAELpYqP1JNO0TQVqhd9FsVDGC6uldRuTOU4n82dxlJxv0Zjh2_JjFQkYd5WIVSw8iPBOJYAPT0JH7NXTLXwUTLRh_uiIDSCbfvFwu7CVafr4ZIaX
+PKkBryDZyo-R9cYJJ0To3Zugv3x8rERfThCNJxAK1z-ygOYRXsnw8zQ1Wwg3ptOcTgsjRBeXnB3jc8wP6KUA-SUwCS7zqTBJ45jAHF_WMG019m8eWavCYVpD
+qoQGU-WRCgbOttn3cZ6KFdgc-KZTXVADcyNiIRlzhuFSl-HyuIXIcOBJV1Q_qgkLR_TpxbOJALAJbBCS-OjF4gDXHvGycvNI-kPnAy-MPQPFMlhaksGBT4ia
+vPRafSnVYj1gchVqaB-Ls4dtkFKB-Wy
+}
+
+
+!unquoted procedure gcp_tekton($alias,$desc=" ")
+rectangle $alias <<tekton>> as "<$gcp_tekton>
+$desc
+"
+
+sprite $gcp_cloud_tasks [48x48/16z] xP8t6a8n3CP8N3xkVsBqq_i2hrkBObjZTikZI9036-uHuPT3myR2llGuxdl7V-ghhpv0TdpiBmlvpV_SWvpOrUEy73eE7QRfgw_UGJQiSpEpVZcqym8lZk8
+
+
+!unquoted procedure gcp_cloud_tasks($alias,$desc=" ")
+rectangle $alias <<cloud_tasks>> as "<$gcp_cloud_tasks>
+$desc
+"
+
+sprite $gcp_cloud_code [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_cloud_code($alias,$desc=" ")
+rectangle $alias <<cloud_code>> as "<$gcp_cloud_code>
+$desc
+"
+
+sprite $gcp_tools_for_visual_studio [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_tools_for_visual_studio($alias,$desc=" ")
+rectangle $alias <<tools_for_visual_studio>> as "<$gcp_tools_for_visual_studio>
+$desc
+"
+
+sprite $gcp_tools_for_eclipse [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_tools_for_eclipse($alias,$desc=" ")
+rectangle $alias <<tools_for_eclipse>> as "<$gcp_tools_for_eclipse>
+$desc
+"
+
+sprite $gcp_cloud_code_for_intellij [48x48/16z] {
+xSivSaGn30DHGfgH__rFxEe8e0AcNf6n-Bf-ylwtxbipt_k-DNE2VclYxBurSNRVcZYxRysSW7iAj7EhQhVTVDVglDIuLkFlyo8m9qX-pchy42GdI4uGt07S
+WJc1kODLdimTm1sOCoKdI4wWwXCy0xYtCNsdJIr_rxgqQYLuLIdvVjwTVno2u0J17uBWpqDWpfIS8Ba3E2Cm9mZk0Ex0dC3S0Tm1d3c0Hm3FmJE0Pt2l_tVL
+wVqKm0acJf2SOEG4oGb6Jc3k03u4S0SZ9u1d0Fy--zyd
+}
+
+
+!unquoted procedure gcp_cloud_code_for_intellij($alias,$desc=" ")
+rectangle $alias <<cloud_code_for_intellij>> as "<$gcp_cloud_code_for_intellij>
+$desc
+"
+
+sprite $gcp_apigee_healthcare_apix [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_healthcare_apix($alias,$desc=" ")
+rectangle $alias <<apigee_healthcare_apix>> as "<$gcp_apigee_healthcare_apix>
+$desc
+"
+
+sprite $gcp_cloud_healthcare_api [48x48/16z] {
+rPG5SiGm34N5xlqlND94cLQfyztbDx2G5uE8ZX1H4K9XJHZN4ypNGl3byGraqRVOaKMVR-1B58CGeb38vv7s20BnjoyiVx01ANOtfeJ_32iNQcR2YKI4SvSz
+PbYFuXp_eNESO3sfheMFCKmJEpf_RRW7L2RnuL-ro5NB5N_OB_fvSDyZmeMJzFDReyVJq_TfXKhtMvfwFNG_x7GoICqKmte-_UsKYliLvxcxv6iuV9uKVEil
+ERilMpHyeiTS1tfOWM7erL_OkFNghmAAFyph-wGgj8JGY_01
+}
+
+
+!unquoted procedure gcp_cloud_healthcare_api($alias,$desc=" ")
+rectangle $alias <<cloud_healthcare_api>> as "<$gcp_cloud_healthcare_api>
+$desc
+"
+
+sprite $gcp_cloud_life_sciences [48x48/16z] {
+pT5NWeCm30JGARR8_K-yiTWEk6pD-qc0SP64NqCIZMnYp0s14dTM1_TT4n3DTklOcDid3l8frlA1ztb5HCKGdV8lPj2sy0X8uiJ5zUG61t5NomTwxSjnAvtD
+mO0kyZxBH-RJpFxHkKyU81mv4KV4AMNyHybBUye9ixpZe-Jbz4lzIHmd977n2YQEIaJXLKy0C8uAFk5hdjljWosQplwnc4VveEPz5kfLhJxl9_48P0dJw8GX
+rWW3Sc8ETaZmZiV1detDx_CnaNz_7vIUQ0Yu4SPAhNgemQOd
+}
+
+
+!unquoted procedure gcp_cloud_life_sciences($alias,$desc=" ")
+rectangle $alias <<cloud_life_sciences>> as "<$gcp_cloud_life_sciences>
+$desc
+"
+
+sprite $gcp_healthcare_natural_language_ai [48x48/16z] {
+rTHL0Yin28NX0qFWt_-6hzIRfExVoqXSGEzWtj4_tZ7j11sNd4wyhxv7noIBZkiRyMNoHleoUIE-ZBxIafdDTrynu_lQnKgQLfAPs5Ldg-oA-WuqapoXhgYV
+q7Plov3kXlm6jHyfTOb3qz1qPkmKq4bZfmOvMQzsTglSlrskxwohMJknd-eqe79LoMVtGRrYhHPTOu42AanNAN1TBuPJZLm9pLY1zJkyafffq7HzVOEIRfXF
+8tGJqo_x2m
+}
+
+
+!unquoted procedure gcp_healthcare_natural_language_ai($alias,$desc=" ")
+rectangle $alias <<healthcare_natural_language_ai>> as "<$gcp_healthcare_natural_language_ai>
+$desc
+"
+
+sprite $gcp_hybrid_and_multi [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_hybrid_and_multi-cloud($alias,$desc=" ")
+rectangle $alias <<hybrid_and_multi-cloud>> as "<$gcp_hybrid_and_multi-cloud>
+$desc
+"
+
+sprite $gcp_anthos [48x48/16z] {
+rPE7hW8n30H9i_V_V_YLd3LA95aOTVPLO9RBZexNTsJsZ_3c_X6_fFa1tYLvg_CcIQkC3-sK9xjshEfIqZ99e-PIaiVlwjYnbMfMNSOAjShOC3DBamSKpJpt
+ANfXCYjPNd0PAJZb7Mt5rRJUZFNeBTQyTydzELAd60yy2fvDZdbguDB2QUuoy36ZO24ukt42VzfQZzEMkWIdCFVlp2KuXKTQuXByA8JJx4C8JY6S4bo2tmN3
+wJtM1JxCEWKvJa-N0f-xQLZQQVTOy3PT4PyKxiaJl2zTMOt2uTG37mP6qU8_9dD9y-COny7Sn3PS4Zk43jSHnwN8YbFIk5xanddY2sa40pY5jfd4G71Pp61i
+BHukovclByyl
+}
+
+
+!unquoted procedure gcp_anthos($alias,$desc=" ")
+rectangle $alias <<anthos>> as "<$gcp_anthos>
+$desc
+"
+
+sprite $gcp_cloud_run_for_anthos [48x48/16z] {
+jSy7ZWGn24HHGhizzx_mHbP_Ggasbo88cqVyUx8pICMdwUO5h-ryTr9L-5I_XTVzsG6pWIe_1S6WyFCjAfrw07bJ2f0mUH0DFmy8apyWcc3o1v0lWhof1SYP
+Ie2SAGs8nHRaJIr0pbHqAOs90rWWJEu0RxfhzL8vcB-yvwEpBo8xkNTQqqarle8SymFbGz2pVr4gomE_u2ZB0n-EiJ00nraOQ3ZAGZH7M-2V3nmiYd_0CHO-
+p7bjBV0thuq5_e9ZB02A2elXKs4n_1CE5iFluHWB4m2siG3UnnGvC9EtQPPr-DJk86V69n439iy
+}
+
+
+!unquoted procedure gcp_cloud_run_for_anthos($alias,$desc=" ")
+rectangle $alias <<cloud_run_for_anthos>> as "<$gcp_cloud_run_for_anthos>
+$desc
+"
+
+sprite $gcp_google_cloud_marketplace_for_anthos [48x48/16z] {
+dP59Ti0W34Cj9eVx7xWJKQbvQE7-fVcMyc9Je5a6z3voUlUHqhlxoEZThmkrBu9EtuVqIz3f-r1-Zpfz7yelr8dV5m0iXphnk53EaaATFXcl0llb-xrz-xwj
+IPn1DHOWB8o_kZKAHu4X-DJ1zrZ01VhKBPuq51ZeRxtmwpTj9s3xRY8-_02yFlNADr5WMBvRYDS5Xc_Vpslg0eCFDnb_-GcWmLD5T4uybIxGyR404ORS2mHs
+fmgz2b_eJSLdqlLT13oxGDmb6G-JNEzOY-AUhx4J97qhIT_G4lv_ARXC5F0vvrFbvEIPFq1E8cKkcfn4sbmCCKdx-U-9-7hLavFkynamFVa4
+}
+
+
+!unquoted procedure gcp_google_cloud_marketplace_for_anthos($alias,$desc=" ")
+rectangle $alias <<google_cloud_marketplace_for_anthos>> as "<$gcp_google_cloud_marketplace_for_anthos>
+$desc
+"
+
+sprite $gcp_migrate_for_anthos [48x48/16z] {
+hP47hiCm34CzD7Z_2_-XWeAp5Q3iRfvYyxbzAUCbR_8Adq1_mpjWhHu1W7g5ZlzucLT4PjKb0FFw0WPW200jkWpIKNJgW7DNHPUIsogvzCstGjbbfOhBjSb3
+PLhfQQfKjhjLAjDbTy0AJXN033n0_d5Nrea3HgVtBWEtUBjpIXqVd1yKTkcI70VezC8byHouSjg70puIpu4pfzCSM5fk1WvEku4XlWx4Qxjl9gyCrSw1Y5pW
+SMN6WZhM0JeTv8nVb0XiRWuxmekpAOvnoO6nkRttjWouzg7yEZoBaTaE-ATSvyPygMpO3coDYk_DnNM9J2xdcvD4HgCktIxrsveeaaujH7-ITQvYczEQTpYH
+MSLPsG-uotLw6sbJS_8sUOvPwY6sTT3RKsIZh93Xx3zRCKD4PczVpoy
+}
+
+
+!unquoted procedure gcp_migrate_for_anthos($alias,$desc=" ")
+rectangle $alias <<migrate_for_anthos>> as "<$gcp_migrate_for_anthos>
+$desc
+"
+
+sprite $gcp_operations [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_operations($alias,$desc=" ")
+rectangle $alias <<operations>> as "<$gcp_operations>
+$desc
+"
+
+sprite $gcp_cloud_build [48x48/16z] {
+fTG7agum30DWMqwx_udVv26Q1eB_MMtVV0PHxILklyGZmd_HCqXon1xaDUEPAlc9U0W-gsYGqkjI7kjyRHpBKW-B7fhtElxqlzT6_dMb2Muhk4vWTuGuIv6r
+LbdgMezUj-2bpTptZlE8fVMc6-JenEyJqRRKETdZAAMUfMfZtCpx69NhRxunqzKnHilvoJ3oFkQlUVzVZRoVl_MivxaSISzpEVA-y5pcFCzbqdlbkIJtfP_1
+SIv7Xzd2Ss0_bxriVq2zFAMiKwzQlKwWGfvvzLgAAokl4mZ9yYMkMbyqkeSNpU33moI-yAfrGhtRSo1-gJcX7hQCYxVF-CMxPG9wM3RWrz_p3m
+}
+
+
+!unquoted procedure gcp_cloud_build($alias,$desc=" ")
+rectangle $alias <<cloud_build>> as "<$gcp_cloud_build>
+$desc
+"
+
+sprite $gcp_traffic_director [48x48/16z] {
+lTLNKWCm34LHTMl_AmRDE4eLvb5olu_S80dzFi6u1YES8npn7X6AdAPYu3IL8wS9w4Ij_zkhcIdYFxC_yh8Wxvc0bvMPo_YRtdFdSkUj1fuvHtP-z9Lb5oVV
+MzZQ0-rzzBK5iMUrxZqF0zmtQHzzeB6uyxt1NDpwqEC6SkUzlD1N-QqFEmxmklMXbm6Uxk4FVa_mj8qMi_PqcPYUYXyyoVRJJHuzoVRLsLToMjzlVSN3-IU_
+tmVmJ82VmxtMpVx_YrUrlAi0lqlGBvC7TY3kXm9En0JaeOJ4Jk_l0m
+}
+
+
+!unquoted procedure gcp_traffic_director($alias,$desc=" ")
+rectangle $alias <<traffic_director>> as "<$gcp_traffic_director>
+$desc
+"
+
+sprite $gcp_apigee_api_management [48x48/16z] {
+TPDTUiGW30FzJ-v_udx4Y0GrgxVI6H34AuYQkyf7pCDDA56TT8BhwjHRyNgIxqEQxXHlZXZMTLplZBLJ5iKEd0IK2LErWF3WwIeMuwdKhL4XMm0-79rlmRjy
+uvqbB5m5yVlljRqA2GcStihqxYxl9ECTcqjXNVSK6E_qxRdEyp8XP-PgtVmNtg_1-vVkFeope7tcv9tmJy5x8N41nbcu_w4z3iburI0XCH09OUDzd0Q4ZLyw
+rwi5u6DlQMC9mAEN8UYWojed05yb83HUW5zJUU0GSdH5_gOTu120NtAa68S0l4u-2ATt_ycNCRuoJZuNNX08_xvlpHZX8_vFlNNtRE74jIVmCju-HGu1k8ZJ
+px0MVWW5208gsG2-XLKHE8HH4Jbfu10mIdx-Yhw6GDS1_96SSSGdRuR2912EeNJl9oI1yCxaCy2J09nvtzTbleZNcxUz4-D5WlU3xY5Zd8MQiVwynNWQ2r4p
+6C5IBEEgIz03z_qJ7MuYwWCuX7ATwzN1VEu0Ru6Zc7_6lmNRBmkKXiDuTyG7w59wT8I-gKLMXQjmp3FJJLR-
+}
+
+
+!unquoted procedure gcp_apigee_api_management($alias,$desc=" ")
+rectangle $alias <<apigee_api_management>> as "<$gcp_apigee_api_management>
+$desc
+"
+
+sprite $gcp_cloud_iot_core [48x48/16z] {
+vP87ZeKm34JZDk7-5zu2PiTWf21zzNrgo7unPiZeg0Scu3RUODXEfg_rs2fJ5Zg7jmDBVNt0jauyccfkCYOrecAkLzkRs9Z6sMalWAJ-sCeX_TDbTl-t8RqC
+_g1U7rl7QddElwTncGysolQwhyRCKJxJkQXJANMjZpnSwfvHDP-tSBTiDTz-6_EiSwINwrFzAIN3SXIv9NqEgi7vUv-xhVrKU27M_fJ10siVKkx_qfysAgBg
+hiIiFfkEXg2yC13Zn01Q_zON1rmVV0b0csxOyUOxVec-3C81wCrN01uvYFYnF5AZ7y0nJYcpxytFoG6x-RYDzOkFcw_x2mNfAn2I1tyNrSoQ08X0beDPQJRk
+0IbsBBCD2q3PY8V_5M4ok6m0HyF2bLv73x7l_BdF3BdF6ikxOUCbpgpUePPPVSut
+}
+
+
+!unquoted procedure gcp_cloud_iot_core($alias,$desc=" ")
+rectangle $alias <<cloud_iot_core>> as "<$gcp_cloud_iot_core>
+$desc
+"
+
+sprite $gcp_edge_tpu [48x48/16z] {
+xTHPSiGW38JXRWaet__4ORLfIjcJj_bU_K-DR1RyiHTUEmUyx0m7apwrN7pMbmEXg7qEUcMxFaqs3jA7UeubxktHft5hLf-dP1ZyaNlWdRLUsDcdqlZ4i_Up
+Bqto9LuwfefDwZaRcnEPFp1mBIBtRzD38i0riwwEDsoYVd7S_7Rq-PPy_fxOHxS1iN9LyWVv6eZ8_OXddzxlKTdPEpe-K7bzacMULBeKV9y-Xp7-Fa6ViPWl
+37fKIHR0AuFI7dbRO1b4HTkveywQf9VZqjcd-ryF0DxfwU54r3w-ALo-KU-T4mBoZUBxX3fZQV8aVNn_UX6VziZVxA5vnYdjg0lYXl_qyWO
+}
+
+
+!unquoted procedure gcp_edge_tpu($alias,$desc=" ")
+rectangle $alias <<edge_tpu>> as "<$gcp_edge_tpu>
+$desc
+"
+
+sprite $gcp_management_tools [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_management_tools($alias,$desc=" ")
+rectangle $alias <<management_tools>> as "<$gcp_management_tools>
+$desc
+"
+
+sprite $gcp_cloud_shell [48x48/16z] {
+tTDL4iDG589X8Bh_3TSjmioXtdxFVt8TEPOTwgPE9hS4DH4q6Kw_fh9-Hs4FK56_frelND3rKoBEADTF4HUqlPsMJ6-_W4nl5pBjFOQzeZwPp_GOelsCpalP
+VOZkMtgVwpsdos3jFUAYzDvzF_MEtijxXJsZN82I7dlKL7VMQefODPvrCFwcx_e5_LBVTWl4Msq1
+}
+
+
+!unquoted procedure gcp_cloud_shell($alias,$desc=" ")
+rectangle $alias <<cloud_shell>> as "<$gcp_cloud_shell>
+$desc
+"
+
+sprite $gcp_cloud_console [48x48/16z] {
+xT15eWGn24NHXnHX_nl-sa8fj5lED7hnHDSDmaGiWvSeOOVKSu90Qjlh1mmJvfiO4-phcYbcr5eobs1zJesmWLhMcNGJ4kIH8gKUe236eY0a3oYmZUyd0OO2
+Ex_N2Idom90oZmG9SOyQOnCtdz1ibbEcZ4MivW_HTTy
+}
+
+
+!unquoted procedure gcp_cloud_console($alias,$desc=" ")
+rectangle $alias <<cloud_console>> as "<$gcp_cloud_console>
+$desc
+"
+
+sprite $gcp_cloud_deployment_manager [48x48/16z] {
+xTPNSiKm34DH4e2ej_yLnqNXPDp6J6_t-xXRnShnTfWqeb0pQr495gNuAj_iHluDF6jULCMBfEvxSAhZba_U0vUUn0kkHu_0XUSKafjnye5JxvmAJpv-Nnpv
+v3ryy6JO-UHjlcKb7muRdzmj9XzAFY0sFlaOGTi_XnkVV4eHlltLjZxvd9AFVEUJ7-VOUw_y_pElU7XrVFrapnifVQ6wRoNlvgrq-YdVfFwSRxB3-1Xrs_Jl
+NLBB9F7QnouKzn9kdziJ
+}
+
+
+!unquoted procedure gcp_cloud_deployment_manager($alias,$desc=" ")
+rectangle $alias <<cloud_deployment_manager>> as "<$gcp_cloud_deployment_manager>
+$desc
+"
+
+sprite $gcp_cloud_mobile_app [48x48/16z] {
+xT15eWGn24NHXnHX_nl-sa8fj5lED7hnHDSDmaGiWvSeOOVKSu90Qjlh1mmJvfiO4-phcYbcr5eobs1zJesmWLhMcNGJ4kIH8gKUe236eY0a3oYmZUyd0OO2
+Ex_N2Idom90oZmG9SOyQOnCtdz1ibbEcZ4MivW_HTTy
+}
+
+
+!unquoted procedure gcp_cloud_mobile_app($alias,$desc=" ")
+rectangle $alias <<cloud_mobile_app>> as "<$gcp_cloud_mobile_app>
+$desc
+"
+
+sprite $gcp_cloud_apis [48x48/16z] {
+ZTG7hiCm3C3GoCxG_I_y5u7l691GgYk97xlRevun3ZdmUHDOFcy2o-TDu3YUG70yWUJZba70Zo1mVlnkU3_OSXvEe3oSG7Wu4tWnPn18VkK3jJm_1F4tYx-2
+O8elGVpp9ow2VR7co5Smjw3cTT3pFe2FpRH1pVjWvsTcBhu7m1Zttt0mdiphxU_CcotSnKOPrBmEUbu7FQ-3ZlT1pVkWulKGmCqGm7rWUMmtvlzpUnk49u0h
+FnStdW0k_OHxFzUdAeF5NR2u2-0-WFi0xWEu3xg5Rm
+}
+
+
+!unquoted procedure gcp_cloud_apis($alias,$desc=" ")
+rectangle $alias <<cloud_apis>> as "<$gcp_cloud_apis>
+$desc
+"
+
+sprite $gcp_private_catalog [48x48/16z] {
+dP59Ti0W34Cj9eVx7xWJKQbvQE7-fVcMyc9Je5a6z3voUlUHqhlxoEZThmkrBu9EtuVqIz3f-r1-Zpfz7yelr8dV5m0iXphnk53EaaATFXcl0llb-xrz-xwj
+IPn1DHOWB8o_kZKAHu4X-DJ1zrZ01VhKBPuq51ZeRxtmwpTj9s3xRY8-_02yFlNADr5WMBvRYDS5Xc_Vpslg0eCFDnb_-GcWmLD5T4uybIxGyR404ORS2mHs
+fmgz2b_eJSLdqlLT13oxGDmb6G-JNEzOY-AUhx4J97qhIT_G4lv_ARXC5F0vvrFbvEIPFq1E8cKkcfn4sbmCCKdx-U-9-7hLavFkynamFVa4
+}
+
+
+!unquoted procedure gcp_private_catalog($alias,$desc=" ")
+rectangle $alias <<private_catalog>> as "<$gcp_private_catalog>
+$desc
+"
+
+sprite $gcp_cost_management [48x48/16z] {
+xPG53WD124N7WD_x7xZUBXa9MTUt4dkZYDiX5pwOUAsJv70EgG51RWN8u332P-H8ZjwFJvIJSgBsGom8EQwlttS__SwxwFrBQPY-S1Ef-61gmhtz_llfVzvb
+x_yh67v-FmpbY-3_BtsAJwYtttS_ivoNUzudmVBpVi96FwJeU_LRxzqEkNW
+}
+
+
+!unquoted procedure gcp_cost_management($alias,$desc=" ")
+rectangle $alias <<cost_management>> as "<$gcp_cost_management>
+$desc
+"
+
+sprite $gcp_game_servers [48x48/16z] {
+xPE50OG030FhxVuBl-Bk7fmSpi4t70FY16aiXaJgl9lLCFDsNe2gE0Bm2Dw-lJVoBaA08bRa_TitdJ_VfeGKri-20QIPLo8484fgIcx4OzZpVWkD9BrySluU
+Nado9sNMwE47VbyTn7F6emm9737x--BZVA5nldY7BsOCQEQJVR5kNv8jhlZYU_h21L_eyBuyllW2liXONs95N-YiljZMliWKNzu
+}
+
+
+!unquoted procedure gcp_game_servers($alias,$desc=" ")
+rectangle $alias <<game_servers>> as "<$gcp_game_servers>
+$desc
+"
+
+sprite $gcp_opencue [48x48/16z] {
+fPO7WiKW24J76YlS_xQx2iaM_VrjrQ0p-XM25UjZOQxHMpp4XDpvefTWS0UREl-3yaqLauXtvBs6xtm3YbX9rzDw16UjyqVfbyGINbYeOLgprapDg_kVfwhT
+3d2fqTHfoG5MHpIppZvynZR-OVtLuhMkjdXl5hunjs3SQ3eRHil3Y7Z1YJyLqxcspjm1vD5Efto4OBg6goi0CQNnbCw9fm9PTQEDmZNGxwqOHYXKBZAbEh8y
+24WZqhU0NmIndzIokwQleyTZXpp9fu0X6TcPoM638-QkOHO8CdtKFLvfSsz4u83y3UZoPqKcx70oxmmaU6w5AhPKAetzr25ZPLZY06EmO_G7Jh8lpekjnWPt
+CDp4rn75Dv737HmHpF5DB5F5Z2K5t21qsSe13wpLWxKdyVlnh_evrzllhxSJJFecFh-VSKO-_tdbwVpfyo21vkNpvbyvpn70S_V5pZ3x-dtKcnQVlE-lvnDj
+zAVprPeFHo1T-L33EVxBjzr9lerMyssKV6iR3_AJ-Jo8gxgM5wqNH-t3Jw_7Q2trujLwjDQxDEjTE0gnab-hf-7pUgqZ5WrA5lVmVzutSZ1uYFKnjPRtxpDV
+}
+
+
+!unquoted procedure gcp_opencue($alias,$desc=" ")
+rectangle $alias <<opencue>> as "<$gcp_opencue>
+$desc
+"
+
+sprite $gcp_migration [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_migration($alias,$desc=" ")
+rectangle $alias <<migration>> as "<$gcp_migration>
+$desc
+"
+
+sprite $gcp_bigquery_data_transfer_service [48x48/16z] {
+jPK7SWCn30DPPV__m-bHe8EWT4prS5VTF5lZMJt6wAfq-pGvC5rdfGQbFXdxwqOFaTxH3lNEfpJuhl6EZsAq5DuBQH0mQErgfRMhf3W9LJiUND0MIYm6opWQ
+RadVZAyhJCtxEW6jnlCfGHCiTboFf6dBWSln4s-ue88gyyoquFdIOAuyyq7yF9Wjx__9utfmlypFQyjly72Uu4eUxmlVW-81uVSMnCC_O5uss5T-zu8TVyR2
+qu3ml4kzXu3ni5abyO2Fu2OJsALwnNlNhqfsav7RzjaklWYtUsw76HKmIes9trcOIePxv1CCE0dUWm8u2rPxklCD1q5FqM4c1OjYsbXObNvZvr6X47OA2stV
+4cvktn04BWI1oqGB_9n7
+}
+
+
+!unquoted procedure gcp_bigquery_data_transfer_service($alias,$desc=" ")
+rectangle $alias <<bigquery_data_transfer_service>> as "<$gcp_bigquery_data_transfer_service>
+$desc
+"
+
+sprite $gcp_cloud_data_transfer [48x48/16z] {
+nPF50GD13CIoPAl_YlCy1WNrrg9d7X-aLETNHd4-sPmFKPmFtVZxHxJO1TWzedD5rhcVN3DcFe0vWdkCyaq_gtkl_4ytBvc7B-OjoXVxCehj-_-fxiw1kNLB
+g6PpXDz1-3KG_gm3iSio63MvOhvWS4tCDnT-2T3-D-vZtsl_KyvBv47dpUVPzyNtqVVTymG
+}
+
+
+!unquoted procedure gcp_cloud_data_transfer($alias,$desc=" ")
+rectangle $alias <<cloud_data_transfer>> as "<$gcp_cloud_data_transfer>
+$desc
+"
+
+sprite $gcp_cloud_foundation_toolkit [48x48/16z] {
+xT15eWGn24NHXnHX_nl-sa8fj5lED7hnHDSDmaGiWvSeOOVKSu90Qjlh1mmJvfiO4-phcYbcr5eobs1zJesmWLhMcNGJ4kIH8gKUe236eY0a3oYmZUyd0OO2
+Ex_N2Idom90oZmG9SOyQOnCtdz1ibbEcZ4MivW_HTTy
+}
+
+
+!unquoted procedure gcp_cloud_foundation_toolkit($alias,$desc=" ")
+rectangle $alias <<cloud_foundation_toolkit>> as "<$gcp_cloud_foundation_toolkit>
+$desc
+"
+
+sprite $gcp_transfer_service [48x48/16z] {
+nT95eaCn34DHsJ5e_nl-s3ucZNh6DnnSy834MQxrP8WzsxMUJB5d3woDh4FaInaMWdVMInJlh9VWCo7sRDTwbjBFPsu-aOQNVBht5slUIQpueJ5FBlsV08I-
+34eVWD2NGUXxG666pxE08bX2xKsb3rBelQdqIGhzQBvq7Kh3p8gtUZtvFLzCBlH1AhstrWCfzl1-tWjdCCoyU2Um4dmfFsJ0cjMhnrEZjHvMMWzuio39WiPm
+vHi
+}
+
+
+!unquoted procedure gcp_transfer_service($alias,$desc=" ")
+rectangle $alias <<transfer_service>> as "<$gcp_transfer_service>
+$desc
+"
+
+sprite $gcp_migrate_for_anthos [48x48/16z] {
+hP47hiCm34CzD7Z_2_-XWeAp5Q3iRfvYyxbzAUCbR_8Adq1_mpjWhHu1W7g5ZlzucLT4PjKb0FFw0WPW200jkWpIKNJgW7DNHPUIsogvzCstGjbbfOhBjSb3
+PLhfQQfKjhjLAjDbTy0AJXN033n0_d5Nrea3HgVtBWEtUBjpIXqVd1yKTkcI70VezC8byHouSjg70puIpu4pfzCSM5fk1WvEku4XlWx4Qxjl9gyCrSw1Y5pW
+SMN6WZhM0JeTv8nVb0XiRWuxmekpAOvnoO6nkRttjWouzg7yEZoBaTaE-ATSvyPygMpO3coDYk_DnNM9J2xdcvD4HgCktIxrsveeaaujH7-ITQvYczEQTpYH
+MSLPsG-uotLw6sbJS_8sUOvPwY6sTT3RKsIZh93Xx3zRCKD4PczVpoy
+}
+
+
+!unquoted procedure gcp_migrate_for_anthos($alias,$desc=" ")
+rectangle $alias <<migrate_for_anthos>> as "<$gcp_migrate_for_anthos>
+$desc
+"
+
+sprite $gcp_migrate_for_compute_engine [48x48/16z] {
+nPK5WiCm30HbuVx_nNTXiAsKCsrup21w5tEb0LslbkaCW0O0bFdA3_fyir-OMG3m003PNsjTa26LhyZGZ_ZKvbtVC93uCpu_-uC-dlITPlWVItqRb4vx0mjH
+7kWVnWRVuXi64Z_f_yp7axx_gdzOtV6mpu6PqB9l7e8Qlc57yDNyyNHbL_rZE5Eo-IzhsZLXPFd7TclT6ctjvLRLlEyRwWGrc-zuC85kBGcTu2o1RBvNIy6g
+_NdfupZv9J0OtVtViM6B3kxwsj91NR-qT4lYezSwE8c_lEvag-wK8Kk2HC_Ya1UwG6AlqmFOQZCz1gkQIhdq_W
+}
+
+
+!unquoted procedure gcp_migrate_for_compute_engine($alias,$desc=" ")
+rectangle $alias <<migrate_for_compute_engine>> as "<$gcp_migrate_for_compute_engine>
+$desc
+"
+
+sprite $gcp_transfer_appliance [48x48/16z] {
+xTB50GD134DHMsFgl-4mB2hCUUU_E9BVyWTAXgmec-ZTyfBUHTg9NhSEFNXliRFfio5uxx63yxxNOaTF_a-LDRGDUG8DIhlfEUUhhMFJ9zJdUxGENVT6pqj7
+VV0zwD7k_JCks2UoY8HSghlFCtNtAGf6rgApJnJLXll46V-dkqzKyly_W0eHlQIl1h-afqo6Z5Bf-FjR0W
+}
+
+
+!unquoted procedure gcp_transfer_appliance($alias,$desc=" ")
+rectangle $alias <<transfer_appliance>> as "<$gcp_transfer_appliance>
+$desc
+"
+
+sprite $gcp_vm_migration [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_vm_migration($alias,$desc=" ")
+rectangle $alias <<vm_migration>> as "<$gcp_vm_migration>
+$desc
+"
+
+sprite $gcp_networking [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_networking($alias,$desc=" ")
+rectangle $alias <<networking>> as "<$gcp_networking>
+$desc
+"
+
+sprite $gcp_cloud_armor [48x48/16z] {
+nTP9cWCX28RXuXUy_v4xfgRl4OtkcaqFULLmp34CXTkn7QMs2Erfhq-K9RQc4VvJAquLfILrnhoGScjrhVKhRRVHUBEqVUS3TfCZ5nBpDDbVeNTRJXnz78lu
+DszcMvwrxtYkigwHrlvQkAQ3PEq38qszNeKJC_KgVdQ_vrK-8TdtzxhAv-GDSoHwxjYUjv0TzABFt0w4VOZHptZsPsq-uYPZ2amkCZUSMopfzLV7knM-McAN
+9SuLqzcG1HJotlkLFWleE5OOwN16XolioBSR82-Px9nMx0mCu3td6LK-dzN7NBdxgxefh-FxF0RSQfSDiumnzzaLLYFpd3m_guLSuBC6yN3pEUVBKNZN-SvZ
+xIRVUx8L5H6sz-qXFxphCHnw6PhXFm
+}
+
+
+!unquoted procedure gcp_cloud_armor($alias,$desc=" ")
+rectangle $alias <<cloud_armor>> as "<$gcp_cloud_armor>
+$desc
+"
+
+sprite $gcp_cloud_cdn [48x48/16z] {
+pTI7JiHG34JHUNRMyFy_JB5uLv4t4aDdr5BEXUswNYmvWsSHM3oBmE9P11RF8h1u5873KmGUbuuEF2_jO3bU8d0ynuVb9NOOdgCEyFzyqTi7B4DQVRIktzK-
+OiT3ScdTSmxXZwdx0Cunl3t1u9p0syy0pXaSJm2VlZcU03vzSxm8ebvtJ5_JhtOtYU3igzw2d9m0ttm7EVaCeZb1JZw3Q4wGayyWcXFa5IVWY207trizxKyl
+4xV-Q6iypFTyn9axlrTnuexFW7i-0-xu7PJbjRzuDpuYLW0t0xWPmCq0RWPmRt7xvCTkxXa
+}
+
+
+!unquoted procedure gcp_cloud_cdn($alias,$desc=" ")
+rectangle $alias <<cloud_cdn>> as "<$gcp_cloud_cdn>
+$desc
+"
+
+sprite $gcp_cloud_dns [48x48/16z] {
+xTCt5aD124FHZmGSxt_3pgui1wg9j-Kr4o2rrABB7bU57iULZTlJhb3e1txVGu571A78tazNUjHRJs76zztxE6Pl2YCodShG-wW1u1LW__LyWHhM8D_nnSLx
+zTQp1gNxrF2Wt-i2
+}
+
+
+!unquoted procedure gcp_cloud_dns($alias,$desc=" ")
+rectangle $alias <<cloud_dns>> as "<$gcp_cloud_dns>
+$desc
+"
+
+sprite $gcp_cloud_load_balancing [48x48/16z] {
+xTE53SH044FHyTYEjl-63y8CeiCd_0eknHVXGDL0xtd___xiaHumZcGfnKDUl_z_FyRIjZ0MSzM-l7W_BzwlbVlDZYRbhVlxmEGFMDSNtOy7Ka-iAqa_AzjI
+NOZMwCHwKWhKvRhow-__tpz0rY9GgmEJQ_4DxW
+}
+
+
+!unquoted procedure gcp_cloud_load_balancing($alias,$desc=" ")
+rectangle $alias <<cloud_load_balancing>> as "<$gcp_cloud_load_balancing>
+$desc
+"
+
+sprite $gcp_cloud_nat [48x48/16z] {
+jPK5biH024GBg-R-5rwZTruyOUMFJuf-UB23QE59D93Cf7IE_s0q3E9d1cWQ-9tV7YvB0yKLmKyKnRZpI5da9mQzyyX9Wqrz2hm-Jh6LdkMHF_2dCDXD12LN
+l1ZN3i63ePiYE9wZlIANGzhGUrk_340NCw6csADhVGvRfjuEzLpzYaMdqJU8VEd5YyWvfqA61ZboZU8hePfBXa58WvxeSwFFeI1fJy-dlFpN3IZ_eONbTy0I
+94CFynFBNyCm4Jp8FwLLty0DqUgV-u61TFfVdAJBsXsxsrUXXG3N2qL8EbzLLbXLwmoT-sSizu_XwdmNd_eXYBjfvmAjBZDSeBlzJ5nZPfYmTqTYUTEIyx_a
+rf9NRW8Dh2S777_9Em
+}
+
+
+!unquoted procedure gcp_cloud_nat($alias,$desc=" ")
+rectangle $alias <<cloud_nat>> as "<$gcp_cloud_nat>
+$desc
+"
+
+sprite $gcp_hybrid_connectivity [48x48/16z] xTMr0G0X44HHOBN_Xi_T9Zhdfxm8st1fSRTjBxhNEtoYZMJcSVm2JsEiO_8ad_q8eUTsCNWRz9sBJ_DTqAVMFUEyiazZ96CyzxYNU3mlNZyV7re9
+
+
+!unquoted procedure gcp_hybrid_connectivity($alias,$desc=" ")
+rectangle $alias <<hybrid_connectivity>> as "<$gcp_hybrid_connectivity>
+$desc
+"
+
+sprite $gcp_network_intelligence_center [48x48/16z] {
+rPK5RiOm38LhzlrFl3ygsCtRCgPFKF2JKN6s_u1ukhvTxZdmDtlFdRT6iDo9bKzLhdHAZzO1nR3RjgEPzm9yBYTsWTq_wHxFeS1qTtkeQ2XYPC3-80zegmIA
+6B-9UHWuErp-EpRbYNewysVM_b-lNrF1KZ-y-aZ7gvzv5kmHTiNodSYKFOxdi09Gl6yhiCO0Aw3GAu2PwptlS9F9FfFenNlkG0KoP4uRPU-Mv8pSuiRbq7KG
+e0-z6L2nnj-fDyqTvO4b83muPJ8jWm27i3FKqnN61HFUPK10EzSmZckDPOFVfu_5WWszyj4TpzJBQlJyWetQctGaPFDvbEpdFVfPS6Q1sYqx_59pUpg5joF4
+aGNkjr1LsVe-95MrqmfnURblfVIxGrdiyzrQ43EK4sXTtqVVSj_LkDzxN_yBdW
+}
+
+
+!unquoted procedure gcp_network_intelligence_center($alias,$desc=" ")
+rectangle $alias <<network_intelligence_center>> as "<$gcp_network_intelligence_center>
+$desc
+"
+
+sprite $gcp_network_service_tiers [48x48/16z] {
+jTLNreGm20NWIqtsl-7fd2Cw1FtBztmn7N70gkhkgYg4ZfXlcJ8Mr8-ih13_JWbVa7b9SC2-ejWZNpBg2xBB8wGiRGlCX4MiN0FB0qU1870kuMtyuLMWYqsE
+S_gWpxmIEHm3HPuHgeFfyxb0-toUKfe_AfQtY6AvoM56OupfY1rbBFWZ-Z9mYi-0Ksm6mHboCKypc0J2mWWwW-EK4VdnN_b05xTMKIDMtcpjU713ISOpn9-j
+yW_kZejsFRPRe--UJ_N0PiYlGN4gpqqSj3iYYtZ5yuxJ9qxLewUHRvX4l7pswdCx0LC0-xOYwYeeKSh7ggpFIsfIWah-leSsJ_bdGqq1e_r-uCspjvJlKRw3
+FIxYDPOlwJi
+}
+
+
+!unquoted procedure gcp_network_service_tiers($alias,$desc=" ")
+rectangle $alias <<network_service_tiers>> as "<$gcp_network_service_tiers>
+$desc
+"
+
+sprite $gcp_network_telemetry [48x48/16z] {
+xTKr5i1024LHP6p_AmuvlngbYkVLjne1HGanTJNWtbujuQgbpwMKdAeUvUEUDZN-oVSB8DcARD6m5cYnufWsu1GlsLhu5d2oTE41JlQ__ttxFSNzl_VsuTyN
+ZN_w_H8IHDCOqGO
+}
+
+
+!unquoted procedure gcp_network_telemetry($alias,$desc=" ")
+rectangle $alias <<network_telemetry>> as "<$gcp_network_telemetry>
+$desc
+"
+
+sprite $gcp_traffic_director [48x48/16z] {
+lTLNKWCm34LHTMl_AmRDE4eLvb5olu_S80dzFi6u1YES8npn7X6AdAPYu3IL8wS9w4Ij_zkhcIdYFxC_yh8Wxvc0bvMPo_YRtdFdSkUj1fuvHtP-z9Lb5oVV
+MzZQ0-rzzBK5iMUrxZqF0zmtQHzzeB6uyxt1NDpwqEC6SkUzlD1N-QqFEmxmklMXbm6Uxk4FVa_mj8qMi_PqcPYUYXyyoVRJJHuzoVRLsLToMjzlVSN3-IU_
+tmVmJ82VmxtMpVx_YrUrlAi0lqlGBvC7TY3kXm9En0JaeOJ4Jk_l0m
+}
+
+
+!unquoted procedure gcp_traffic_director($alias,$desc=" ")
+rectangle $alias <<traffic_director>> as "<$gcp_traffic_director>
+$desc
+"
+
+sprite $gcp_virtual_private_cloud [48x48/16z] {
+xTKr5i1024LHP6p_AmuvlngbYkVLjne1HGanTJNWtbujuQgbpwMKdAeUvUEUDZN-oVSB8DcARD6m5cYnufWsu1GlsLhu5d2oTE41JlQ__ttxFSNzl_VsuTyN
+ZN_w_H8IHDCOqGO
+}
+
+
+!unquoted procedure gcp_virtual_private_cloud($alias,$desc=" ")
+rectangle $alias <<virtual_private_cloud>> as "<$gcp_virtual_private_cloud>
+$desc
+"
+
+sprite $gcp_service_directory [48x48/16z] {
+bLLh6WGX24g3gVjVUDzyDjg--4b23gvjAt3Wk060jwzm7Yk-IFfHuP-zA-ZVpSbLstVbK2davv08jPpRortq6_VQgiSDjNTh5RPnihZKA3FS68jMhJJVxdYD
+oHs9O-x6ugOnvnoPzB1VGaxrYo7F4QnQ5wkQqmKupH1ypg2FGPmiiOfRnfZYegPe0trEp_Fq-1Z_RDyyUaRarhkzZZ6chvH5FTMQww8TfRIMGnvxy4tzy_Gn
+AWtjINtq1y3NuW3l_VLDfaDKYYcVPlRAVYWeKHP3weggPb_pbvJlHnjDM_tzLFjQ0_McVHmU-xWhaJZjOsOjcfEwxcFOCxqn_cuVuroWYEq-MdtY3WbY7vkJ
+2FUZZ2DDBHtvza64fMf3TL84LM5Y-U7lWd2pPkQWg37xjj4AnIj1wQc2z_Azm5YhhVKfGONrLSBdsYH1XdUGH7SHHV0D4lYVWgFz9q3x7JucsrzuP7K5
+}
+
+
+!unquoted procedure gcp_service_directory($alias,$desc=" ")
+rectangle $alias <<service_directory>> as "<$gcp_service_directory>
+$desc
+"
+
+sprite $gcp_operations [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_operations($alias,$desc=" ")
+rectangle $alias <<operations>> as "<$gcp_operations>
+$desc
+"
+
+sprite $gcp_cloud_logging [48x48/16z] {
+xTH50eLG241H6lQ_uT-fOhUUyJLUmlhm3voyPqlfzFtP0-RwhI_Uw0rztj0iRWY-rjCZfwYYRvp_Ryzq9wrxYpjVJQ_MG9FvcQnlTlOaAUu__qcHzl7Xg-Zb
+GrlrNzo-RxvFZkSA
+}
+
+
+!unquoted procedure gcp_cloud_logging($alias,$desc=" ")
+rectangle $alias <<cloud_logging>> as "<$gcp_cloud_logging>
+$desc
+"
+
+sprite $gcp_cloud_monitoring [48x48/16z] {
+xP85ZeLG303hxVrFl3WqNGADV9y8ycQIP_1SVX3VXm34Mg3ru0_sbRNZAm3e3N_NIr1yvgEEEQW-3yxoEgWSN08-cGAEUem1dllB56JIqIC5rSTr2hJg0vG3
+pfCV11c2NG_7572Q_2JPhjU0ZvFNnQ1Lhm6lJ9ClxC6khM3irA3YSIU87l9gllTyvbQWy2_hVQgyke-JwXCs81S-HSRWAiWWjFZn1m
+}
+
+
+!unquoted procedure gcp_cloud_monitoring($alias,$desc=" ")
+rectangle $alias <<cloud_monitoring>> as "<$gcp_cloud_monitoring>
+$desc
+"
+
+sprite $gcp_error_reporting [48x48/16z] {
+XTK7hiCm30HHqrIx_uL_SGHei62yH8k8D-c9hpDjdBcv2I33DQXvFflSfp98yFPixe695zwVJP0Zy9o1yjxRVZbzJn6axkht8JpNm7CDF2SHReD-dNJFM7yp
+F_583VALhwL1ldC6zBtc249ynH6e1m57KFdrpETsFtwyUWRUC_1U0kirSFvCGs3y-GnYMg_SUtBhbNkltFk7NrFUtCedtll4tTTU0_3QQq1-tOD-P1M0Nnt-
+Qt3u6CTBWDEDUzyg92Y7LvB0eHmL6XWk2y-voeZOkpqtEOFJwELLkGQt1ier2Bxdv3vGNWVTl6yc86UGPu8Reby
+}
+
+
+!unquoted procedure gcp_error_reporting($alias,$desc=" ")
+rectangle $alias <<error_reporting>> as "<$gcp_error_reporting>
+$desc
+"
+
+sprite $gcp_kubernetes_engine_monitoring [48x48/16z] {
+pTG7RiKm20PWTdB_4vTObX35HNI_ltqBVJWRE8S8FX5a3ytr3euuSGHdEaA3NHbtO1Xc8EvtAe1_Pqw5JYCidpVOdSFmjQDMiuVJOL3ewkjXK3qFc7_bzQZg
+KYd-TAOe5PEdh6i75d--8R3tb71UwFlxWxpUqiu8DjwKekFvIjTDdJUJNLgDUj-zVyAm8zSzy1vQPTSpltPAdOwz0TWBU3vv-SYZsCdVHaV_Q2d-KZ-jMZtl
+2yNPkmJnBdddnKnX1JMyxMFrxvez2yKTlVt5KLBEFZ_U_7Wj0o3xEYRhVEg6NZFWHeErMQLPf-reT5ciBD1s37Gxh_gEkQxpQjWnrp6lVY9l
+}
+
+
+!unquoted procedure gcp_kubernetes_engine_monitoring($alias,$desc=" ")
+rectangle $alias <<kubernetes_engine_monitoring>> as "<$gcp_kubernetes_engine_monitoring>
+$desc
+"
+
+sprite $gcp_service_monitoring [48x48/16z] {
+xP85ZeLG303hxVrFl3WqNGADV9y8ycQIP_1SVX3VXm34Mg3ru0_sbRNZAm3e3N_NIr1yvgEEEQW-3yxoEgWSN08-cGAEUem1dllB56JIqIC5rSTr2hJg0vG3
+pfCV11c2NG_7572Q_2JPhjU0ZvFNnQ1Lhm6lJ9ClxC6khM3irA3YSIU87l9gllTyvbQWy2_hVQgyke-JwXCs81S-HSRWAiWWjFZn1m
+}
+
+
+!unquoted procedure gcp_service_monitoring($alias,$desc=" ")
+rectangle $alias <<service_monitoring>> as "<$gcp_service_monitoring>
+$desc
+"
+
+sprite $gcp_cloud_trace [48x48/16z] xTAr5O1054JHxuV-6yRT7LPk_B8Py81rzEO-zg-BS0PD8THiIfCfsTV7NgV4fXWU5wt-VmftxBk_ZprmJQO8F901
+
+
+!unquoted procedure gcp_cloud_trace($alias,$desc=" ")
+rectangle $alias <<cloud_trace>> as "<$gcp_cloud_trace>
+$desc
+"
+
+sprite $gcp_cloud_profiler [48x48/16z] {
+pPL9bWCX34EnPBlh_XVkETX4WVTg5sqoy2t4FBgO8WxH-_884SPRokqM7fdx0ZEGC5lmNG4yyb_XcFYc096B0eN7aQwABSvyhO-CLxZdlvmm0tqMNDVbWaSb
+bdpNrXrZ4NfsRGYPCekowLfjDAUcgJz13vBeLgxsQQsMF_hxmxG3BmjaJfvehM8_pOgdjUQIbK6iFAi3Uze8cDywpvcHJrDMFGi_bia-ywPy_OJoA4FbgJoL
+L__WmL_pExdDhtoPw_pe_7TpdNzTtuRh-kh-mOgZcdVxKt7TdzRslnLkqhWvNwIShvldz-xzSEF-qJJd-qrpdkzFTJ_VpnJmVFyBfkCh2IqLNjQ-eVVle-eB
+}
+
+
+!unquoted procedure gcp_cloud_profiler($alias,$desc=" ")
+rectangle $alias <<cloud_profiler>> as "<$gcp_cloud_profiler>
+$desc
+"
+
+sprite $gcp_cloud_debugger [48x48/16z] {
+nT87ZiGm34DHIxJakV-5jmk9QIm1RVreCyb3m9JnSw77lUSDFG_XKTtN0DkvaDv1Fb9v0_b8wK4-yl0-hfpMpJozRO-ovT7pw7dNdZEmrw7dlUSTBM_eUVIy
+zxnXBokvvlIkEVkfnxEFpzP_XAZUlGqT7Xyj7g_zul7QhsEyzZHU-xeyXDkyN6DuoUz-xT-1pvVuJTtyel7pyPBmIUErFyThNskqZ_dIgx7h8wv_w_JnXYu_
+wzoZsdpaxcD87qdUf8yaZo4yPJMU4dxqlFKynZ_s3
+}
+
+
+!unquoted procedure gcp_cloud_debugger($alias,$desc=" ")
+rectangle $alias <<cloud_debugger>> as "<$gcp_cloud_debugger>
+$desc
+"
+
+sprite $gcp_transparent_service_level_indicators [48x48/16z] {
+xP85ZeLG303hxVrFl3WqNGADV9y8ycQIP_1SVX3VXm34Mg3ru0_sbRNZAm3e3N_NIr1yvgEEEQW-3yxoEgWSN08-cGAEUem1dllB56JIqIC5rSTr2hJg0vG3
+pfCV11c2NG_7572Q_2JPhjU0ZvFNnQ1Lhm6lJ9ClxC6khM3irA3YSIU87l9gllTyvbQWy2_hVQgyke-JwXCs81S-HSRWAiWWjFZn1m
+}
+
+
+!unquoted procedure gcp_transparent_service_level_indicators($alias,$desc=" ")
+rectangle $alias <<transparent_service_level_indicators>> as "<$gcp_transparent_service_level_indicators>
+$desc
+"
+
+sprite $gcp_security_and_identity [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_security_and_identity($alias,$desc=" ")
+rectangle $alias <<security_and_identity>> as "<$gcp_security_and_identity>
+$desc
+"
+
+sprite $gcp_cloud_iam [48x48/16z] {
+pT9Nka8X34NXdSxy9tmh7n4ZOjVr_9z20av66awuD3RtQ2q4boJk_kTR2yCcLlVk_tF6EZ7tzBtGrHd_OFhCwUGPYyz2wXdN_lZiLBZL1zhQ_tyyBlJZT7gP
+pud79TwGNU85MNo0l_p_SvmzkyJd1-Z2VHcLTHK_fw8UxNBlHT_bCLjJ9XQBcSV2QyvJO-6jJBzkm97fu3XAXrTaNEx-o5jl-d1vVVb0u31RUkdUS1XlFM7A
+Djun9njV1c5dVU0uEZjFGabplMN11jJMzo5mAgehzihh4XGzZZARya1-WhojUBrtAj5rCCv4vlyDZaqwUSCsik63S4ciVzuP5yScU4lV
+}
+
+
+!unquoted procedure gcp_cloud_iam($alias,$desc=" ")
+rectangle $alias <<cloud_iam>> as "<$gcp_cloud_iam>
+$desc
+"
+
+sprite $gcp_assured_workloads [48x48/16z] {
+xSy7aiDG28DX8G7n_K-yZ7iwtjw-zFYtPXxUpeGZg0X3cwJ8L7jywZFQ-TWNDWwgNP_U6T_wOernYPuBFH-l19QBCDoa5L4yLtmqNWn5kV47-R8VkSSR1zrm
+cT_uhV7DjdvzR5Edp_YqdgIySFlY4QSI9Uip8qBOyM4OSlfIK3X_sIxzbFw_F_58dsDDJtNwaL7opFHMRvB6lhWzxQcjB_Q1VHphYJZIEtXaVyghDpD5XDly
+9SmeFnL9OqzGclAivfhdmc2g7fppnEDUWCORB4Vnf8-n5-7h_NQDMW7SJw1XrmiTQnzeiRbtT8szq6TQwXS
+}
+
+
+!unquoted procedure gcp_assured_workloads($alias,$desc=" ")
+rectangle $alias <<assured_workloads>> as "<$gcp_assured_workloads>
+$desc
+"
+
+sprite $gcp_cloud_key_management [48x48/16z] {
+hT87ai8m38NXfyxzJxmOl0hME8ZsJwDyAHeBkqZT2Q_6wXwNImXUINmKbsjXQ29rJpzomNbixeUVXJQtJfyvRMVS-dn8dR7wKXWbjuAL2QnUhpZnUIE9LxpX
+A5xmX14p053lRquzxkkWhP_Vume8GESD0FlTEu1elCwlCO7_s1i0UV3nohpJooj-83AF-uf9VrvpkHMZU6yVbfNpkivrtsZTDwi-CmOWdhBpFazsJTFpIrwG
+lUHnP2_um97waOqste3j09XLBtYezu77fFM6fNPUh6dZ7QN6eoPfZOYgLw1cwR5T_HezyOHD_Ez5PFMCRNmoh-8azIpAhDqJek4pgZuOJoDRlAEDBNq8Nedj
+vaFnSkn6-4b_
+}
+
+
+!unquoted procedure gcp_cloud_key_management($alias,$desc=" ")
+rectangle $alias <<cloud_key_management>> as "<$gcp_cloud_key_management>
+$desc
+"
+
+sprite $gcp_confidential_computing [48x48/16z] {
+xTK54iCm34HHWxIZ-v-uCeooAJE_OUktuIGjCbnE3awJgt29dTN_-tf2UTS-3sDnFvhbX67VDddROXtUhiz3zBcip7uvtYdwKWc4Pcn_3xkeXrtKm_Rr6AYd
+tEJa-IoSdz-hNTGhSA3NWVgUktMFJlQU7qLdPvvFnNHUhmZdz0goszSfUc4b4kdgfp-F7__-d8ghucfnqiHIST6JOguFubI8kTJz-_NtL-ZxUuCD
+}
+
+
+!unquoted procedure gcp_confidential_computing($alias,$desc=" ")
+rectangle $alias <<confidential_computing>> as "<$gcp_confidential_computing>
+$desc
+"
+
+sprite $gcp_security_command_center [48x48/16z] {
+nTH5OiKm34NH9uky_mqNKlc3ZEKpJ6xGW1uRBieu85uhBbPTi4RwLj_xDqgOAleMfBvMAnXYgpNrmNdyseC-kFIlFUk3qhskIUg34IwbxleW_zGhBdBKEnCQ
+zcslUAARdf7miXTqUD4R1dJU4q9XBcYclRNQBfmVaFi8s48xdtgISBzxY7UIK32YTeS3zhcUx07zuFtFtv_AX-x_S1m9USJZW5ZGk5sUkfmEi5qatOuHACyV
+ObKc1B-lqc3t1_IadxmyNIvvTeNQ52JaDT1gJVIho_DTWfL-W--VBBNVZDdd-mPylRyvahBk6PciUaFFvhqJ1YptESyiz-iyYjmROKhxth32_joxO8tiiLV2
+Lh7MMy6Ho8RrAm
+}
+
+
+!unquoted procedure gcp_security_command_center($alias,$desc=" ")
+rectangle $alias <<security_command_center>> as "<$gcp_security_command_center>
+$desc
+"
+
+sprite $gcp_cloud_data_loss_prevention [48x48/16z] {
+xPH7biGW34HBeOJlV-8PWOLV9ve9o_uRfm-KJC0l-A0gsCPu9C6TDXB7nViMseuR34lir29g66A1TwKP4XjDV16cx9lH5A_esGM0kDki9cuZH0WWMjrrBxxH
+EQBbz-o69DZVYwLLvKdwH5Blqk-kM-Hj-YDi-NgLbA-w98I0wThurD3XwBu6qF91CHB3jufJtKtVogVXmgz_eMPQ_lCf4C3Ar-WCYyENALf_wuIcNth2Auyv
+yulgsP88o3bRZ0AebqG6D97fSqolt_gzg8RqBLMRVinlQWKWPnyErrGhZpBl7jTlr7JHqp9zNCvnewyNTDmiQ6_L_ZazRjBSrVoynv8uRcc2DUr6TwpHE1hR
+rd5I-GcOC-YAjx0AtA9swpPr6cpYJq-RzMGHnNyNA_l5phaA_0XJ_94FNm
+}
+
+
+!unquoted procedure gcp_cloud_data_loss_prevention($alias,$desc=" ")
+rectangle $alias <<cloud_data_loss_prevention>> as "<$gcp_cloud_data_loss_prevention>
+$desc
+"
+
+sprite $gcp_managed_service_for_microsoft_active_directory [48x48/16z] {
+bPP9SWKX34DRPhp_YMEeaFAF78NM-XbaCJuiwyyReOzN1RsFsUxnklXPRl7IDp_j3hV-pO_BNbsbNXSil7eBqtKHKdEyxPQTbo41AvgDduX4I5QskklKZVbd
+I2X7hM-Ywf1Aq5aoAiXn2tm8YNc3VOv_McYfUvoc4VWy9FiPblWO4eyFua_Fp1iUa7yge7o8pq92n8bFGh8GV-0f99e1J-HbI6RcDF5oOn1F1PBda3JF8MbU
+XWJypuzVAs3Qpm0jC79-VlRB-u47drMTH_PYSJFmUMJh-ZooTNqUsNha-JooTNqUsRe-ZsmzFu-jRPwjv-TnWN2UhESpM5ygphFr_3osLL0RMTTRVx1r_VwI
+TI4uJzQbal-6bleyV04
+}
+
+
+!unquoted procedure gcp_managed_service_for_microsoft_active_directory($alias,$desc=" ")
+rectangle $alias <<managed_service_for_microsoft_active_directory>> as "<$gcp_managed_service_for_microsoft_active_directory>
+$desc
+"
+
+sprite $gcp_access_transparency [48x48/16z] {
+xTH50eLG241H6lQ_uT-fOhUUyJLUmlhm3voyPqlfzFtP0-RwhI_Uw0rztj0iRWY-rjCZfwYYRvp_Ryzq9wrxYpjVJQ_MG9FvcQnlTlOaAUu__qcHzl7Xg-Zb
+GrlrNzo-RxvFZkSA
+}
+
+
+!unquoted procedure gcp_access_transparency($alias,$desc=" ")
+rectangle $alias <<access_transparency>> as "<$gcp_access_transparency>
+$desc
+"
+
+sprite $gcp_titan_security_key [48x48/16z] {
+xPHdOaCn28ED0S7zBvoTK5ozxjrylzvW27cCndHa9anEBm3CvjZ48g-4Nj81Lnujo8VWN087d8NFo4xSH04oLYHo9KObF9gYXJyloPDndXH7jAl91bFKdQmG
+DmHhO5IzTsVzBBOcMEHWDUlqggkdi_el-ceDQFpLPcqVf2q1YxVsOMx6Uoq7qK_ycJq_AXvyUKs6M70_2qqA7xS4yVrWNKufxdHtz9aDMkh1ZnXo1MpO0gow
+jF2EHXQXMzhvCfGpDhO1DN8Ra54_FVuUFxFu-lXxlE12_FBzPW3gJb0_eEDTx04
+}
+
+
+!unquoted procedure gcp_titan_security_key($alias,$desc=" ")
+rectangle $alias <<titan_security_key>> as "<$gcp_titan_security_key>
+$desc
+"
+
+sprite $gcp_secret_manager [48x48/16z] {
+xPI5aGGn30HVhFmZVeDCnynpi5rRROQ_jyelsaFx9HYIz-X-7xl4b_kytuSXXNXIFiidXZ61Z1FJJbzzEEmyiLxjep4adyJIufXWyb4yAOKLs63nnpB3n3Xl
+XBK_m9P82NQo2MxrNqg5DPoOWgaRYqzkuWPr1ilxoc0kKT7iGwvGNKFXr9nbBkyuAffzap8RSPeoQ_Mj_At-hi3q3FxI_H-HEzu_f_iZkD-7IVhe_F8F
+}
+
+
+!unquoted procedure gcp_secret_manager($alias,$desc=" ")
+rectangle $alias <<secret_manager>> as "<$gcp_secret_manager>
+$desc
+"
+
+sprite $gcp_serverless_computing [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_serverless_computing($alias,$desc=" ")
+rectangle $alias <<serverless_computing>> as "<$gcp_serverless_computing>
+$desc
+"
+
+sprite $gcp_cloud_run [48x48/16z] {
+jSy7ZWGn24HHGhizzx_mHbP_Ggasbo88cqVyUx8pICMdwUO5h-ryTr9L-5I_XTVzsG6pWIe_1S6WyFCjAfrw07bJ2f0mUH0DFmy8apyWcc3o1v0lWhof1SYP
+Ie2SAGs8nHRaJIr0pbHqAOs90rWWJEu0RxfhzL8vcB-yvwEpBo8xkNTQqqarle8SymFbGz2pVr4gomE_u2ZB0n-EiJ00nraOQ3ZAGZH7M-2V3nmiYd_0CHO-
+p7bjBV0thuq5_e9ZB02A2elXKs4n_1CE5iFluHWB4m2siG3UnnGvC9EtQPPr-DJk86V69n439iy
+}
+
+
+!unquoted procedure gcp_cloud_run($alias,$desc=" ")
+rectangle $alias <<cloud_run>> as "<$gcp_cloud_run>
+$desc
+"
+
+sprite $gcp_cloud_functions [48x48/16z] {
+lTH7GaD130HHf9hW-vyOYoH2UvgipGzw1SvttvxusWho5azIy9j1YXLq83Yau12QrwJWgETA1uBRG7CT26w3REw3AD_S1UsRwndl_3P-hlR5ByvVrfD_vDju
+TWNb1-ozblDhxGLPlhZt5L1-rNXVCwz-Vi6lh_fetrzKTQ8zaF94-m0G9wU_ZpxHFY7qYVPw_j7Nvs5-skzHdha_uujJdWgytrTUFe7flo_5-_iuxVUnU7kc
+yyLfJvuzqDu7sJxem774pw_X8Z1S1ff_2CBp3lgUNuNYfrKeVbg5uhtwhxa7
+}
+
+
+!unquoted procedure gcp_cloud_functions($alias,$desc=" ")
+rectangle $alias <<cloud_functions>> as "<$gcp_cloud_functions>
+$desc
+"
+
+sprite $gcp_app_engine [48x48/16z] {
+xPG7kiCm28EB09dxNxWJrrycUNkgCyblfitfLqffB-99oWjma2zoOBpgPU6GU4auBmf8tLJTJnyeaUCeD0KvGEj4rGheJDZ5TKKrZgcl8XYP9uDTVCKZTg8f
+RqxDB_ebcmxwWn45sSriDMhQiXRCnJ8FvM47mz7jqYBG_OA6X8tq1o-P1_ANuTsGaBmjKTwaKxvduT6kuGsU13l_35y7Rn7Fn19aOJ_ZsUT7_9p4Jmhyfitw
+wBClSjDg_NtKFoJhlzDVHZEzogwuRVPtF614jDRYAgPRxEvFZvJrcyN-Xp62AXt7qVE5uiXFnuxK1nww45uuVru-tru-Fsib-QyB
+}
+
+
+!unquoted procedure gcp_app_engine($alias,$desc=" ")
+rectangle $alias <<app_engine>> as "<$gcp_app_engine>
+$desc
+"
+
+sprite $gcp_workflows [48x48/16z] {
+xTK7ZeD038LX-prxuFudNaqmcEwWjYrVUlWbJPEGdugBDd6LcOB4DbTYfXEd112ge8eaK7QSWacKBFjXx8oH84PY7KqlUa8YbAvvP_IoVtt2dus7NiytXvFz
+M-kPlTXXloGj-vLzxTDpqGAAVhTdvaKlMso77WzxQMwBOv-SXrcUzBRmmMIZ6W-7Ppr6IVLwPb_lL_QrJm-Ig5OrUq95oUjTSr_tmFmH4I5RspwFwVWoNFHn
+thJivscCzbwFrgo3F1XFolc6eXTG5SJDUffiz5gBE_TFzGK
+}
+
+
+!unquoted procedure gcp_workflows($alias,$desc=" ")
+rectangle $alias <<workflows>> as "<$gcp_workflows>
+$desc
+"
+
+sprite $gcp_storage [48x48/16z] xO_54S1030Dz0Sse_uB3p4UlQB-soFO0vWD87q5DUWaSVowGW8_0yv_8zk-tsEbTxrPExpu2c0_b_RiGeWK
+
+
+!unquoted procedure gcp_storage($alias,$desc=" ")
+rectangle $alias <<storage>> as "<$gcp_storage>
+$desc
+"
+
+sprite $gcp_cloud_storage [48x48/16z] {
+xTIr0S0030D1ixF_mc5cvg-lbU3XMPpod3I8quLUbddVsrDMuMtAGzPAxpLFK0ydFKAZNcyrJrYF-hpNVBVjtYe_tNBl1tjBlCO9pOaJol3m90ddn1OdB_-7
+V9qRzpwzn-rxnnb_idNlsprbtNNlopsCzXS1
+}
+
+
+!unquoted procedure gcp_cloud_storage($alias,$desc=" ")
+rectangle $alias <<cloud_storage>> as "<$gcp_cloud_storage>
+$desc
+"
+
+sprite $gcp_filestore [48x48/16z] {
+xT355KCn30LHmV5p-gyuQyE4y_ckno3PSNW2w9CuN8_W-lSUY0TiKHulWKcHmo8HN8yShaUsVzvu7gXHnboDL2kiKnxtghT6rPDUa3SzFY3euO2W9plhh_xg
+xQ7B7G
+}
+
+
+!unquoted procedure gcp_filestore($alias,$desc=" ")
+rectangle $alias <<filestore>> as "<$gcp_filestore>
+$desc
+"
+
+sprite $gcp_persistent_disk [48x48/16z] xS_L5KGn24LHBhRIVyCppztTplTE08g3J0anlPB_F6X2J_FYtV5hVTcrFTEKvDeNWhCcUWrP_1ZFrbs77-uc7ZoGjRs42UtcFyy-fSJ_0G
+
+
+!unquoted procedure gcp_persistent_disk($alias,$desc=" ")
+rectangle $alias <<persistent_disk>> as "<$gcp_persistent_disk>
+$desc
+"
+
+sprite $gcp_cloud_storage_for_firebase [48x48/16z] {
+bT49aWCn24DH8y7zhpnnjMQN7VYrP7kkncJz36jKP4vzJ3nozW2-F0O-TrEFeI-DrbfFlU9-MuNMUdRnFAdjkUBNHH2dyLNmvwP0ll4AuYTFahah7H0_-7Wu
+cQK346TO_w3DvLESS1uavKi7o8ldJhp4gOwUyYL-y-8gEVDKfmN5Bvvyvw7T6suNnDovOVm53EzwDhtd_iBnvTdok7B2hSTpVm736vvjN-9D7sNuPK4m_BOW
+YdS7okB85sUURQ_0zdKL-bfTHl65_wSkHLyhcC6x9rQlaEuNm67m3m
+}
+
+
+!unquoted procedure gcp_cloud_storage_for_firebase($alias,$desc=" ")
+rectangle $alias <<cloud_storage_for_firebase>> as "<$gcp_cloud_storage_for_firebase>
+$desc
+"
+
+sprite $gcp_local_ssd [48x48/16z] {
+bPGBSWCW24I3WkpzBzn_ovHv6jFcwpmCk-pmY9oFkp_N-7XTqbN5JCc_UMcD9_H8ISLBOITwIOsNOaTRIC0hdMMcc2_XJUQMbtA0pEBRKRFA_j-bjDPWMLKo
+gLbNgwXRm0owgsWm6ogmGnwY97BWNC4EytJO5ERPbBj-MEPscij-ZhcdG5Cis25Fb1djnyuoFPiObkddSz-R4bGmmHOqBFWyEVxBS50vsR21GKXdmoQl3Nyf
+HTDUJT5PvaMAv8nnYY1gcAAh_WVGM86cY1pThwjXSQXmsWbZmIcPugM8AWAriMEV1GlTvebuyTjbviplOsY1l9_tNl5T9W-_U929uVhXWsHoUB_uWJHNV3Jz
+3W
+}
+
+
+!unquoted procedure gcp_local_ssd($alias,$desc=" ")
+rectangle $alias <<local_ssd>> as "<$gcp_local_ssd>
+$desc
+"
+
+sprite $gcp_archival_storage [48x48/16z] {
+rTLL0i9G34JH24oo_mtNtLw2SxyFKflIdoTD7AFQXZODPUvkR_PukHSMcRmLFRLns3DroU0nUw5LuzUll4Kz7_XrXz-FqPycuwy5lSfqUjHize7o7k_r7Rsr
+SQYEqf-NEDuxnlvs7on-Fyy-_houvPv7ppxlwJt9xHMGsaC3Odlxc_k0HtpYVSgjfJ-l1W
+}
+
+
+!unquoted procedure gcp_archival_storage($alias,$desc=" ")
+rectangle $alias <<archival_storage>> as "<$gcp_archival_storage>
+$desc
+"
+
+sprite $gcp_cloud_data_transfer [48x48/16z] {
+nPF50GD13CIoPAl_YlCy1WNrrg9d7X-aLETNHd4-sPmFKPmFtVZxHxJO1TWzedD5rhcVN3DcFe0vWdkCyaq_gtkl_4ytBvc7B-OjoXVxCehj-_-fxiw1kNLB
+g6PpXDz1-3KG_gm3iSio63MvOhvWS4tCDnT-2T3-D-vZtsl_KyvBv47dpUVPzyNtqVVTymG
+}
+
+
+!unquoted procedure gcp_cloud_data_transfer($alias,$desc=" ")
+rectangle $alias <<cloud_data_transfer>> as "<$gcp_cloud_data_transfer>
+$desc
+"
+
+sprite $gcp_google_workspace_essentials [48x48/16z] {
+pT07hiCm30DGMgQ7Ul_xTbSmqSZ1-kDXT4GG8-ANSLuMes2lZyjgic27xhA_ajWehlETP4Mk-zs8SUT3GSRyvJFFfpnW-DE8OxaDgFuK9_03nwRE3tuOZZGF
+uzLboBfS0nePQjBb4k1SbQpBG56JOyEWCYYwiagrNz-1RK1pLG2ZAjAbQhYZgjAbcAybL2Nl4ayr2vXVwmy3BEioSWyxBLzT1ggQTPa5bFpOvEIaoxkaq-gg
+GbGgT1S3K5GbwJ8xsIvYp1CSP_DzhinEru_rEx04-0n9W055rky3EkxQPto6RBxWGTRltgZXYJgUmzkKrqa3AjvCrcSd38GkNIRp1eHOd-cpOM5zxeq6PTmg
+-ATk
+}
+
+
+!unquoted procedure gcp_google_workspace_essentials($alias,$desc=" ")
+rectangle $alias <<google_workspace_essentials>> as "<$gcp_google_workspace_essentials>
+$desc
+"
+
