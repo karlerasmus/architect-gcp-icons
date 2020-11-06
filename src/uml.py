@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 
 procedure = """
-!unquoted procedure {name}($alias={name},$label=\"\")
+!unquoted procedure {name}($alias=\"{name}\",$label=\"\")
 gcp_component($alias,$label,$stereo="{name}",$sprite="${sprite}")
-gcp_style({name})
+gcp_style(\"{name}\")
 !endprocedure
 """
 
