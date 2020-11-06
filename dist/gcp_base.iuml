@@ -20,8 +20,8 @@ skinparam $gcp_obj<<$stereo>> {
 }
 !endprocedure
 
-!unquoted procedure gcp_component($alias="gcp_component",$label="",$stereo="gcp_component",$sprite="$gcp")
-$gcp_obj $alias as "<$sprite>$label" <<$stereo>>
+!unquoted procedure gcp_component($alias="gcp_component",$label="",$stereo="gcp_component",$sprite="$gcp",$color="#0A45A4")
+$gcp_obj $alias as "<$sprite,color:$color>$label" <<$stereo>>
 !endprocedure
 
 !unquoted procedure gcp_zone($label="Zone",$alias="",$color="#FFF3E0",$shape="rectangle")
