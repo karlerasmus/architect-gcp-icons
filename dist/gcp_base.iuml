@@ -14,7 +14,7 @@ OVt3AsFR8ljOtJDkqwucQth8KwRrjJ3j4UrnB6TLl7ZBAKWM-MsDSExho1Hddb-aEqzmNjbuWlEAuDA7
 !endprocedure
 
 !unquoted procedure gcp_style($stereo="")
-skinparam $gcp_component<<$stereo>> {
+skinparam $gcp_obj<<$stereo>> {
     BorderColor #cccccc
     BackgroundColor #ffffff
 }
