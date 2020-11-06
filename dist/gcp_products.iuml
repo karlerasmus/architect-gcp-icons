@@ -197,9 +197,9 @@ gcp_style(gcp_ai_and_machine_learning)
 !endprocedure
 
 
-!unquoted procedure gcp_speech-to-text($alias=gcp_speech-to-text,$label="")
-gcp_component($alias,$label,$stereo="gcp_speech-to-text",$sprite="gcp_speech-to-text")
-gcp_style(gcp_speech-to-text)
+!unquoted procedure gcp_speech_to_text($alias=gcp_speech_to_text,$label="")
+gcp_component($alias,$label,$stereo="gcp_speech_to_text",$sprite="gcp_speech_to_text")
+gcp_style(gcp_speech_to_text)
 !endprocedure
 
 
@@ -209,9 +209,9 @@ gcp_style(gcp_vision_ai)
 !endprocedure
 
 
-!unquoted procedure gcp_text-to-speech($alias=gcp_text-to-speech,$label="")
-gcp_component($alias,$label,$stereo="gcp_text-to-speech",$sprite="gcp_text-to-speech")
-gcp_style(gcp_text-to-speech)
+!unquoted procedure gcp_text_to_speech($alias=gcp_text_to_speech,$label="")
+gcp_component($alias,$label,$stereo="gcp_text_to_speech",$sprite="gcp_text_to_speech")
+gcp_style(gcp_text_to_speech)
 !endprocedure
 
 
@@ -371,9 +371,9 @@ gcp_style(gcp_shielded_vms)
 !endprocedure
 
 
-!unquoted procedure gcp_sole-tenant_nodes($alias=gcp_sole-tenant_nodes,$label="")
-gcp_component($alias,$label,$stereo="gcp_sole-tenant_nodes",$sprite="gcp_sole-tenant_nodes")
-gcp_style(gcp_sole-tenant_nodes)
+!unquoted procedure gcp_sole_tenant_nodes($alias=gcp_sole_tenant_nodes,$label="")
+gcp_component($alias,$label,$stereo="gcp_sole_tenant_nodes",$sprite="gcp_sole_tenant_nodes")
+gcp_style(gcp_sole_tenant_nodes)
 !endprocedure
 
 
@@ -683,9 +683,9 @@ gcp_style(gcp_healthcare_natural_language_ai)
 !endprocedure
 
 
-!unquoted procedure gcp_hybrid_and_multi-cloud($alias=gcp_hybrid_and_multi-cloud,$label="")
-gcp_component($alias,$label,$stereo="gcp_hybrid_and_multi-cloud",$sprite="gcp_hybrid_and_multi-cloud")
-gcp_style(gcp_hybrid_and_multi-cloud)
+!unquoted procedure gcp_hybrid_and_multi_cloud($alias=gcp_hybrid_and_multi_cloud,$label="")
+gcp_component($alias,$label,$stereo="gcp_hybrid_and_multi_cloud",$sprite="gcp_hybrid_and_multi_cloud")
+gcp_style(gcp_hybrid_and_multi_cloud)
 !endprocedure
 
 

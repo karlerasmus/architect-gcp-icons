@@ -32,7 +32,7 @@ for product in products:
 
     if src[0] == "/":
         src = url + src
-    name = title.string.strip().lower().replace("/","").replace(" ", "_")
+    name = title.string.strip().lower().replace("/","").replace("-","_").replace(" ", "_")
     prodList.append({"name": name, "icon": src, "icon-type": typ})
 
 driver.quit()

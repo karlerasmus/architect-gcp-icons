@@ -165,7 +165,7 @@
         "icon-type": "svg"
     },
     {
-        "name": "speech-to-text",
+        "name": "speech_to_text",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudspeechapi",
         "icon-type": "svg"
     },
@@ -175,7 +175,7 @@
         "icon-type": "svg"
     },
     {
-        "name": "text-to-speech",
+        "name": "text_to_speech",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudtexttospeech",
         "icon-type": "svg"
     },
@@ -310,7 +310,7 @@
         "icon-type": "svg"
     },
     {
-        "name": "sole-tenant_nodes",
+        "name": "sole_tenant_nodes",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine",
         "icon-type": "svg"
     },
@@ -570,7 +570,7 @@
         "icon-type": "svg"
     },
     {
-        "name": "hybrid_and_multi-cloud",
+        "name": "hybrid_and_multi_cloud",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
