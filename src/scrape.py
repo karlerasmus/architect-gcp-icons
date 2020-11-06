@@ -1,6 +1,5 @@
-#import re
-import os
 import json
+from pathlib import Path
 
 from selenium import webdriver
 # from selenium.webdriver.common.keys import Keys
@@ -25,6 +24,8 @@ prodList = []
 for product in products:
     title = product.parent.find('div', class_="devsite-nav-item-title")
     src = product.img['src']
+    if "forward.svg" in src:
+        src = "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud"
     typ = "img"
     if "svg" in src:
         typ = "svg"
@@ -35,5 +36,7 @@ for product in products:
     prodList.append({"name": name, "icon": src, "icon-type": typ})
 
 driver.quit()
-with open("gcp_products.json", "w") as fp:
+
+filePathName = Path.cwd() / "src" / "gcp_products.json"
+with open(filePathName, "w") as fp:
     json.dump(prodList, fp, indent=4)

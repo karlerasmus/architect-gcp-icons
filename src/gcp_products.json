@@ -1,7 +1,7 @@
 [
     {
         "name": "industry_solutions",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -66,42 +66,42 @@
     },
     {
         "name": "application_modernization",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "artificial_intelligence",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "business_application_platform",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "data_management",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "infrastructure_modernization",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "productivity_and_collaboration",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "security",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "smart_analytics",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "name": "ai_and_machine_learning",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "name": "compute",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "name": "containers",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -391,7 +391,7 @@
     },
     {
         "name": "data_analytics",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -456,7 +456,7 @@
     },
     {
         "name": "databases",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -491,7 +491,7 @@
     },
     {
         "name": "developer_tools",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -571,7 +571,7 @@
     },
     {
         "name": "hybrid_and_multi-cloud",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -626,7 +626,7 @@
     },
     {
         "name": "management_tools",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -676,7 +676,7 @@
     },
     {
         "name": "migration",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
         "name": "networking",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -786,7 +786,7 @@
     },
     {
         "name": "operations",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -836,7 +836,7 @@
     },
     {
         "name": "security_and_identity",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -891,7 +891,7 @@
     },
     {
         "name": "serverless_computing",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
@@ -916,7 +916,7 @@
     },
     {
         "name": "storage",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/forward.svg",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {

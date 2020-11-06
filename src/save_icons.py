@@ -1,11 +1,14 @@
+from pathlib import Path
+import json
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
+# from selenium.webdriver.common.by import By
 from PIL import Image
 from io import BytesIO
 import numpy as np
-import subprocess
-import json
+# import subprocess
+
 
 driver_path = '/home/karl/bin/chromedriver'
 
@@ -19,7 +22,8 @@ def make_transparent_bgd(img, rgba):
     return Image.fromarray(data)
 
 
-with open("gcp_products.json", "r") as fp:
+filePathName = Path.cwd() / "src" / "gcp_products.json"
+with open(filePathName, "r") as fp:
     products = json.load(fp)
 
 
@@ -54,7 +58,7 @@ for size in sizes:
             driver.execute_script(f"document.getElementsByTagName('img')[0].style.width = {size['img-size']}") 
 
         # take screenshot with a transparent background
-        image_path = f"icons/{size['size']}/{product['name']}.png"
+        image_path = f"{Path.cwd()}/icons/{size['size']}/{product['name']}.png"
         with Image.open(BytesIO(driver.get_screenshot_as_png())) as img:
             with make_transparent_bgd(img, 0xffffffff) as img2:                       
                 img2.save(image_path)
