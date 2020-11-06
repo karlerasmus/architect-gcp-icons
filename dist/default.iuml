@@ -1,0 +1,4 @@
+!$dist = "https://raw.githubusercontent.com/karlerasmus/architect-gcp-icons/master/dist"
+!include $dist/gcp_sprites.iuml
+!include $dist/gcp_base.iuml
+!include $dist/gcp_products.iuml

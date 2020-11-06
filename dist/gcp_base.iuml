@@ -1,0 +1,138 @@
+sprite $gcp [48x48/16z] {
+xTL5UaCn30JWYiQw_uMB-WpnF5etiscJ_6RwU4VC0RZhBHmvWgiYYXovBj5oZnzgJPecd5iUU52kHxmbAo37F3DsZmMv1uhpGTk4TNnNF5CEPt9ksnlxjWOB
+k3kKDzjM7ytD_s9BqvuLMtnPKWAi0VCrIfObIEsiG1yoIEsa0FAbW19kPCIrQa8vzUsbDwhMEJr2FWzMgdUTzyJKW0nUeozE2sZl3b5aUtdtiYCowA3--F3X
+OVt3AsFR8ljOtJDkqwucQth8KwRrjJ3j4UrnB6TLl7ZBAKWM-MsDSExho1Hddb-aEqzmNjbuWlEAuDA7y8U5UtJT8-g1dlbVrzB_CLy
+}
+
+
+!procedure gcp_component_diagram()
+    %set_variable_value("$gcp_obj", "rectangle")
+!endprocedure
+
+!procedure gcp_sequence_diagram()
+    %set_variable_value("$gcp_obj", "participant")
+!endprocedure
+
+!unquoted procedure gcp_style($stereo="")
+skinparam $gcp_component<<$stereo>> {
+    BorderColor #cccccc
+    BackgroundColor #ffffff
+}
+!endprocedure
+
+!unquoted procedure gcp_component($alias="gcp_component",$label="",$stereo="gcp_component",$sprite="$gcp")
+$gcp_obj $alias as "<$sprite>$label" <<$stereo>>
+!endprocedure
+
+!unquoted procedure gcp_zone($label="Zone",$alias="",$color="#FFF3E0",$shape="rectangle")
+!if $alias == ""
+$shape "$label" $color
+!else
+$shape $alias as "$label" $color
+!endif
+!endprocedure
+
+!unquoted procedure gcp()
+rectangle "<$gcp>Google Cloud Platform" #F6F6F6;line:F6F6F6
+!endprocedure
+
+!unquoted procedure gcp_zone_user($label="User Zone",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#FFFFFF)
+!endprocedure
+
+!unquoted procedure gcp_zone_infra($label="User Zone",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#F3E5F5)
+!endprocedure
+
+!unquoted procedure gcp_zone_colo($label="Colocation Zone",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#F3E5F5)
+!endprocedure
+
+!unquoted procedure gcp_zone_system($label="System Zone",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#F1F8E9)
+!endprocedure
+
+!unquoted procedure gcp_zone_saas($label="Saas Providers",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#FFEBEE)
+!endprocedure
+
+!unquoted procedure gcp_zone_ext_data_sources($label="External Data Sources",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#FFF8E1)
+!endprocedure
+
+!unquoted procedure gcp_zone_ext_infra_3rd($label="External Infrastructure 3rd Party",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E0F2F1)
+!endprocedure
+
+!unquoted procedure gcp_zone_ext_infra_1st($label="External Infrastructure 1st Party",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E1F5FE)
+!endprocedure
+
+!unquoted procedure gcp_zone_project($label="Project Zone",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#F6F6F6)
+!endprocedure
+
+!unquoted procedure gcp_zone_group($label="Group",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E3F2FD)
+!endprocedure
+
+!unquoted procedure gcp_zone_group($label="Group",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E3F2FD)
+!endprocedure
+
+!unquoted procedure gcp_zone_subnet($label="SubNet",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#EDE7F6)
+!endprocedure
+
+!unquoted procedure gcp_zone_kube($label="Kubernetes Cluster",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#FCE4EC)
+!endprocedure
+
+!unquoted procedure gcp_zone_pod($label="Kubernetes Cluster",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E8F5E9)
+!endprocedure
+
+!unquoted procedure gcp_zone_account($label="Account",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E8EAF6)
+!endprocedure
+
+!unquoted procedure gcp_zone_region($label="Region",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#ECEFF1)
+!endprocedure
+
+!unquoted procedure gcp_zone_firewall($label="Firewall",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#FBE9E7)
+!endprocedure
+
+!unquoted procedure gcp_zone_instance_grp($label="Instance Group",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#F9FBE7)
+!endprocedure
+
+!unquoted procedure gcp_zone_replica_pool($label="Replica Pool",$alias="",$shape="rectangle")
+gcp_zone($label,$alias,#E0F7FA)
+!endprocedure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -22,9 +22,19 @@ Activate virtual environment
 ```python
 source env/bin/activate
 ```
+Install requirements
+```python
+pip3 install -r requirements.txt
+```
+
 Deactivate virtual environment
 ```python
 deactivate
+```
+
+Remove virtual env
+```sh
+rm -rf env
 ```
 
 Snapshot requirements
