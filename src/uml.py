@@ -6,7 +6,7 @@ procedure = """
 !unquoted procedure {name}($alias={name},$label=\"\")
 gcp_component($alias,$label,$stereo="{name}",$sprite="{sprite}")
 gcp_style({name})
-endprocedure
+!endprocedure
 """
 
 filePathName = Path.cwd() / "src" / "gcp_products.json"
