@@ -4,6 +4,19 @@ k3kKDzjM7ytD_s9BqvuLMtnPKWAi0VCrIfObIEsiG1yoIEsa0FAbW19kPCIrQa8vzUsbDwhMEJr2FWzM
 OVt3AsFR8ljOtJDkqwucQth8KwRrjJ3j4UrnB6TLl7ZBAKWM-MsDSExho1Hddb-aEqzmNjbuWlEAuDA7y8U5UtJT8-g1dlbVrzB_CLy
 }
 
+sprite $gcp_folder [36x36/16z] xTAb0S1000J1SABk-kyswfdLu-gHkmtS1Sg-W54aZCWqOWPYC5nfGsGObfhDKwDccK2b1XcFNKYyEcW_
+sprite $gcp_domain [36x36/16z] OnXyW0CLO5N3ZmeeKGEq0aBYKGCdoLQ3QHTMR_BZ1SIemMyNX4lGpIIfmRGBA0WXyRWP9ajO3HbsOMeSzHUHQOEwwP03Bs0OV
+sprite $gcp_hexagon [48x48/16z] {
+xPI5hWKn24IXhdV-_skVTCFLiY7wzCHMAimWz8tunzNB4zNH2GCl3DA9s119Wx65II5ZIzR4Ga6HNB68_fdz-e15CNk_kPpBWIutqGD9yvGpyGMO_FHvAfuM
+E8f0E5R5KYAVgN908nfjlVXrwFJhfRt8ag-1lB_58B5vBDghb-EvYWwL1Oj0TtJSULDaVRclglww7cnTBovOun4Nh7gb68n-ogtMV8agQps8IhtUzDdWDhA6
+jLz4bQaVMRoifdxladOuqppnOa4spQkYUAdDGwTugSpRf7YfpFF1L6MUVoF-UGS
+}
+sprite $gcp_project [48x48/16z] {
+nPL7OiCm40ENlLhx_z_cg08AJ6ALkTdgGomepn1qnSaKyz6LAbEYRl4omUgEZn5ErZrHA4wFy0SqE3yBmIlYg4kaCfS0TPfqH90ppA98ezb1tD5pu3xX_yMm
+zRButCJpWDzbJ_FMXvuBpxD51tHUCdNiwue51-2KPtPrIZEBnClEbwehWxaEc1t4ZpFQvZuJUZDalUp8MpplW3BqqA5ZU9uzteFFIuNCydcqPSN_UTvvd_WB
+-ehruGLzIxAO_xfVNBWVOHRxfVifPB7875zMhBp83m
+}
+
 
 !procedure gcp_component_diagram()
     %set_variable_value("$gcp_obj", "rectangle")
@@ -33,7 +46,7 @@ $shape $alias as "$label" $color
 !endprocedure
 
 !unquoted procedure gcp()
-rectangle "<$gcp>Google Cloud" #F6F6F6;line:F6F6F6
+rectangle "<img:https://raw.githubusercontent.com/karlerasmus/architect-gcp-icons/master/icons/large/gcp.png>\nGoogle Cloud" #F6F6F6;line:F6F6F6
 !endprocedure
 
 !unquoted procedure gcp_zone_user($label="User Zone",$alias="",$shape="rectangle")
@@ -69,7 +82,8 @@ gcp_zone($label,$alias,"#E1F5FE;line:transparent",$shape)
 !endprocedure
 
 !unquoted procedure gcp_zone_project($label="Project Zone",$alias="",$shape="rectangle")
-gcp_zone($label,$alias,"#F6F6F6;line:transparent",$shape)
+!local $label2 = "<$gcp_hexagon{scale=0.75}>\n" + $label
+gcp_zone($label2,$alias,"#F6F6F6;line:transparent",$shape)
 !endprocedure
 
 !unquoted procedure gcp_zone_group($label="Group",$alias="",$shape="rectangle")
@@ -110,6 +124,17 @@ gcp_zone($label,$alias,"#F9FBE7;line:transparent",$shape)
 
 !unquoted procedure gcp_zone_replica_pool($label="Replica Pool",$alias="",$shape="rectangle")
 gcp_zone($label,$alias,"#E0F7FA;line:transparent",$shape)
+!endprocedure
+
+
+!unquoted procedure gcp_domain($label="Domain",$alias="",$shape="rectangle")
+!local $label2 = "<$gcp_domain>\n" + $label
+gcp_zone($label2,$alias,"#E0F7FA;line:transparent",$shape)
+!endprocedure
+
+!unquoted procedure gcp_folder($label="Folder",$alias="",$shape="rectangle")
+!local $label2 = "<$gcp_folder>\n" + $label
+gcp_zone($label2,$alias,"#E0F7FA;line:transparent",$shape)
 !endprocedure
 
 
