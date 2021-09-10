@@ -20,7 +20,7 @@ lxml==4.6.1
 #Mako==1.0.7
 #MarkupSafe==1.1.0
 numpy==1.19.4
-Pillow==8.0.1
+Pillow==8.3.2
 #pipdeptree==1.0.0
 #pycrypto==2.6.1
 #pycups==1.9.73
