@@ -82,7 +82,7 @@ gcp_zone($label,$alias,"#E1F5FE;line:transparent",$shape)
 !endprocedure
 
 !unquoted procedure gcp_zone_project($label="Project Zone",$alias="",$shape="rectangle")
-!local $label2 = "<$gcp_hexagon{scale=0.75}>\n" + $label
+!local $label2 = "<$gcp_project{scale=0.75}>\n" + $label
 gcp_zone($label2,$alias,"#F6F6F6;line:transparent",$shape)
 !endprocedure
 
