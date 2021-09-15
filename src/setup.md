@@ -10,6 +10,9 @@ Setup
 + Java
 + plantuml.jar
 
+## Chromedriver install
+https://tecadmin.net/setup-selenium-with-chromedriver-on-debian/
+
 ## Running
 
 ### Virtual environment

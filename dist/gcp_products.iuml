@@ -11,6 +11,12 @@ gcp_style("gcp_retail")
 !endprocedure
 
 
+!unquoted procedure gcp_consumer_packaged_goods($alias="gcp_consumer_packaged_goods",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_consumer_packaged_goods",$sprite="$gcp_consumer_packaged_goods",$color=$color)
+gcp_style("gcp_consumer_packaged_goods")
+!endprocedure
+
+
 !unquoted procedure gcp_financial_services($alias="gcp_financial_services",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_financial_services",$sprite="$gcp_financial_services",$color=$color)
 gcp_style("gcp_financial_services")
@@ -47,9 +53,9 @@ gcp_style("gcp_manufacturing")
 !endprocedure
 
 
-!unquoted procedure gcp_energy($alias="gcp_energy",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_energy",$sprite="$gcp_energy",$color=$color)
-gcp_style("gcp_energy")
+!unquoted procedure gcp_supply_chain_and_logistics($alias="gcp_supply_chain_and_logistics",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_supply_chain_and_logistics",$sprite="$gcp_supply_chain_and_logistics",$color=$color)
+gcp_style("gcp_supply_chain_and_logistics")
 !endprocedure
 
 
@@ -62,18 +68,6 @@ gcp_style("gcp_government")
 !unquoted procedure gcp_education($alias="gcp_education",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_education",$sprite="$gcp_education",$color=$color)
 gcp_style("gcp_education")
-!endprocedure
-
-
-!unquoted procedure gcp_small_and_medium_business($alias="gcp_small_and_medium_business",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_small_and_medium_business",$sprite="$gcp_small_and_medium_business",$color=$color)
-gcp_style("gcp_small_and_medium_business")
-!endprocedure
-
-
-!unquoted procedure gcp_cloud_natives($alias="gcp_cloud_natives",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_natives",$sprite="$gcp_cloud_natives",$color=$color)
-gcp_style("gcp_cloud_natives")
 !endprocedure
 
 
@@ -95,9 +89,9 @@ gcp_style("gcp_business_application_platform")
 !endprocedure
 
 
-!unquoted procedure gcp_data_management($alias="gcp_data_management",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_data_management",$sprite="$gcp_data_management",$color=$color)
-gcp_style("gcp_data_management")
+!unquoted procedure gcp_databases($alias="gcp_databases",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_databases",$sprite="$gcp_databases",$color=$color)
+gcp_style("gcp_databases")
 !endprocedure
 
 
@@ -122,6 +116,12 @@ gcp_style("gcp_security")
 !unquoted procedure gcp_smart_analytics($alias="gcp_smart_analytics",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_smart_analytics",$sprite="$gcp_smart_analytics",$color=$color)
 gcp_style("gcp_smart_analytics")
+!endprocedure
+
+
+!unquoted procedure gcp_startups_and_smb($alias="gcp_startups_and_smb",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_startups_and_smb",$sprite="$gcp_startups_and_smb",$color=$color)
+gcp_style("gcp_startups_and_smb")
 !endprocedure
 
 
@@ -185,15 +185,21 @@ gcp_style("gcp_cloud_run")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_functions($alias="gcp_cloud_functions",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_functions",$sprite="$gcp_cloud_functions",$color=$color)
-gcp_style("gcp_cloud_functions")
+!unquoted procedure gcp_anthos($alias="gcp_anthos",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_anthos",$sprite="$gcp_anthos",$color=$color)
+gcp_style("gcp_anthos")
 !endprocedure
 
 
 !unquoted procedure gcp_ai_and_machine_learning($alias="gcp_ai_and_machine_learning",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_ai_and_machine_learning",$sprite="$gcp_ai_and_machine_learning",$color=$color)
 gcp_style("gcp_ai_and_machine_learning")
+!endprocedure
+
+
+!unquoted procedure gcp_vertex_ai($alias="gcp_vertex_ai",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_vertex_ai",$sprite="$gcp_vertex_ai",$color=$color)
+gcp_style("gcp_vertex_ai")
 !endprocedure
 
 
@@ -233,12 +239,6 @@ gcp_style("gcp_automl")
 !endprocedure
 
 
-!unquoted procedure gcp_ai_platform($alias="gcp_ai_platform",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_ai_platform",$sprite="$gcp_ai_platform",$color=$color)
-gcp_style("gcp_ai_platform")
-!endprocedure
-
-
 !unquoted procedure gcp_video_ai($alias="gcp_video_ai",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_video_ai",$sprite="$gcp_video_ai",$color=$color)
 gcp_style("gcp_video_ai")
@@ -263,57 +263,15 @@ gcp_style("gcp_automl_tables")
 !endprocedure
 
 
-!unquoted procedure gcp_apigee_api_platform($alias="gcp_apigee_api_platform",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_apigee_api_platform",$sprite="$gcp_apigee_api_platform",$color=$color)
-gcp_style("gcp_apigee_api_platform")
-!endprocedure
-
-
-!unquoted procedure gcp_analyze_apis($alias="gcp_analyze_apis",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_analyze_apis",$sprite="$gcp_analyze_apis",$color=$color)
-gcp_style("gcp_analyze_apis")
-!endprocedure
-
-
-!unquoted procedure gcp_monetize_apis($alias="gcp_monetize_apis",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_monetize_apis",$sprite="$gcp_monetize_apis",$color=$color)
-gcp_style("gcp_monetize_apis")
-!endprocedure
-
-
-!unquoted procedure gcp_apigee_hybrid($alias="gcp_apigee_hybrid",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_apigee_hybrid",$sprite="$gcp_apigee_hybrid",$color=$color)
-gcp_style("gcp_apigee_hybrid")
-!endprocedure
-
-
-!unquoted procedure gcp_apigee_sense($alias="gcp_apigee_sense",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_apigee_sense",$sprite="$gcp_apigee_sense",$color=$color)
-gcp_style("gcp_apigee_sense")
+!unquoted procedure gcp_apigee_api_management($alias="gcp_apigee_api_management",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_apigee_api_management",$sprite="$gcp_apigee_api_management",$color=$color)
+gcp_style("gcp_apigee_api_management")
 !endprocedure
 
 
 !unquoted procedure gcp_cloud_endpoints($alias="gcp_cloud_endpoints",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_cloud_endpoints",$sprite="$gcp_cloud_endpoints",$color=$color)
 gcp_style("gcp_cloud_endpoints")
-!endprocedure
-
-
-!unquoted procedure gcp_developer_portal($alias="gcp_developer_portal",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_developer_portal",$sprite="$gcp_developer_portal",$color=$color)
-gcp_style("gcp_developer_portal")
-!endprocedure
-
-
-!unquoted procedure gcp_apigee_healthcare_apix($alias="gcp_apigee_healthcare_apix",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_apigee_healthcare_apix",$sprite="$gcp_apigee_healthcare_apix",$color=$color)
-gcp_style("gcp_apigee_healthcare_apix")
-!endprocedure
-
-
-!unquoted procedure gcp_apigee_open_banking_apix($alias="gcp_apigee_open_banking_apix",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_apigee_open_banking_apix",$sprite="$gcp_apigee_open_banking_apix",$color=$color)
-gcp_style("gcp_apigee_open_banking_apix")
 !endprocedure
 
 
@@ -326,6 +284,12 @@ gcp_style("gcp_cloud_healthcare_api")
 !unquoted procedure gcp_appsheet($alias="gcp_appsheet",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_appsheet",$sprite="$gcp_appsheet",$color=$color)
 gcp_style("gcp_appsheet")
+!endprocedure
+
+
+!unquoted procedure gcp_api_gateway($alias="gcp_api_gateway",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_api_gateway",$sprite="$gcp_api_gateway",$color=$color)
+gcp_style("gcp_api_gateway")
 !endprocedure
 
 
@@ -515,33 +479,27 @@ gcp_style("gcp_cloud_composer")
 !endprocedure
 
 
-!unquoted procedure gcp_data_catalog($alias="gcp_data_catalog",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_data_catalog",$sprite="$gcp_data_catalog",$color=$color)
-gcp_style("gcp_data_catalog")
-!endprocedure
-
-
 !unquoted procedure gcp_dataprep($alias="gcp_dataprep",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_dataprep",$sprite="$gcp_dataprep",$color=$color)
 gcp_style("gcp_dataprep")
 !endprocedure
 
 
-!unquoted procedure gcp_google_data_studio($alias="gcp_google_data_studio",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_google_data_studio",$sprite="$gcp_google_data_studio",$color=$color)
-gcp_style("gcp_google_data_studio")
+!unquoted procedure gcp_dataplex($alias="gcp_dataplex",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_dataplex",$sprite="$gcp_dataplex",$color=$color)
+gcp_style("gcp_dataplex")
 !endprocedure
 
 
-!unquoted procedure gcp_google_marketing_platform($alias="gcp_google_marketing_platform",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_google_marketing_platform",$sprite="$gcp_google_marketing_platform",$color=$color)
-gcp_style("gcp_google_marketing_platform")
+!unquoted procedure gcp_data_catalog($alias="gcp_data_catalog",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_data_catalog",$sprite="$gcp_data_catalog",$color=$color)
+gcp_style("gcp_data_catalog")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_life_sciences($alias="gcp_cloud_life_sciences",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_life_sciences",$sprite="$gcp_cloud_life_sciences",$color=$color)
-gcp_style("gcp_cloud_life_sciences")
+!unquoted procedure gcp_analytics_hub($alias="gcp_analytics_hub",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_analytics_hub",$sprite="$gcp_analytics_hub",$color=$color)
+gcp_style("gcp_analytics_hub")
 !endprocedure
 
 
@@ -581,9 +539,27 @@ gcp_style("gcp_cloud_sql")
 !endprocedure
 
 
+!unquoted procedure gcp_database_migration_service($alias="gcp_database_migration_service",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_database_migration_service",$sprite="$gcp_database_migration_service",$color=$color)
+gcp_style("gcp_database_migration_service")
+!endprocedure
+
+
+!unquoted procedure gcp_bare_metal_solution_for_oracle($alias="gcp_bare_metal_solution_for_oracle",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_bare_metal_solution_for_oracle",$sprite="$gcp_bare_metal_solution_for_oracle",$color=$color)
+gcp_style("gcp_bare_metal_solution_for_oracle")
+!endprocedure
+
+
 !unquoted procedure gcp_firebase_realtime_database($alias="gcp_firebase_realtime_database",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_firebase_realtime_database",$sprite="$gcp_firebase_realtime_database",$color=$color)
 gcp_style("gcp_firebase_realtime_database")
+!endprocedure
+
+
+!unquoted procedure gcp_datastream($alias="gcp_datastream",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_datastream",$sprite="$gcp_datastream",$color=$color)
+gcp_style("gcp_datastream")
 !endprocedure
 
 
@@ -593,15 +569,9 @@ gcp_style("gcp_developer_tools")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_sdk($alias="gcp_cloud_sdk",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_sdk",$sprite="$gcp_cloud_sdk",$color=$color)
-gcp_style("gcp_cloud_sdk")
-!endprocedure
-
-
-!unquoted procedure gcp_container_registry($alias="gcp_container_registry",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_container_registry",$sprite="$gcp_container_registry",$color=$color)
-gcp_style("gcp_container_registry")
+!unquoted procedure gcp_artifact_registry($alias="gcp_artifact_registry",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_artifact_registry",$sprite="$gcp_artifact_registry",$color=$color)
+gcp_style("gcp_artifact_registry")
 !endprocedure
 
 
@@ -611,9 +581,21 @@ gcp_style("gcp_cloud_build")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_source_repositories($alias="gcp_cloud_source_repositories",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_source_repositories",$sprite="$gcp_cloud_source_repositories",$color=$color)
-gcp_style("gcp_cloud_source_repositories")
+!unquoted procedure gcp_cloud_code($alias="gcp_cloud_code",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_code",$sprite="$gcp_cloud_code",$color=$color)
+gcp_style("gcp_cloud_code")
+!endprocedure
+
+
+!unquoted procedure gcp_cloud_deployment_manager($alias="gcp_cloud_deployment_manager",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_deployment_manager",$sprite="$gcp_cloud_deployment_manager",$color=$color)
+gcp_style("gcp_cloud_deployment_manager")
+!endprocedure
+
+
+!unquoted procedure gcp_cloud_sdk($alias="gcp_cloud_sdk",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_sdk",$sprite="$gcp_cloud_sdk",$color=$color)
+gcp_style("gcp_cloud_sdk")
 !endprocedure
 
 
@@ -623,9 +605,9 @@ gcp_style("gcp_cloud_scheduler")
 !endprocedure
 
 
-!unquoted procedure gcp_tekton($alias="gcp_tekton",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_tekton",$sprite="$gcp_tekton",$color=$color)
-gcp_style("gcp_tekton")
+!unquoted procedure gcp_cloud_source_repositories($alias="gcp_cloud_source_repositories",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_source_repositories",$sprite="$gcp_cloud_source_repositories",$color=$color)
+gcp_style("gcp_cloud_source_repositories")
 !endprocedure
 
 
@@ -635,27 +617,21 @@ gcp_style("gcp_cloud_tasks")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_code($alias="gcp_cloud_code",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_code",$sprite="$gcp_cloud_code",$color=$color)
-gcp_style("gcp_cloud_code")
+!unquoted procedure gcp_container_registry($alias="gcp_container_registry",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_container_registry",$sprite="$gcp_container_registry",$color=$color)
+gcp_style("gcp_container_registry")
 !endprocedure
 
 
-!unquoted procedure gcp_tools_for_visual_studio($alias="gcp_tools_for_visual_studio",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_tools_for_visual_studio",$sprite="$gcp_tools_for_visual_studio",$color=$color)
-gcp_style("gcp_tools_for_visual_studio")
+!unquoted procedure gcp_tekton($alias="gcp_tekton",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_tekton",$sprite="$gcp_tekton",$color=$color)
+gcp_style("gcp_tekton")
 !endprocedure
 
 
-!unquoted procedure gcp_tools_for_eclipse($alias="gcp_tools_for_eclipse",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_tools_for_eclipse",$sprite="$gcp_tools_for_eclipse",$color=$color)
-gcp_style("gcp_tools_for_eclipse")
-!endprocedure
-
-
-!unquoted procedure gcp_cloud_code_for_intellij($alias="gcp_cloud_code_for_intellij",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_code_for_intellij",$sprite="$gcp_cloud_code_for_intellij",$color=$color)
-gcp_style("gcp_cloud_code_for_intellij")
+!unquoted procedure gcp_tools_for_powershell($alias="gcp_tools_for_powershell",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_tools_for_powershell",$sprite="$gcp_tools_for_powershell",$color=$color)
+gcp_style("gcp_tools_for_powershell")
 !endprocedure
 
 
@@ -683,15 +659,21 @@ gcp_style("gcp_healthcare_natural_language_ai")
 !endprocedure
 
 
-!unquoted procedure gcp_hybrid_and_multi_cloud($alias="gcp_hybrid_and_multi_cloud",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_hybrid_and_multi_cloud",$sprite="$gcp_hybrid_and_multi_cloud",$color=$color)
-gcp_style("gcp_hybrid_and_multi_cloud")
+!unquoted procedure gcp_hybrid_and_multicloud($alias="gcp_hybrid_and_multicloud",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_hybrid_and_multicloud",$sprite="$gcp_hybrid_and_multicloud",$color=$color)
+gcp_style("gcp_hybrid_and_multicloud")
 !endprocedure
 
 
 !unquoted procedure gcp_anthos($alias="gcp_anthos",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_anthos",$sprite="$gcp_anthos",$color=$color)
 gcp_style("gcp_anthos")
+!endprocedure
+
+
+!unquoted procedure gcp_looker($alias="gcp_looker",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_looker",$sprite="$gcp_looker",$color=$color)
+gcp_style("gcp_looker")
 !endprocedure
 
 
@@ -755,27 +737,9 @@ gcp_style("gcp_management_tools")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_shell($alias="gcp_cloud_shell",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_shell",$sprite="$gcp_cloud_shell",$color=$color)
-gcp_style("gcp_cloud_shell")
-!endprocedure
-
-
-!unquoted procedure gcp_cloud_console($alias="gcp_cloud_console",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_console",$sprite="$gcp_cloud_console",$color=$color)
-gcp_style("gcp_cloud_console")
-!endprocedure
-
-
-!unquoted procedure gcp_cloud_deployment_manager($alias="gcp_cloud_deployment_manager",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_deployment_manager",$sprite="$gcp_cloud_deployment_manager",$color=$color)
-gcp_style("gcp_cloud_deployment_manager")
-!endprocedure
-
-
-!unquoted procedure gcp_cloud_mobile_app($alias="gcp_cloud_mobile_app",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_mobile_app",$sprite="$gcp_cloud_mobile_app",$color=$color)
-gcp_style("gcp_cloud_mobile_app")
+!unquoted procedure gcp_anthos_config_management($alias="gcp_anthos_config_management",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_anthos_config_management",$sprite="$gcp_anthos_config_management",$color=$color)
+gcp_style("gcp_anthos_config_management")
 !endprocedure
 
 
@@ -785,15 +749,51 @@ gcp_style("gcp_cloud_apis")
 !endprocedure
 
 
-!unquoted procedure gcp_private_catalog($alias="gcp_private_catalog",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_private_catalog",$sprite="$gcp_private_catalog",$color=$color)
-gcp_style("gcp_private_catalog")
+!unquoted procedure gcp_cloud_console($alias="gcp_cloud_console",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_console",$sprite="$gcp_cloud_console",$color=$color)
+gcp_style("gcp_cloud_console")
+!endprocedure
+
+
+!unquoted procedure gcp_cloud_mobile_app($alias="gcp_cloud_mobile_app",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_mobile_app",$sprite="$gcp_cloud_mobile_app",$color=$color)
+gcp_style("gcp_cloud_mobile_app")
+!endprocedure
+
+
+!unquoted procedure gcp_cloud_shell($alias="gcp_cloud_shell",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_cloud_shell",$sprite="$gcp_cloud_shell",$color=$color)
+gcp_style("gcp_cloud_shell")
+!endprocedure
+
+
+!unquoted procedure gcp_config_connector($alias="gcp_config_connector",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_config_connector",$sprite="$gcp_config_connector",$color=$color)
+gcp_style("gcp_config_connector")
 !endprocedure
 
 
 !unquoted procedure gcp_cost_management($alias="gcp_cost_management",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_cost_management",$sprite="$gcp_cost_management",$color=$color)
 gcp_style("gcp_cost_management")
+!endprocedure
+
+
+!unquoted procedure gcp_intelligent_management($alias="gcp_intelligent_management",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_intelligent_management",$sprite="$gcp_intelligent_management",$color=$color)
+gcp_style("gcp_intelligent_management")
+!endprocedure
+
+
+!unquoted procedure gcp_private_catalog($alias="gcp_private_catalog",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_private_catalog",$sprite="$gcp_private_catalog",$color=$color)
+gcp_style("gcp_private_catalog")
+!endprocedure
+
+
+!unquoted procedure gcp_terraform_on_google_cloud($alias="gcp_terraform_on_google_cloud",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_terraform_on_google_cloud",$sprite="$gcp_terraform_on_google_cloud",$color=$color)
+gcp_style("gcp_terraform_on_google_cloud")
 !endprocedure
 
 
@@ -815,15 +815,15 @@ gcp_style("gcp_migration")
 !endprocedure
 
 
-!unquoted procedure gcp_bigquery_data_transfer_service($alias="gcp_bigquery_data_transfer_service",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_bigquery_data_transfer_service",$sprite="$gcp_bigquery_data_transfer_service",$color=$color)
-gcp_style("gcp_bigquery_data_transfer_service")
+!unquoted procedure gcp_application_migration($alias="gcp_application_migration",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_application_migration",$sprite="$gcp_application_migration",$color=$color)
+gcp_style("gcp_application_migration")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_data_transfer($alias="gcp_cloud_data_transfer",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_data_transfer",$sprite="$gcp_cloud_data_transfer",$color=$color)
-gcp_style("gcp_cloud_data_transfer")
+!unquoted procedure gcp_bigquery_data_transfer_service($alias="gcp_bigquery_data_transfer_service",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_bigquery_data_transfer_service",$sprite="$gcp_bigquery_data_transfer_service",$color=$color)
+gcp_style("gcp_bigquery_data_transfer_service")
 !endprocedure
 
 
@@ -833,9 +833,9 @@ gcp_style("gcp_cloud_foundation_toolkit")
 !endprocedure
 
 
-!unquoted procedure gcp_transfer_service($alias="gcp_transfer_service",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_transfer_service",$sprite="$gcp_transfer_service",$color=$color)
-gcp_style("gcp_transfer_service")
+!unquoted procedure gcp_database_migration_service($alias="gcp_database_migration_service",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_database_migration_service",$sprite="$gcp_database_migration_service",$color=$color)
+gcp_style("gcp_database_migration_service")
 !endprocedure
 
 
@@ -851,15 +851,27 @@ gcp_style("gcp_migrate_for_compute_engine")
 !endprocedure
 
 
+!unquoted procedure gcp_rapid_assessment_&_migration_program_(ramp)($alias="gcp_rapid_assessment_&_migration_program_(ramp)",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_rapid_assessment_&_migration_program_(ramp)",$sprite="$gcp_rapid_assessment_&_migration_program_(ramp)",$color=$color)
+gcp_style("gcp_rapid_assessment_&_migration_program_(ramp)")
+!endprocedure
+
+
 !unquoted procedure gcp_transfer_appliance($alias="gcp_transfer_appliance",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_transfer_appliance",$sprite="$gcp_transfer_appliance",$color=$color)
 gcp_style("gcp_transfer_appliance")
 !endprocedure
 
 
-!unquoted procedure gcp_vm_migration($alias="gcp_vm_migration",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_vm_migration",$sprite="$gcp_vm_migration",$color=$color)
-gcp_style("gcp_vm_migration")
+!unquoted procedure gcp_storage_transfer_service($alias="gcp_storage_transfer_service",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_storage_transfer_service",$sprite="$gcp_storage_transfer_service",$color=$color)
+gcp_style("gcp_storage_transfer_service")
+!endprocedure
+
+
+!unquoted procedure gcp_vmware_engine($alias="gcp_vmware_engine",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_vmware_engine",$sprite="$gcp_vmware_engine",$color=$color)
+gcp_style("gcp_vmware_engine")
 !endprocedure
 
 
@@ -905,6 +917,12 @@ gcp_style("gcp_hybrid_connectivity")
 !endprocedure
 
 
+!unquoted procedure gcp_network_connectivity_center($alias="gcp_network_connectivity_center",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_network_connectivity_center",$sprite="$gcp_network_connectivity_center",$color=$color)
+gcp_style("gcp_network_connectivity_center")
+!endprocedure
+
+
 !unquoted procedure gcp_network_intelligence_center($alias="gcp_network_intelligence_center",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_network_intelligence_center",$sprite="$gcp_network_intelligence_center",$color=$color)
 gcp_style("gcp_network_intelligence_center")
@@ -926,18 +944,6 @@ gcp_style("gcp_network_telemetry")
 !unquoted procedure gcp_traffic_director($alias="gcp_traffic_director",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_traffic_director",$sprite="$gcp_traffic_director",$color=$color)
 gcp_style("gcp_traffic_director")
-!endprocedure
-
-
-!unquoted procedure gcp_virtual_private_cloud($alias="gcp_virtual_private_cloud",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_virtual_private_cloud",$sprite="$gcp_virtual_private_cloud",$color=$color)
-gcp_style("gcp_virtual_private_cloud")
-!endprocedure
-
-
-!unquoted procedure gcp_service_directory($alias="gcp_service_directory",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_service_directory",$sprite="$gcp_service_directory",$color=$color)
-gcp_style("gcp_service_directory")
 !endprocedure
 
 
@@ -971,12 +977,6 @@ gcp_style("gcp_kubernetes_engine_monitoring")
 !endprocedure
 
 
-!unquoted procedure gcp_service_monitoring($alias="gcp_service_monitoring",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_service_monitoring",$sprite="$gcp_service_monitoring",$color=$color)
-gcp_style("gcp_service_monitoring")
-!endprocedure
-
-
 !unquoted procedure gcp_cloud_trace($alias="gcp_cloud_trace",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_cloud_trace",$sprite="$gcp_cloud_trace",$color=$color)
 gcp_style("gcp_cloud_trace")
@@ -995,9 +995,9 @@ gcp_style("gcp_cloud_debugger")
 !endprocedure
 
 
-!unquoted procedure gcp_transparent_service_level_indicators($alias="gcp_transparent_service_level_indicators",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_transparent_service_level_indicators",$sprite="$gcp_transparent_service_level_indicators",$color=$color)
-gcp_style("gcp_transparent_service_level_indicators")
+!unquoted procedure gcp_intelligent_operations($alias="gcp_intelligent_operations",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_intelligent_operations",$sprite="$gcp_intelligent_operations",$color=$color)
+gcp_style("gcp_intelligent_operations")
 !endprocedure
 
 
@@ -1067,6 +1067,12 @@ gcp_style("gcp_secret_manager")
 !endprocedure
 
 
+!unquoted procedure gcp_beyondcorp_enterprise($alias="gcp_beyondcorp_enterprise",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_beyondcorp_enterprise",$sprite="$gcp_beyondcorp_enterprise",$color=$color)
+gcp_style("gcp_beyondcorp_enterprise")
+!endprocedure
+
+
 !unquoted procedure gcp_serverless_computing($alias="gcp_serverless_computing",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_serverless_computing",$sprite="$gcp_serverless_computing",$color=$color)
 gcp_style("gcp_serverless_computing")
@@ -1100,6 +1106,12 @@ gcp_style("gcp_workflows")
 !unquoted procedure gcp_storage($alias="gcp_storage",$label="",$color="#0A45A4")
 gcp_component($alias,$label,$stereo="gcp_storage",$sprite="$gcp_storage",$color=$color)
 gcp_style("gcp_storage")
+!endprocedure
+
+
+!unquoted procedure gcp_all_storage_products($alias="gcp_all_storage_products",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_all_storage_products",$sprite="$gcp_all_storage_products",$color=$color)
+gcp_style("gcp_all_storage_products")
 !endprocedure
 
 
@@ -1139,9 +1151,9 @@ gcp_style("gcp_archival_storage")
 !endprocedure
 
 
-!unquoted procedure gcp_cloud_data_transfer($alias="gcp_cloud_data_transfer",$label="",$color="#0A45A4")
-gcp_component($alias,$label,$stereo="gcp_cloud_data_transfer",$sprite="$gcp_cloud_data_transfer",$color=$color)
-gcp_style("gcp_cloud_data_transfer")
+!unquoted procedure gcp_storage_transfer_service($alias="gcp_storage_transfer_service",$label="",$color="#0A45A4")
+gcp_component($alias,$label,$stereo="gcp_storage_transfer_service",$sprite="$gcp_storage_transfer_service",$color=$color)
+gcp_style("gcp_storage_transfer_service")
 !endprocedure
 
 

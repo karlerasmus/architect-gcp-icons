@@ -6,62 +6,57 @@
     },
     {
         "name": "retail",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/retail.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/retail.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "consumer_packaged_goods",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/cpg.svg",
         "icon-type": "svg"
     },
     {
         "name": "financial_services",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/finance.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/finance.svg",
         "icon-type": "svg"
     },
     {
         "name": "healthcare_and_life_sciences",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/hcls.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/hcls.svg",
         "icon-type": "svg"
     },
     {
         "name": "media_and_entertainment",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/media.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/media.svg",
         "icon-type": "svg"
     },
     {
         "name": "telecommunications",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/telecommunications.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/telecommunications.svg",
         "icon-type": "svg"
     },
     {
         "name": "gaming",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/gaming.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/gaming.svg",
         "icon-type": "svg"
     },
     {
         "name": "manufacturing",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/manufacturing.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/manufacturing.svg",
         "icon-type": "svg"
     },
     {
-        "name": "energy",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/energy.svg",
+        "name": "supply_chain_and_logistics",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/supply-chain.svg",
         "icon-type": "svg"
     },
     {
         "name": "government",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/government.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/government.svg",
         "icon-type": "svg"
     },
     {
         "name": "education",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/education.svg",
-        "icon-type": "svg"
-    },
-    {
-        "name": "small_and_medium_business",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/smb.svg",
-        "icon-type": "svg"
-    },
-    {
-        "name": "cloud_natives",
-        "icon": "https://cloud.google.com//images/navigation/cloud-natives.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/education.svg",
         "icon-type": "svg"
     },
     {
@@ -80,7 +75,7 @@
         "icon-type": "svg"
     },
     {
-        "name": "data_management",
+        "name": "databases",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
@@ -101,6 +96,11 @@
     },
     {
         "name": "smart_analytics",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
+        "icon-type": "svg"
+    },
+    {
+        "name": "startups_and_smb",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
@@ -155,13 +155,18 @@
         "icon-type": "svg"
     },
     {
-        "name": "cloud_functions",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudfunctions",
+        "name": "anthos",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#anthos",
         "icon-type": "svg"
     },
     {
         "name": "ai_and_machine_learning",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
+        "icon-type": "svg"
+    },
+    {
+        "name": "vertex_ai",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/vertex-ai.svg",
         "icon-type": "svg"
     },
     {
@@ -195,11 +200,6 @@
         "icon-type": "svg"
     },
     {
-        "name": "ai_platform",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#aiplatform",
-        "icon-type": "svg"
-    },
-    {
         "name": "video_ai",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudvideointelligenceapi",
         "icon-type": "svg"
@@ -220,48 +220,13 @@
         "icon-type": "svg"
     },
     {
-        "name": "apigee_api_platform",
+        "name": "apigee_api_management",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform",
-        "icon-type": "svg"
-    },
-    {
-        "name": "analyze_apis",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apianalytics",
-        "icon-type": "svg"
-    },
-    {
-        "name": "monetize_apis",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apimonetization",
-        "icon-type": "svg"
-    },
-    {
-        "name": "apigee_hybrid",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform",
-        "icon-type": "svg"
-    },
-    {
-        "name": "apigee_sense",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeesense",
         "icon-type": "svg"
     },
     {
         "name": "cloud_endpoints",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudendpoints",
-        "icon-type": "svg"
-    },
-    {
-        "name": "developer_portal",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#developerportal",
-        "icon-type": "svg"
-    },
-    {
-        "name": "apigee_healthcare_apix",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform",
-        "icon-type": "svg"
-    },
-    {
-        "name": "apigee_open_banking_apix",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#apigeeapiplatform",
         "icon-type": "svg"
     },
     {
@@ -271,7 +236,12 @@
     },
     {
         "name": "appsheet",
-        "icon": "https://cloud.google.com//images/navigation/products/appsheet-icon.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/appsheet-icon.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "api_gateway",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/api-gateway.svg",
         "icon-type": "svg"
     },
     {
@@ -316,22 +286,22 @@
     },
     {
         "name": "bare_metal",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/bare-metal.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/bare-metal.svg",
         "icon-type": "svg"
     },
     {
         "name": "recommender",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/recommender.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/recommender.svg",
         "icon-type": "svg"
     },
     {
         "name": "vmware_engine",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/vmware-engine.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/vmware-engine.svg",
         "icon-type": "svg"
     },
     {
         "name": "cloud_run",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-run.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/cloud-run.svg",
         "icon-type": "svg"
     },
     {
@@ -376,17 +346,17 @@
     },
     {
         "name": "knative",
-        "icon": "https://cloud.google.com//images/navigation/products/knative.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/knative.svg",
         "icon-type": "svg"
     },
     {
         "name": "cloud_run",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-run.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/cloud-run.svg",
         "icon-type": "svg"
     },
     {
         "name": "cloud_code",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-code.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/cloud-code.svg",
         "icon-type": "svg"
     },
     {
@@ -401,7 +371,7 @@
     },
     {
         "name": "looker",
-        "icon": "https://cloud.google.com//images/navigation/products/cloud-looker.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/cloud-looker.svg",
         "icon-type": "svg"
     },
     {
@@ -426,12 +396,7 @@
     },
     {
         "name": "cloud_composer",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-composer.svg",
-        "icon-type": "svg"
-    },
-    {
-        "name": "data_catalog",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/cloud-data-catalog.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/cloud-composer.svg",
         "icon-type": "svg"
     },
     {
@@ -440,18 +405,18 @@
         "icon-type": "svg"
     },
     {
-        "name": "google_data_studio",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#datastudio",
+        "name": "dataplex",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/dataplex.svg",
         "icon-type": "svg"
     },
     {
-        "name": "google_marketing_platform",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudformarketing",
+        "name": "data_catalog",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/cloud-data-catalog.svg",
         "icon-type": "svg"
     },
     {
-        "name": "cloud_life_sciences",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#genomics",
+        "name": "analytics_hub",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/analytics-hub.svg",
         "icon-type": "svg"
     },
     {
@@ -485,8 +450,23 @@
         "icon-type": "svg"
     },
     {
+        "name": "database_migration_service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/database-migration-service.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "bare_metal_solution_for_oracle",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/bare-metal.svg",
+        "icon-type": "svg"
+    },
+    {
         "name": "firebase_realtime_database",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/firebase.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/firebase.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "datastream",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/datastream.svg",
         "icon-type": "svg"
     },
     {
@@ -495,13 +475,8 @@
         "icon-type": "svg"
     },
     {
-        "name": "cloud_sdk",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
-        "icon-type": "svg"
-    },
-    {
-        "name": "container_registry",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#containerregistry",
+        "name": "artifact_registry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/artifact-registry.svg",
         "icon-type": "svg"
     },
     {
@@ -510,8 +485,18 @@
         "icon-type": "svg"
     },
     {
-        "name": "cloud_source_repositories",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#logging",
+        "name": "cloud_code",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
+        "icon-type": "svg"
+    },
+    {
+        "name": "cloud_deployment_manager",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/deployment-manager.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "cloud_sdk",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
         "icon-type": "svg"
     },
     {
@@ -520,9 +505,9 @@
         "icon-type": "svg"
     },
     {
-        "name": "tekton",
-        "icon": "https://cloud.google.com//images/navigation/products/tekton.png",
-        "icon-type": "img"
+        "name": "cloud_source_repositories",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#logging",
+        "icon-type": "svg"
     },
     {
         "name": "cloud_tasks",
@@ -530,23 +515,18 @@
         "icon-type": "svg"
     },
     {
-        "name": "cloud_code",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
+        "name": "container_registry",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#containerregistry",
         "icon-type": "svg"
     },
     {
-        "name": "tools_for_visual_studio",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
-        "icon-type": "svg"
+        "name": "tekton",
+        "icon": "https://cloud.google.com/images/navigation/products/tekton.png",
+        "icon-type": "img"
     },
     {
-        "name": "tools_for_eclipse",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
-        "icon-type": "svg"
-    },
-    {
-        "name": "cloud_code_for_intellij",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudcode",
+        "name": "tools_for_powershell",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/tools-for-powershell.svg",
         "icon-type": "svg"
     },
     {
@@ -566,17 +546,22 @@
     },
     {
         "name": "healthcare_natural_language_ai",
-        "icon": "https://cloud.google.com//images/navigation/products/healthcare.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/healthcare.svg",
         "icon-type": "svg"
     },
     {
-        "name": "hybrid_and_multi_cloud",
+        "name": "hybrid_and_multicloud",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#supercloud",
         "icon-type": "svg"
     },
     {
         "name": "anthos",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#anthos",
+        "icon-type": "svg"
+    },
+    {
+        "name": "looker",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/looker.svg",
         "icon-type": "svg"
     },
     {
@@ -630,23 +615,8 @@
         "icon-type": "svg"
     },
     {
-        "name": "cloud_shell",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudshell",
-        "icon-type": "svg"
-    },
-    {
-        "name": "cloud_console",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
-        "icon-type": "svg"
-    },
-    {
-        "name": "cloud_deployment_manager",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#clouddeploymentmanager",
-        "icon-type": "svg"
-    },
-    {
-        "name": "cloud_mobile_app",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "name": "anthos_config_management",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/anthos-config-management.svg",
         "icon-type": "svg"
     },
     {
@@ -655,14 +625,44 @@
         "icon-type": "svg"
     },
     {
+        "name": "cloud_console",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "icon-type": "svg"
+    },
+    {
+        "name": "cloud_mobile_app",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "icon-type": "svg"
+    },
+    {
+        "name": "cloud_shell",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudshell",
+        "icon-type": "svg"
+    },
+    {
+        "name": "config_connector",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "icon-type": "svg"
+    },
+    {
+        "name": "cost_management",
+        "icon": "https://cloud.google.com/images/navigation/products/billing.png",
+        "icon-type": "img"
+    },
+    {
+        "name": "intelligent_management",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "icon-type": "svg"
+    },
+    {
         "name": "private_catalog",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#marketplace",
         "icon-type": "svg"
     },
     {
-        "name": "cost_management",
-        "icon": "https://cloud.google.com//images/navigation/products/billing.png",
-        "icon-type": "img"
+        "name": "terraform_on_google_cloud",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
+        "icon-type": "svg"
     },
     {
         "name": "game_servers",
@@ -671,7 +671,7 @@
     },
     {
         "name": "opencue",
-        "icon": "https://cloud.google.com//images/navigation/products/opencue.png",
+        "icon": "https://cloud.google.com/images/navigation/products/opencue.png",
         "icon-type": "img"
     },
     {
@@ -680,13 +680,13 @@
         "icon-type": "svg"
     },
     {
-        "name": "bigquery_data_transfer_service",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigquery",
+        "name": "application_migration",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/application-migration.svg",
         "icon-type": "svg"
     },
     {
-        "name": "cloud_data_transfer",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transfer",
+        "name": "bigquery_data_transfer_service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#bigquery",
         "icon-type": "svg"
     },
     {
@@ -695,8 +695,8 @@
         "icon-type": "svg"
     },
     {
-        "name": "transfer_service",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transfer",
+        "name": "database_migration_service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/database-migration.svg",
         "icon-type": "svg"
     },
     {
@@ -710,13 +710,23 @@
         "icon-type": "svg"
     },
     {
+        "name": "rapid_assessment_&_migration_program_(ramp)",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/rapid-assessment.svg",
+        "icon-type": "svg"
+    },
+    {
         "name": "transfer_appliance",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transferappliance",
         "icon-type": "svg"
     },
     {
-        "name": "vm_migration",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#computeengine",
+        "name": "storage_transfer_service",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#transfer",
+        "icon-type": "svg"
+    },
+    {
+        "name": "vmware_engine",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/vmware-engine.svg",
         "icon-type": "svg"
     },
     {
@@ -755,8 +765,13 @@
         "icon-type": "svg"
     },
     {
+        "name": "network_connectivity_center",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/network-connectivity-center.svg",
+        "icon-type": "svg"
+    },
+    {
         "name": "network_intelligence_center",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/network-intelligence.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/network-intelligence.svg",
         "icon-type": "svg"
     },
     {
@@ -772,16 +787,6 @@
     {
         "name": "traffic_director",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#trafficdirector",
-        "icon-type": "svg"
-    },
-    {
-        "name": "virtual_private_cloud",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#virtualprivatecloud",
-        "icon-type": "svg"
-    },
-    {
-        "name": "service_directory",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#servicediscovery",
         "icon-type": "svg"
     },
     {
@@ -810,11 +815,6 @@
         "icon-type": "svg"
     },
     {
-        "name": "service_monitoring",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#monitoring",
-        "icon-type": "svg"
-    },
-    {
         "name": "cloud_trace",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#trace",
         "icon-type": "svg"
@@ -830,8 +830,8 @@
         "icon-type": "svg"
     },
     {
-        "name": "transparent_service_level_indicators",
-        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#monitoring",
+        "name": "intelligent_operations",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#generic",
         "icon-type": "svg"
     },
     {
@@ -846,7 +846,7 @@
     },
     {
         "name": "assured_workloads",
-        "icon": "https://cloud.google.com//images/navigation/products/assured-workloads.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/assured-workloads.svg",
         "icon-type": "svg"
     },
     {
@@ -856,7 +856,7 @@
     },
     {
         "name": "confidential_computing",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/compute-engine.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/compute-engine.svg",
         "icon-type": "svg"
     },
     {
@@ -886,7 +886,12 @@
     },
     {
         "name": "secret_manager",
-        "icon": "https://cloud.google.com//images/navigation/products/secret-manager.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/secret-manager.svg",
+        "icon-type": "svg"
+    },
+    {
+        "name": "beyondcorp_enterprise",
+        "icon": "https://cloud.google.com/images/navigation/products/beyond-corp.svg",
         "icon-type": "svg"
     },
     {
@@ -920,6 +925,11 @@
         "icon-type": "svg"
     },
     {
+        "name": "all_storage_products",
+        "icon": "https://www.gstatic.com/cloud/images/navigation/all-storage-products.svg",
+        "icon-type": "svg"
+    },
+    {
         "name": "cloud_storage",
         "icon": "https://www.gstatic.com/cloud/images/navigation/icons.svg#cloudstorage",
         "icon-type": "svg"
@@ -936,27 +946,27 @@
     },
     {
         "name": "cloud_storage_for_firebase",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/firebase.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/firebase.svg",
         "icon-type": "svg"
     },
     {
         "name": "local_ssd",
-        "icon": "https://cloud.google.com//_static/cloud/images/navigation/products/local-ssd.svg",
+        "icon": "https://cloud.google.com/_static/cloud/images/navigation/products/local-ssd.svg",
         "icon-type": "svg"
     },
     {
         "name": "archival_storage",
-        "icon": "https://cloud.google.com//images/navigation/products/archival-storage.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/archival-storage.svg",
         "icon-type": "svg"
     },
     {
-        "name": "cloud_data_transfer",
-        "icon": "https://cloud.google.com//images/navigation/products/cloud-data-transfer.svg",
+        "name": "storage_transfer_service",
+        "icon": "https://cloud.google.com/images/navigation/products/cloud-data-transfer.svg",
         "icon-type": "svg"
     },
     {
         "name": "google_workspace_essentials",
-        "icon": "https://cloud.google.com//images/navigation/products/drive-enterprise.svg",
+        "icon": "https://cloud.google.com/images/navigation/products/drive-enterprise.svg",
         "icon-type": "svg"
     }
 ]
